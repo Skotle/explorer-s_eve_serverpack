@@ -1,0 +1,3 @@
+#No. This triggers every tick, by the way. DEBUG, Ice Ring is intentionally not checked because I can't do that easily...
+execute if entity @s[curios={item:{id:"aether:ice_pendant"}}] run function explorers_eve:boss/blinding/drop_frigid_gemstone
+execute if entity @s[curios={item:{id:"aether:ice_pendant",tag:{Unbreakable:1b,Damage:0,HideFlags:4,display:{Lore:['{"text":"Freezes water and lava near the wearer.","color":"gray","italic":false}','{"text":"Explorer\'s Treasure","color":"gold"}']}}}}] run function explorers_eve:boss/blinding/drop_frigid_gemstones

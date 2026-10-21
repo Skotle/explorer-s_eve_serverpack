@@ -1,0 +1,19 @@
+{
+  "comment": "Used for common blocks to stop the ground from being unbearable, or things that could be valuable",
+  "values": [
+    "minecraft:beacon",
+    "#minecraft:wither_immune",
+    "minecraft:clay",
+    "minecraft:dirt_path",
+    "#minecraft:needs_diamond_tool",
+    "#forge:gravel",
+    "#forge:stone",
+    "#minecraft:sand",
+    "minecraft:red_sandstone",
+    "minecraft:sandstone",
+    "minecraft:fire",
+    "#forge:ores",
+    "#minecraft:dirt",
+    "witherstormmod:firework_bundle"
+  ]
+}

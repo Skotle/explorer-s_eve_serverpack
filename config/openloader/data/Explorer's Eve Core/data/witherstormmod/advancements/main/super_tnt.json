@@ -1,0 +1,33 @@
+{
+  "parent": "witherstormmod:main/echo_shard",
+  "display": {
+    "icon": {
+      "item": "witherstormmod:super_tnt"
+    },
+    "title": "Marvelous Impossible Object",
+    "description": "Obtain Super TNT, a long-lost invention with formidible potential",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "inventory_changed": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "witherstormmod:super_tnt"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "inventory_changed"
+    ]
+  ]
+}

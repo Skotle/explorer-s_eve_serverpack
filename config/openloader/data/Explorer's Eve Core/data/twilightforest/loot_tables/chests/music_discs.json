@@ -1,0 +1,47 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "twilightforest:music_disc_home"
+        },
+		{
+          "type": "minecraft:item",
+          "name": "twilightforest:music_disc_radiance"
+        },
+		{
+          "type": "minecraft:item",
+          "name": "twilightforest:music_disc_steps"
+        },
+		{
+          "type": "minecraft:item",
+          "name": "twilightforest:music_disc_thread"
+        },
+		{
+          "type": "minecraft:item",
+          "name": "twilightforest:music_disc_motion"
+        },
+		{
+          "type": "minecraft:item",
+          "name": "twilightforest:music_disc_findings"
+        },
+		{
+          "type": "minecraft:item",
+          "name": "twilightforest:music_disc_wayfarer"
+        },
+		{
+          "type": "minecraft:item",
+          "name": "twilightforest:music_disc_maker"
+        },
+		{
+          "type": "minecraft:item",
+          "name": "twilightforest:music_disc_superstitious"
+        }
+      ]
+    }
+  ]
+}

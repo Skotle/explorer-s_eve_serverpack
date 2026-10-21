@@ -1,0 +1,7 @@
+{
+  "block": "#minecraft:small_flowers",
+  "potion_effect": "minecraft:wither",
+  "replacement": {
+    "Name": "minecraft:wither_rose"
+  }
+}

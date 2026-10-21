@@ -1,0 +1,60 @@
+{
+  "parent": "twilightforest:ghast_trap",
+  "criteria": {
+    "ghast": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "twilightforest:ur_ghast",
+              "location": {
+                "dimension": "twilightforest:twilight_forest"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "trophy": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "twilightforest:ur_ghast_trophy"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancement.twilightforest.progress_ur_ghast.desc",
+      "with": [
+        {
+          "translate": "entity.twilightforest.ur_ghast"
+        }
+      ]
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "twilightforest:ur_ghast_trophy"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancement.twilightforest.progress_ur_ghast"
+    }
+  },
+  "requirements": [
+    [
+      "ghast",
+      "trophy"
+    ]
+  ]
+}

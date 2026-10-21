@@ -1,0 +1,40 @@
+{
+    "name": "Withered Beacon",
+    "icon": "witherstormmod:super_beacon",
+    "category": "patchouli:endgame",
+	"advancement": "explorers_eve:book/star",
+	"priority": "true",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Wither Storm is no more. As a reward for your great efforts, you've received a $(item)Withered Nether Star$().$(br2)Just as with a normal Nether Star, this can be used to make a beacon, though it'll be more powerful (and more expensive) than any other. Gather tainted blocks from the Wither Storm's remains, and get ready to mine and craft."
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "witherstormmod:super_beacon",
+            "text": "In its most basic form, the $(item)Withered Beacon$() can be placed atop a 3x3 square of $(thing)lapis lazuli blocks$(). You can then select any effect you want from a long list, and it'll function similarly to a normal beacon."
+        },
+		{
+            "type": "patchouli:crafting",
+			"title": "Support Beacon",
+			"recipe": "witherstormmod:super_support_beacon",
+            "text": "To see its true power, you'll need up to four $(item)Withered Support Beacons$(). These are placed atop 3x3 squares of $(thing)iron, redstone, emerald, and diamond blocks$(), and they must be within 5 blocks of the main beacon."
+        },
+		{
+            "type": "patchouli:image",
+			"images": [
+                "patchouli:withered_beacon_full.png"
+            ],
+			"border": true,
+			"text": "It'll look something like this when it's fully built!"
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Each support beacon can be given its own effect, which will apply $(thing)infinitely$() in the direction the support beacon is from the central beacon.$(br2)If that still isn't enough power, you can also build up to three more pyramid layers underneath the central beacon using any of the material blocks that affect normal beacons. Each layer will boost the beacon's effect power by one level, but they won't increase its range."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "The Withered Beacon is also used to summon creatures and create items. Some of these recipes are available immediately, while others are only possible with all four support beacons active. No recipes require additonal pyramid layers. Read some of the other entries in this category to see the full extent of this beacon's abilities."
+        }
+    ]
+}

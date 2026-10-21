@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "eat_apple": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "twilightforest:meef_stroganoff"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "explorers_eve:item/eat_stroganoff"
+  }
+}

@@ -1,0 +1,64 @@
+{
+    "format_version": 2,
+	"tractor_beams":
+	{
+		"red": 64,
+		"green": 39,
+		"blue": 153
+	},
+	"tractor_beams_night":
+	{
+		"red": 64,
+		"green": 39,
+		"blue": 153
+	},
+	"night_shine":
+	{
+		"red": 150,
+		"green": 59,
+		"blue": 255,
+		"alpha": 75
+	},
+	"day":
+	{
+		"sky_darken":
+		{
+			"red": 30,
+			"green": 0,
+			"blue": 30
+		},
+		"sky_darken_clouds":
+		{
+			"red": 10,
+			"green": 10,
+			"blue": 10
+		},
+		"sky_darken_fog":
+		{
+			"red": 76,
+			"green": 34,
+			"blue": 124
+		}
+	},
+	"night":
+	{
+		"sky_darken":
+		{
+			"red": 60,
+			"green": 0,
+			"blue": 60
+		},
+		"sky_darken_clouds":
+		{
+			"red": 10,
+			"green": 10,
+			"blue": 10
+		},
+		"sky_darken_fog":
+		{
+			"red": 128,
+			"green": 64,
+			"blue": 128
+		}
+	}
+}

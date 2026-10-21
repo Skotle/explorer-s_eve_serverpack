@@ -1,0 +1,86 @@
+{
+  "criteria": {
+    "1": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "from": "minecraft:the_nether",
+        "to": "minecraft:overworld"
+      }
+    },
+    "2": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "from": "twilightforest:twilight_forest",
+        "to": "minecraft:overworld"
+      }
+    },
+    "3": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "minecraft:the_nether"
+      }
+    },
+	"4": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "blue_skies:everbright"
+      }
+    },
+    "5": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "blue_skies:everdawn"
+      }
+    },
+    "6": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "from": "blue_skies:everbright",
+        "to": "minecraft:overworld"
+      }
+    },
+    "7": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "from": "blue_skies:everdawn",
+        "to": "minecraft:overworld"
+      }
+    },
+    "8": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "twilightforest:twilight_forest"
+      }
+    },
+    "9": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "aether:the_aether"
+      }
+    },
+    "10": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "from": "aether:the_aether",
+        "to": "minecraft:overworld"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  ],
+  "rewards": {
+    "function": "explorers_eve:world/dimension_spawn_point"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "witherstormmod:item_craft_super_beacon",
+ 	"ingredients": [
+		{
+            "item": "witherstormmod:tainted_dust"
+        },
+		{
+            "item": "cataclysm:witherite_ingot"
+        },
+		{
+            "item": "witherstormmod:tainted_dust"
+        },
+ 		{
+			"type": "forge:partial_nbt",
+            "item": "blue_skies:life_arc",
+			"nbt": "{ArcLevel:1}"
+        }
+  	],
+  "result": {
+    "item": "blue_skies:life_arc",
+    "nbt": "{ArcLevel:2}"
+  },
+  	"condition": "all_supports"
+}

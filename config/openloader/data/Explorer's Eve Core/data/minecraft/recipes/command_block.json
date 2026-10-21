@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "item": "witherstormmod:command_block_book"
+    },
+    "P": {
+      "item": "twilightforest:knightmetal_ingot"
+    },
+    "C": {
+      "item": "twilightforest:knightmetal_ring"
+    },
+	"W": {
+      "item": "minecraft:crafting_table"
+    }
+  },
+  "pattern": [
+    "PBP",
+    "PCP",
+    "PWP"
+  ],
+  "result": {
+    "item": "minecraft:command_block"
+  }
+}

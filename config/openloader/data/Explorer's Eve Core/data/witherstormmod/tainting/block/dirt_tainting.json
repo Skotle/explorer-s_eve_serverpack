@@ -1,0 +1,7 @@
+{
+  "block": "#minecraft:dirt",
+  "potion_effect": "minecraft:wither",
+  "replacement": {
+    "Name": "witherstormmod:tainted_dirt"
+  }
+}

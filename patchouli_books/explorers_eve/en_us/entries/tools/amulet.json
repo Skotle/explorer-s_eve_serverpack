@@ -1,0 +1,27 @@
+{
+    "name": "The Amulet",
+    "icon": "witherstormmod:amulet",
+    "category": "patchouli:tools",
+	"advancement": "explorers_eve:book/phase_6",
+	"priority": "true",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The $(item)Amulet$() is a powerful tool that grants its holder unparalleled perception. It can track exactly how far away the Wither Storm and any other entity of choice is, and it also unlocks the ability to view a $(item)world map$() using $(1)$(k:gui.xaero_open_map)$() to view everywhere you've traveled."
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "witherstormmod:amulet",
+			"text": "Just $(1)$(k:use)$() an entity while holding the Amulet to bind it to the topmost color. Use $(1)$(k:sneak)$() and $(1)$(k:use)$() to rotate the Amulet and change the selected color."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "When you face towards any entity similar to the one you bound the Amulet to, the respective color will start to glow.$(br2)If you'd rather have the Amulet track only the specific entity you select, craft it with a single piece of $(item)Glowstone Dust$() to change its behavior. You can give it another piece of $(item)Tainted Dust$() to revert it back to tracking entity types instead."
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "witherstormmod:amulet_track_single",
+			"recipe2": "witherstormmod:amulet_track_type"
+        }
+    ]
+}

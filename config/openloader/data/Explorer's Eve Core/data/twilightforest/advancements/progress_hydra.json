@@ -1,0 +1,60 @@
+{
+  "parent": "twilightforest:ironwood",
+  "criteria": {
+    "kill_hydra": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "twilightforest:hydra",
+              "location": {
+                "dimension": "twilightforest:twilight_forest"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "trophy": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "twilightforest:hydra_trophy"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancement.twilightforest.kill_hydra.desc",
+      "with": [
+        {
+          "translate": "entity.twilightforest.hydra"
+        }
+      ]
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "twilightforest:hydra_trophy"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancement.twilightforest.kill_hydra"
+    }
+  },
+  "requirements": [
+    [
+      "kill_hydra",
+      "trophy"
+    ]
+  ]
+}

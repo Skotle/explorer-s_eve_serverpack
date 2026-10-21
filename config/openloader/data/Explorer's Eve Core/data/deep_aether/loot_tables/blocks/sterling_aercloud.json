@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "deep_aether:sterling_aercloud",
+		  "functions": [
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+				{
+                  "text": "Can be purified into a Chromatic Aercloud using an Alchemy Table.",
+                  "color": "gray",
+                  "italic": false
+                }
+              ]
+            }
+		  ]
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

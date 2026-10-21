@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "tag": "forge:ingots/fiery"
+    }
+  },
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "result": {
+    "nbt": "{Enchantments:[{id:\"minecraft:fire_protection\",lvl:2s}],AttributeModifiers:[{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:2,Operation:0,UUID:[I;1103903487,988038293,-1760051332,1949120450],Slot:\"head\"},{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:3,Operation:0,UUID:[I;-1874884410,501563429,-1107557424,1343363242],Slot:\"head\"}]}",
+    "item": "twilightforest:fiery_helmet",
+    "type": "minecraft:item_nbt"
+  }
+}

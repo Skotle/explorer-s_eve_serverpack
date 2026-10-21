@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " c ",
+        "pfp",
+        " c "
+    ],
+    "key": {
+        "f": {
+            "item": "blue_skies:falsite_ingot"
+        },
+        "c": {
+            "item": "deep_aether:chromatic_aercloud"
+        },
+        "p": {
+            "item": "lost_aether_content:enchanted_pink_aercloud"
+        }
+    },
+    "result": {
+        "item": "deep_aether:stratus_ingot"
+    }
+}

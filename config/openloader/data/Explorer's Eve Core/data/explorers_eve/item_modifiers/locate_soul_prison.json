@@ -1,0 +1,6 @@
+{
+"function" : "minecraft:exploration_map",
+"destination" : "explorers_eve:soul_prison",
+"skip_existing_chunks" : false,
+"search_radius" : 150
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "cataclysm:enderite_ingot"
+        }
+    },
+    "result": {
+        "item": "cataclysm:enderite_block",
+        "count": 1
+    }
+}

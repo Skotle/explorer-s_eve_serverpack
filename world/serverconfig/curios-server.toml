@@ -1,0 +1,14 @@
+
+#List of curio slot type settings
+[[curiosSettings]]
+	identifier = "ring"
+	visible = false
+
+[[curiosSettings]]
+	identifier = "body"
+	visible = false
+
+[[curiosSettings]]
+	identifier = "back"
+	visible = false
+

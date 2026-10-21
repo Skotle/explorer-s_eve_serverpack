@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "values": [
+    "twilightforest:dark_forest",
+    "twilightforest:dark_forest_center",
+    "twilightforest:dark_forest_edge",
+    "twilightforest:lake",
+    "twilightforest:enchanted_forest"
+  ]
+}

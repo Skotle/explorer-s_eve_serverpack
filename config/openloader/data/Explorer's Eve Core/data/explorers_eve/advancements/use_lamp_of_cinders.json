@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "twilightforest:lamp_of_cinders"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "explorers_eve:item/lamp_of_cinders/using"
+  }
+}

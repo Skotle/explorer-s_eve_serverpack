@@ -1,0 +1,121 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "blue_skies:aquatic_arc",
+		  "functions": [
+			{
+              "function": "minecraft:set_nbt",
+              "tag": "{ArcLevel:1}"
+            }
+		  ]
+        }
+      ],
+      "rolls": 1.0
+    },
+	{
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "blue_skies:crushing_hammer",
+		  "functions": [
+			{
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:4,Unbreakable:1b}"
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Explorer's Treasure",
+                  "color": "gold"
+                }
+              ]
+            }
+		  ]
+        }
+      ],
+      "rolls": 1.0
+    },
+	{
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "twilightforest:ice_sword",
+		  "functions": [
+			{
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:4,Unbreakable:1b}"
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Freezes targets on hit.",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "Explorer's Treasure",
+                  "color": "gold"
+                }
+              ]
+            }
+		  ]
+        }
+      ],
+      "rolls": 1.0
+    },
+	{
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "blue_skies:zeal_lighter",
+		  "functions": [
+			{
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:4,Unbreakable:1b,RepairCost:99,Enchantments:[{}]}"
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Creates fires. Can also activate permanent portals to the Everbright and Everdawn.",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "It struggles to light fuses...",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "Explorer's Treasure",
+                  "color": "gold"
+                }
+              ]
+            }
+		  ]
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "explorers_eve:item/charm_of_keeping"
+        }
+      ]
+    }
+  ]
+}

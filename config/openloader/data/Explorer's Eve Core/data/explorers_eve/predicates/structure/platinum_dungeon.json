@@ -1,0 +1,8 @@
+[
+  {
+	"condition": "minecraft:location_check",
+	"predicate": {
+	  "structure": "lost_aether_content:platinum_dungeon"
+	}
+  }
+]

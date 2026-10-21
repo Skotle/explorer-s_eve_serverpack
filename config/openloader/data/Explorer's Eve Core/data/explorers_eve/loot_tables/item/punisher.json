@@ -1,0 +1,76 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:fishing_rod",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "The Punisher",
+                "color": "blue",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {
+                    "text": "\nA rage-inducing relic from a bygone age...\n",
+                    "color": "white",
+                    "italic": true
+                  },
+                  {
+                    "text": "Explorer's Treasure\n\n",
+                    "color": "gold",
+                    "italic": true
+                  },
+                  {
+                    "text": "When in Main Hand:\n",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": " 8 Attack Damage\n 4 Attack Speed",
+                    "color": "dark_green",
+                    "italic": false
+                  }
+                ]
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:6,RepairCost:99,Unbreakable:1b,Punisher:1}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "PunisherMelee",
+                  "amount": 1.5,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": 10,
+                "minecraft:fire_aspect": 2,
+                "minecraft:knockback": 2
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

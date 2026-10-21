@@ -1,0 +1,19 @@
+{
+  "structures": [
+    {
+      "structure": "betterdungeons:skeleton_dungeon",
+      "weight": 1
+    }
+  ],
+  "placement": {
+	"frequency": 0.0,
+    "salt": 732581671,
+    "spacing": 10,
+    "separation": 8,
+    "exclusion_zone": {
+      "chunk_count": 10,
+      "other_set": "minecraft:ancient_cities"
+    },
+    "type": "minecraft:random_spread"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "hit": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "damage": {
+          "source_entity": {
+            "type": "witherstormmod:withered_symbiont",
+            "equipment": {
+              "mainhand": {
+                "items": [
+                  "witherstormmod:formidi_blade"
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "explorers_eve:symbiont/blade/hit"
+  }
+}

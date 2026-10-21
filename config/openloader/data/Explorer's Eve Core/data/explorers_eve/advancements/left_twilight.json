@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "leave_twilight": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "from": "twilightforest:twilight_forest"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Coruscant Panels",
+    "icon": "twilightforest:knightmetal_ingot",
+    "category": "patchouli:tools",
+	"advancement": "explorers_eve:book/phase_6",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Coruscant Panels are valuable treasures hidden in dungeons $(thing)everywhere except the Nether$(). To find them, you can use a $(item)Tainted Gem$(). Place a ring of 8 tainted dust on the ground, then stand in the middle while holding a single diamond to attune it to the nearest structure containing Coruscant Panels. The gem will flash brightly when you face in the proper direction."
+        },
+		{
+			"type": "patchouli:spotlight",
+			"title": "Tainted Gem",
+			"item": "minecraft:compass{CustomModelData:1,LodestoneTracked:1b,display:{Name:\\'{\"text\":\"Tainted Gem\",\"color\":\"light_purple\",\"italic\":false}\\'}}",
+            "text": "You can repeat this to reattune the gem whenever you want.$(br2)Additionally, if you place $(thing)Sandstone, Snow, Mossy Cobblestone, Prismarine, or Quartz$() in the center of the ring to attune the gem, it will instead lead you to a specific structure containing $(item)Echo Shards$()."
+		}
+    ]
+}

@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "rbi",
+    "fdf",
+    "ibr"
+  ],
+  "key": {
+    "b": [
+      {
+        "item": "witherstormmod:withered_bone"
+      },
+      {
+        "item": "witherstormmod:tainted_dust"
+      }
+    ],
+    "f": [
+      {
+        "item": "witherstormmod:withered_flesh"
+      },
+      {
+        "item": "witherstormmod:tainted_dust"
+      }
+    ],
+    "d": {
+      "item": "minecraft:diamond"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "cataclysm:void_eye",
+	"nbt": "{display:{Lore:['{\"text\":\"Use to provoke the Wither Storm. When far away, it will begin to chase the nearest player. When nearby, it will attempt to summon a Withered Symbiont.\",\"color\":\"gray\",\"italic\":false}']}}"
+  }
+}
+

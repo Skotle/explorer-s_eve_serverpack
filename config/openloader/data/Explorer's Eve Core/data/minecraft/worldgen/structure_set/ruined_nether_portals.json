@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "minecraft:ruined_portal_nether",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 135695613,
+    "spacing": 40,
+    "separation": 15,
+    "type": "minecraft:random_spread"
+  }
+}

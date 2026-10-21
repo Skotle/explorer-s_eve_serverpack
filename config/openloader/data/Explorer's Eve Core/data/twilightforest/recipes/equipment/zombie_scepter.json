@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+	{
+      "type": "forge:partial_nbt",
+      "item": "twilightforest:zombie_scepter",
+      "nbt": "{Damage:9}"
+    },
+    {
+      "item": "minecraft:rotten_flesh"
+    },
+    {
+      "item": "twilightforest:ironwood_ingot"
+    }
+  ],
+  "result": {
+    "item": "twilightforest:zombie_scepter",
+	"nbt": "{display:{Lore:['{\"text\":\"Summons loyal zombies.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Explorer\\'s Treasure\",\"color\":\"gold\"}']}}"
+  }
+}

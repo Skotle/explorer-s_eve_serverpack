@@ -1,0 +1,44 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "twilightforest:lamp_of_cinders",
+		  "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Empowered:1b}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Shoots several fireballs and sets nearby monsters on fire for a very long time when charged and released. Also burns thorns.",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "Explorer's Treasure",
+                  "color": "gold",
+                  "italic": true
+                },
+                {
+                  "text": "Empowered",
+                  "color": "light_purple",
+                  "italic": true
+                },
+                {
+                  "text": "Can be charged longer to shoot additional fireballs and summon a defensive ring of fire crystals.",
+                  "color": "gray",
+                  "italic": false
+                }
+              ]
+            }
+		  ]
+        }
+      ]
+    }
+  ]
+}

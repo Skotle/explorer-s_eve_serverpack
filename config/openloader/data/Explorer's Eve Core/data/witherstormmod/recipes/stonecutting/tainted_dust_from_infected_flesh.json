@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "witherstormmod:infected_flesh_block"
+  },
+  "result": "witherstormmod:tainted_dust"
+}

@@ -1,0 +1,7 @@
+{
+  "block": "minecraft:smooth_sandstone",
+  "potion_effect": "minecraft:wither",
+  "replacement": {
+    "Name": "witherstormmod:tainted_smooth_sandstone"
+  }
+}

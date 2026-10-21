@@ -1,0 +1,31 @@
+{
+  "parent": "witherstormmod:main/weakened_arise_stronger",
+  "display": {
+    "icon": {
+      "item": "twilightforest:knightmetal_ingot"
+    },
+    "title": "Some Assembly Required",
+    "description": "Gather the scattered panels needed to craft a Command Block",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "panels": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "twilightforest:knightmetal_ingot"
+            ],
+            "count": {
+              "min": 6
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "structures": [
+	{
+      "structure": "minecraft:ruined_portal",
+      "weight": 1
+    },
+    {
+      "structure": "minecraft:ruined_portal_desert",
+      "weight": 1
+    },
+    {
+      "structure": "minecraft:ruined_portal_jungle",
+      "weight": 1
+    },
+    {
+      "structure": "minecraft:ruined_portal_swamp",
+      "weight": 1
+    },
+    {
+      "structure": "minecraft:ruined_portal_mountain",
+      "weight": 1
+    },
+    {
+      "structure": "minecraft:ruined_portal_ocean",
+      "weight": 1
+    },
+	{
+      "structure": "aether:ruined_portal",
+      "weight": 2
+    },
+    {
+      "structure": "aether:ruined_portal_desert",
+      "weight": 2
+    },
+    {
+      "structure": "aether:ruined_portal_jungle",
+      "weight": 2
+    },
+    {
+      "structure": "aether:ruined_portal_swamp",
+      "weight": 2
+    },
+    {
+      "structure": "aether:ruined_portal_mountain",
+      "weight": 2
+    },
+    {
+      "structure": "explorers_eve:everbright_portal",
+      "weight": 5
+    },
+	{
+      "structure": "explorers_eve:everdawn_portal",
+      "weight": 5
+    }
+  ],
+  "placement": {
+    "salt": 135695613,
+    "spacing": 40,
+    "separation": 15,
+    "type": "minecraft:random_spread"
+  }
+}

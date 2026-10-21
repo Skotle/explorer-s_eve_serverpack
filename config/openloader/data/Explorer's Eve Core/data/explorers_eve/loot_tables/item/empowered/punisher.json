@@ -1,0 +1,103 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:fishing_rod",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "The Punisher",
+                "color": "blue",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {
+                    "text": "\nA rage-inducing relic from a bygone age...\n",
+                    "color": "white",
+                    "italic": true
+                  },
+                  {
+                    "text": "Explorer's Treasure\n",
+                    "color": "gold",
+                    "italic": true
+                  },
+                  {
+                    "text": "Empowered\n",
+                    "color": "light_purple",
+                    "italic": true
+                  },
+                  {
+                    "text": "Increased damage, knockback, fire duration, explosion power, and movement speed.\n\n",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "When in Main Hand:\n",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": " 10 Attack Damage\n",
+                    "color": "aqua",
+                    "italic": false
+                  },
+                  {
+                    "text": " 4 Attack Speed\n",
+                    "color": "dark_green",
+                    "italic": false
+                  },
+                  {
+                    "text": " +0.02 Movement Speed",
+                    "color": "aqua",
+                    "italic": false
+                  }
+                ]
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:6,RepairCost:99,Unbreakable:1b,Punisher:1,Empowered:1b}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "PunisherMelee",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "PunisherSpeed",
+                  "amount": 0.02,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": 10,
+                "minecraft:fire_aspect": 3,
+                "minecraft:knockback": 3
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

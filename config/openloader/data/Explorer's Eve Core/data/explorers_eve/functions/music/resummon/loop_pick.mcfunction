@@ -1,0 +1,11 @@
+#Decide which loop to use, including intros. This one's more complex than the others.
+execute if entity @s[tag=ResummonIntro1] if entity @w[tag=Resummoned,scores={StormPhase=..5},tag=!SymbiontReady,distance=..500] unless entity @e[type=witherstormmod:withered_symbiont,tag=Resummoned,distance=..64] run function explorers_eve:music/resummon/loop_1
+execute unless entity @s[tag=ResummonIntro1] if entity @w[tag=Resummoned,scores={StormPhase=..5},tag=!SymbiontReady,distance=..500] unless entity @e[type=witherstormmod:withered_symbiont,tag=Resummoned,distance=..64] run function explorers_eve:music/resummon/intro_1
+execute if entity @w[tag=Resummoned,scores={StormPhase=..5},tag=SymbiontReady,distance=..500] unless entity @e[type=witherstormmod:withered_symbiont,tag=Resummoned,distance=..64] run function explorers_eve:music/resummon/loop_2
+execute if entity @w[tag=Resummoned,scores={StormPhase=6},tag=BombLit,distance=..500] unless entity @e[type=witherstormmod:withered_symbiont,tag=Resummoned,distance=..64] run function explorers_eve:music/resummon/loop_3
+execute if entity @w[tag=Resummoned,tag=Phase6Chase,distance=..500] unless entity @e[type=witherstormmod:withered_symbiont,tag=Resummoned,distance=..64] run function explorers_eve:music/resummon/loop_4
+execute if entity @w[tag=Resummoned,scores={StormPhase=6..},tag=!Phase6Chase,tag=!Injured,tag=!BombLit,tag=!BowelsReady,distance=..500] unless entity @e[type=witherstormmod:withered_symbiont,tag=Resummoned,distance=..64] run function explorers_eve:music/resummon/loop_5
+execute if entity @e[type=witherstormmod:withered_symbiont,tag=Resummoned,tag=!RushMode,distance=..64] run function explorers_eve:music/resummon/loop_6
+execute if entity @s[tag=ResummonIntro7] if entity @e[type=witherstormmod:withered_symbiont,tag=Resummoned,tag=RushMode,distance=..64] run function explorers_eve:music/resummon/loop_7
+execute unless entity @s[tag=ResummonIntro7] if entity @e[type=witherstormmod:withered_symbiont,tag=Resummoned,tag=RushMode,distance=..64] run function explorers_eve:music/resummon/intro_7
+execute if entity @w[tag=Resummoned,scores={StormPhase=7},tag=BowelsReady,distance=..500] unless entity @e[type=witherstormmod:withered_symbiont,tag=Resummoned,distance=..64] run function explorers_eve:music/resummon/loop_8

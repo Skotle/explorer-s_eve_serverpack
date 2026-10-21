@@ -1,0 +1,4 @@
+#Only attempt to spawn Dragonsbane every 15 seconds. Must be in overworld, not in water, away from the Wither Storm, and on the surface.
+scoreboard players add @s DragonsbaneStalkTime 1
+execute if score @s DragonsbaneStalkTime matches 15.. at @s if dimension overworld unless block ~ ~ ~ #explorers_eve:liquid unless block ~ ~-1 ~ #explorers_eve:liquid unless predicate explorers_eve:too_much_water unless entity @w[distance=..1000] unless entity @e[tag=DragonsbaneBoss] positioned over world_surface if entity @s[distance=..1] run function explorers_eve:boss/dragonsbane/stalk_check
+execute if score @s DragonsbaneStalkTime matches 15.. run scoreboard players reset @s DragonsbaneStalkTime

@@ -1,0 +1,26 @@
+{
+    "name": "The Infernal Champion",
+    "icon": "cataclysm:ignitium_ingot",
+    "category": "patchouli:endgame",
+	"advancement": "explorers_eve:book/star",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A grand $(thing)white castle$() stands abandoned in the thorny highlands of the Twilight Forest. The champion of flame awaits a worthy foe, and all have fallen short of his expectations.$(br2)$(item)Ignited Revenants$() guard the central keep from intruders, and when slain, they leave behind pale ashes."
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "cataclysm:burning_ashes",
+            "text": "These ashes, when sprinkled atop the Withered Nether Star, will be enough to get the attention of $(item)Ignis$().$(br2)In the very likely outcome that you die in battle, Ignis will return the star and ashes to you. $(thing)Good luck$()."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "The greatest defense Ignis has is his impenetrable $(item)shield$(). None of your attacks will pierce it, so you'll need to either fight around it or $(item)deflect$() a particular purple projectile back at Ignis.$(br2)Additionally, if you're ever $(thing)punched$() by Ignis, you'll be stunned, so pay attention and $(thing)block$() when he's winding up!$(br2)"
+        },
+		{
+			"type": "patchouli:spotlight",
+			"item": "cataclysm:ignitium_ingot",
+            "text": "If you win, you'll be rewarded with $(item)Ignitium Ingots$(). These ingots are used to create incredible armor with extra fire-related abilities, and after you've created a $(item)Mechanical Fusion Anvil$(), they can upgrade an Empowered Command Block Sword or Pickaxe!"
+        }
+    ]
+}

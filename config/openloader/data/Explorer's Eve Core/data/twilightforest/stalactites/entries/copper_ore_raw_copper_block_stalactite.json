@@ -1,0 +1,19 @@
+{
+  "blocks": [
+    {
+      "block": "copper_ore",
+      "weight": 4
+    },
+    {
+      "block": "raw_copper_block",
+      "weight": 1
+    },
+	{
+      "block": "twilightforest:trollsteinn",
+      "weight": 20
+    }
+  ],
+  "max_length": 12,
+  "size_variation": 0.6,
+  "weight": 12
+}

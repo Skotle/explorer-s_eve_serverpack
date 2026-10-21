@@ -1,0 +1,56 @@
+{
+  "display": {
+    "icon": {
+      "item": "aether:enchanted_dart_shooter"
+    },
+    "title": "Enchanting²",
+    "description": "Enchant an Enchanted Dart Shooter with Power or Punch",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "aether:craft_altar",
+  "criteria": {
+    "power": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "aether:enchanted_dart_shooter"
+            ],
+            "enchantments": [
+              {
+                "enchantment": "minecraft:power"
+              }
+            ]
+          }
+        ]
+      }
+    },
+	"punch": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "aether:enchanted_dart_shooter"
+            ],
+            "enchantments": [
+              {
+                "enchantment": "minecraft:punch"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "power",
+      "punch"
+    ]
+  ]
+}

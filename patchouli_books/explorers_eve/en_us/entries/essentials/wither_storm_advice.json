@@ -1,0 +1,32 @@
+{
+    "name": "Surviving the Storm",
+    "icon": "minecraft:firework_rocket",
+    "category": "patchouli:essentials",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Wither Storm is threatening enough on its own, and Explorer's Eve gives it even more tricks. If you don't take it seriously or have a plan, you likely won't get far. This entry contains many miscellaneous tips to help you stand a chance. Read as many or as few as you want!"
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Most importantly, when the Wither Storm is chasing you, $(thing)you can outrun it$(). Its speed is affected by how far away the nearest player is. It will very likely catch up to you, but that doesn't guarantee death.$(br2)You can also $(thing)hide underground$() to stall for a few minutes. If you stay out of sight, the Wither Storm might begin to wander, giving you a chance to escape. Try to avoid tunneling unless you have a $(thing)fast pickaxe$(), though..."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "When you're in sight, blocking with a $(item)shield$() will prevent the Wither Storm from noticing you! If it's already started turning its heads towards you, the shield won't help, but you can block while moving between hiding spots.$(br2)$(item)Fireworks$() are the best way to distract it when you've been noticed. The Wither Storm can't help but stare at fireworks, even ones that don't have a firework star! Launch them from a $(item)crossbow$() for best results."
+        },
+		{
+            "type": "patchouli:crafting",
+            "recipe": "witherstormmod:firework_bundle",
+            "text": "A barrel of fireworks will launch dozens of fireworks after a brief delay when it's lit. They're especially useful when you need the Wither Storm to be distracted for a period of time."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "If you're ever unfortunate enough to be picked up by a tractor beam, attack the head targeting you with whatever you have! If it fires a flaming skull while you're stuck, you can try to move sideways to avoid it, or you can $(thing)deflect$() it with your sword at the cost of lots of durability.$(br2)You could also just throw an $(item)ender pearl$(). Try to aim $(thing)behind the Wither Storm$(), or it might pick you right back up."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "The single best way to avoid being lifted is to use a $(item)potion of invisibility$(). While you are invisible, even if you have armor equipped, the Wither Storm will never target you directly. Any nearby sickened monsters will still be aggressive, but they're not nearly as dangerous as the Wither Storm itself is."
+        }
+    ]
+}

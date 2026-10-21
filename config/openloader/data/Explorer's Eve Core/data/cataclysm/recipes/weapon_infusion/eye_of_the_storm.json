@@ -1,0 +1,12 @@
+{
+  "type": "cataclysm:weapon_fusion",
+  "base": {
+    "item": "witherstormmod:command_block_sword"
+  },
+  "addition": {
+    "item": "witherstormmod:tainted_dust_block"
+  },
+  "result": {
+    "item": "witherstormmod:eye_of_the_storm"
+  }
+}

@@ -1,0 +1,34 @@
+{
+	"type": "witherstormmod:item_craft_super_beacon",
+ 	"ingredients": [
+ 		{
+            "item": "minecraft:magma_block"
+        },
+		{
+            "item": "minecraft:lapis_lazuli"
+        },
+		{
+			"item": "minecraft:magma_block"
+		},
+		{
+            "item": "minecraft:lapis_lazuli"
+        },
+ 		{
+            "item": "minecraft:magma_block"
+        },
+		{
+            "item": "minecraft:lapis_lazuli"
+        },
+ 		{
+            "item": "minecraft:book"
+        },
+		{
+            "item": "minecraft:lapis_lazuli"
+        }
+  	],
+  	"result": {
+    "item": "minecraft:enchanted_book",
+	"nbt": "{StoredEnchantments:[{id:\"minecraft:flame\",lvl:1s},{id:\"minecraft:fire_aspect\",lvl:2s},{id:\"twilightforest:fire_react\",lvl:3s}]}"
+  },
+  	"condition": "main_activated"
+}

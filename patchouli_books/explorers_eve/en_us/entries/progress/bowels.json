@@ -1,0 +1,26 @@
+{
+    "name": "5. The Final Battle",
+    "icon": "witherstormmod:tainted_flesh_block",
+    "category": "patchouli:progress",
+	"advancement": "explorers_eve:book/bowels",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The last ingredient you need for your Command Block, an $(item)Enchanted Command Block Book$(), is much more challenging to find. You'll need to borrow enchantments from an existing Command Block...Or in other words, you'll need to enter the Wither Storm itself and scavenge through whatever it has consumed."
+        },
+		{
+			"type": "patchouli:text",
+            "text": "If you approach the Wither Storm and defeat another Withered Symbiont, the resulting injury will blast open a passage above the Wither Storm's heads. An $(item)ender pearl$(), ideally launched from a $(item)crossbow$(), would help to get inside, where you can search through the tainted remains of whatever the Wither Storm has picked up.$(br2)Make sure you're fully prepared! Aim for moderately-enchanted diamond gear, and bring plenty of lights!"
+		},
+		{
+			"type": "patchouli:text",
+			"text": "If you can survive long enough to find three pieces of $(item)Thaumic Paper$() for the book, you can finish your Command Block and combine it with a Charoite tool or weapon in a Smithing Table to finally create a weapon able to damage the Command Block powering the Wither Storm.$(br2)Be warned: If you die inside this maze without a spawn point set, your corpse will fall below the Wither Storm."
+        },
+		{
+            "type": "patchouli:crafting",
+			"title": "Command Block",
+            "recipe": "witherstormmod:command_block_book",
+            "recipe2": "minecraft:command_block"
+		}
+    ]
+}

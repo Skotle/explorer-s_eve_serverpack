@@ -1,0 +1,13 @@
+{
+  "item.deep_aether.gravitite_ring": "Gravitite Pendant",
+  "item.deep_aether.stratus_ring": "Stratus Pendant",
+  
+  "lore.block.deep_aether.chromatic_aercloud": "The result of alchemizing a Sterling Aercloud. Is used to create Stratus ingots.",
+  "block.deep_aether.sterling_aercloud": "Sterling Aercloud",
+  "lore.block.deep_aether.sterling_aercloud": "This Aercloud forms similarly high to Golden Aerclouds. When stepped on, lightning turns it into a Cold Aercloud. Can be used in an Alchemy Table to create a Chromatic Aercloud.",
+  "lore.item.deep_aether.gravitite_ring": "A powerful pendant that boosts the Stratus Armor's dash and Gravitite Armor's boosted jump.",
+  "lore.item.deep_aether.stratus_ring": "An upgraded variant of the Gravitite Pendant.",
+  "lore.item.deep_aether.stratus_gloves": "An upgrade to the Gravitite Gloves, needed to complete the Stratus set.",
+  "lore.item.deep_aether.stratus_ingot": "Crafted from Chromatic Aerclouds and other ingredients. Use in a Smithing Table to upgrade Gravitite gear!"
+}
+

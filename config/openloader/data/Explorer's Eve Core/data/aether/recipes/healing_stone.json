@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "dgd",
+    "gag",
+    "dgd"
+  ],
+  "key": {
+	"d": {
+      "item": "aether:holystone"
+    },
+    "g": {
+      "item": "aether:ambrosium_shard"
+    },
+    "a": {
+      "item": "minecraft:golden_apple"
+    }
+  },
+  "result": {
+  	"item": "aether:healing_stone"
+  }
+}

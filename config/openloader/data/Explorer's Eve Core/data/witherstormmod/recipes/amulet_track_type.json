@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "witherstormmod:amulet"
+    },
+	{
+      "item": "witherstormmod:tainted_dust"
+	}
+  ],
+  "result": {
+  	"item": "witherstormmod:amulet",
+  	"nbt": {
+  	  "TrackEntityTypes": true
+  	}
+  }
+}

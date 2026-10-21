@@ -1,0 +1,12 @@
+{
+  "type": "cataclysm:weapon_fusion",
+  "base": {
+    "item": "witherstormmod:command_block_sword"
+  },
+  "addition": {
+    "item": "minecraft:end_crystal"
+  },
+  "result": {
+    "item": "witherstormmod:formidi_blade"
+  }
+}

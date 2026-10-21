@@ -1,0 +1,15 @@
+{
+    "name": "Corpses",
+    "icon": "minecraft:skeleton_skull",
+    "category": "patchouli:essentials",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "If you die, your items will be stored in a $(item)corpse$() at your death point. Interacting with it will let you reclaim your items, and you can access its coordinates by pressing $(1)$(k:corpse.death_history)$().$(br2)Corpses are immune to damage, will float atop lava, and will never despawn until emptied of items."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Special behavior applies in the $(thing)End$(). Upon death in the End, your corpse will appear somewhere between the obsidian pillars on the central island. This prevents items from being lost to the void.$(br2)Lastly, if the Wither Storm is alive, it will $(thing)become distracted$() until you gather gear! There's no need to rush back to reclaim your items!"
+        }
+    ]
+}

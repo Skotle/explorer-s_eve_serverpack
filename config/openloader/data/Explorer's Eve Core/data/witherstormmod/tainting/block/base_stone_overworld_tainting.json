@@ -1,0 +1,7 @@
+{
+  "block": "#minecraft:base_stone_overworld",
+  "potion_effect": "minecraft:wither",
+  "replacement": {
+    "Name": "witherstormmod:tainted_stone"
+  }
+}

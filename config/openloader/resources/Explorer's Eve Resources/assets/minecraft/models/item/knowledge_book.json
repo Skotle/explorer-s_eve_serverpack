@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/knowledge_book"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data":81572 }, "model": "explorers_eve:item/guidebook" }
+    ]
+}

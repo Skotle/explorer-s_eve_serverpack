@@ -1,0 +1,144 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 2.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "blue_skies:aquite",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 3.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "blue_skies:falsite_ingot",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 3.0,
+                "min": 2.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "blue_skies:pine_fruit",
+          "weight": 15
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Stick:\"blue_skies:starlit_stick\"}"
+            }
+          ],
+          "name": "blue_skies:aquite_pickaxe",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Stick:\"blue_skies:starlit_stick\"}"
+            }
+          ],
+          "name": "blue_skies:aquite_sword",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "blue_skies:aquite_chestplate",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "blue_skies:aquite_helmet",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "blue_skies:aquite_leggings",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "blue_skies:aquite_boots",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Stick:\"blue_skies:starlit_stick\"}"
+            }
+          ],
+          "name": "blue_skies:pyrope_pickaxe",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Stick:\"blue_skies:starlit_stick\"}"
+            }
+          ],
+          "name": "blue_skies:pyrope_sword",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "blue_skies:pyrope_chestplate",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "blue_skies:pyrope_helmet",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "blue_skies:pyrope_leggings",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "blue_skies:pyrope_boots",
+          "weight": 2
+        }
+      ],
+      "rolls": {
+        "type": "minecraft:uniform",
+        "max": 4.0,
+        "min": 2.0
+      }
+    }
+  ]
+}

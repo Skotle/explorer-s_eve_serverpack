@@ -1,0 +1,15 @@
+{
+  "blocks": [
+    {
+      "block": "minecraft:budding_amethyst",
+      "weight": 1
+    },
+    {
+      "block": "minecraft:amethyst_block",
+      "weight": 7
+    }
+  ],
+  "max_length": 8,
+  "size_variation": 0.7,
+  "weight": 8
+}

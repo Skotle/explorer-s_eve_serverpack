@@ -1,0 +1,78 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:carrot_on_a_stick",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Prototype Zeta",
+                "color": "gold",
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {
+                    "text": "Long ago, a distant empire sought to utilize raw primal energy to power weapons of war. This design is one reject among many.\nHail to Avsohm.\n"
+                  },
+                  {
+                    "text": "Sneak and use to change modes. With the blade extended, deal damage to charge. With the blade retracted, use charges to fire damaging blasts of energy. At full power, all charges are spent to create a devastating explosion.\n",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Explorer's Treasure\n\n",
+                    "color": "gold",
+                    "italic": true
+                  },
+                  {
+                    "text": "When in Main Hand:\n",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": " 8 Attack Damage\n 1.8 Attack Speed",
+                    "color": "dark_green",
+                    "italic": false
+                  }
+                ]
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:6,RepairCost:99,Unbreakable:1b,CustomModelData:6,PrototypeZeta:1b,ZetaMode:\"Sword\"}"
+            },
+  {
+    "function": "minecraft:set_attributes",
+    "modifiers": [
+      {
+        "attribute": "minecraft:generic.attack_damage",
+        "name": "ZetaMelee",
+        "amount": 7,
+        "operation": "addition",
+        "slot": "mainhand"
+      },
+	  {
+		"attribute": "minecraft:generic.attack_speed",
+        "name": "ZetaMeleeSpeed",
+		"operation": "addition",
+		"amount": -2.2,
+		"slot": "mainhand"
+	  }
+    ]
+  }
+          ]
+        }
+      ]
+    }
+  ]
+}

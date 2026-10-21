@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "witherstormmod:stone_command_block_sword"
+  },
+  "addition": {
+    "item": "cataclysm:witherite_ingot"
+  },
+  "result": {
+    "item": "witherstormmod:command_block_sword"
+  }
+}

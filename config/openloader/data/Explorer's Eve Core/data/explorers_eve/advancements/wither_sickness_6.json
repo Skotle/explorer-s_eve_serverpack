@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "effect": {
+      "trigger": "minecraft:effects_changed",
+      "conditions": {
+        "effects": {
+          "witherstormmod:wither_sickness": {
+            "amplifier": 5
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "explorers_eve:world/wither_sickness_6"
+  }
+}

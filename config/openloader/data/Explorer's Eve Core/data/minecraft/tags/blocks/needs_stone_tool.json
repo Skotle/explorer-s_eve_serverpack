@@ -1,0 +1,15 @@
+{
+  "values": [
+	"minecraft:spawner",
+    "#blue_skies:dungeon/blinding",
+    "#blue_skies:dungeon/nature",
+    "#blue_skies:dungeon/poison",
+    "#aether:locked_dungeon_blocks",
+    "#aether:trapped_dungeon_blocks",
+    "#aether:boss_doorway_dungeon_blocks",
+    "#aether:treasure_doorway_dungeon_blocks",
+    "#twilightforest:towerwood",
+    "twilightforest:encased_towerwood",
+    "#cataclysm:ender_guardian_can_destroy"
+  ]
+}

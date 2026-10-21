@@ -1,0 +1,12 @@
+{
+  "type": "blue_skies:catylist",
+  "catylists": [
+    "minecraft:air"
+  ],
+  "inputs": [
+    "deep_aether:sterling_aercloud"
+  ],
+  "results": [
+    "deep_aether:chromatic_aercloud"
+  ]
+}

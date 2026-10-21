@@ -1,0 +1,25 @@
+{
+    "name": "Wither Storm Returns",
+    "icon": "cataclysm:witherite_ingot",
+    "category": "patchouli:endgame",
+	"advancement": "explorers_eve:book/star",
+	"priority": "true",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Fighting the Wither Storm was so much fun. Why not do it again? By bringing three Wither Skeleton Skulls to the Withered Beacon (no lapis blocks needed!), you can revive it and fight it all over again!$(br2)But this time, it remembers. When resummoned, the Wither Storm evolves very quickly and is much more aggressive."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Make sure to bring the strongest gear you can along with all of the essential items to defeat it. This includes $(thing)enchantments$(), $(thing)armor stronger than diamond$(), some way to $(thing)prevent fall damage$(), a $(item)Command Block weapon$(), some tainted dust and Super TNT to craft your own $(item)Formidibomb$(), and a $(item)Sickly Teratoma$() to summon the Withered Symbiont in its final phase.$(br2)You wouldn't want to die and leave this thing wandering the world again."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Your priority in this encounter is to hunt for $(item)Witherite$(). This ultimate material can be used to empower your Arcs and evolved Command Block tools, create support beacons to unleash the full power of the Withered Nether Star, and build a $(item)Mechanical Fusion Anvil$() to forge unimaginable gear.$(br2)You can only find this material in $(item)Phlegm blocks$(), similar to hunting for Thaumic Paper."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Unlike Thaumic Paper, do not expect to find much from $(thing)scavenging the Wither Storm's corpse$()! You might get just enough to make the support beacons, but if you want access to its other uses (which are ultimately optional), you'll need to be diligent and take your time before engaging the Command Block. Don't forget $(item)Golden Apple Stew$()!"
+        }
+    ]
+}

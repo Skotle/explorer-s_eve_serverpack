@@ -1,0 +1,2 @@
+#Give an overpowered sword.
+give @s witherstormmod:command_block_sword{display:{Name:'{"text":"Mr. Stabby","color":"light_purple"}',Lore:['{"text":"Sharpness CCLV","color":"gray","italic":false}']},HideFlags:1,Unbreakable:1b,Enchantments:[{id:"minecraft:sharpness",lvl:255s}]} 1

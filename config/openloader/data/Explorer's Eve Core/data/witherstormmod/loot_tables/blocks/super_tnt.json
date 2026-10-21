@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "witherstormmod:super_tnt",
+		  "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Can be detonated to distract the Wither Storm severely if it's nearby.",
+                  "color": "gray",
+				  "italic": false
+                }
+              ]
+            }
+		  ]
+        }
+      ]
+    }
+  ]
+}

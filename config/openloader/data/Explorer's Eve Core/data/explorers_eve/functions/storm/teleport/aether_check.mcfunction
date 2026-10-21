@@ -1,0 +1,3 @@
+#Check if the Storm should do an Aether teleport instead.
+execute if predicate explorers_eve:overworld at @e[tag=StormTeleportActive,limit=1] if predicate explorers_eve:aether at @s run function explorers_eve:storm/teleport/aether_teleport
+execute if predicate explorers_eve:aether at @e[tag=StormTeleportActive,limit=1] if predicate explorers_eve:overworld at @s run function explorers_eve:storm/teleport/aether_teleport

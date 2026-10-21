@@ -1,0 +1,26 @@
+{
+  "parent": "aether:the_aether",
+  "criteria": {
+    "white_apple": {
+      "conditions": {
+        "item": {
+          "items": [
+            "aether:white_apple"
+          ]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    }
+  },
+  "display": {
+    "title": "Crunchy Cures",
+    "description": "Eat a White Apple to cure Inebriation or satiate your hunger",
+    "announce_to_chat": true,
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "aether:white_apple"
+    },
+    "show_toast": true
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "replace": true,
+  "values": [
+    "aether:shield_of_repulsion",
+    "aether:phoenix_helmet",
+    "aether:phoenix_chestplate",
+    "aether:phoenix_leggings",
+    "aether:phoenix_boots",
+    "aether:phoenix_gloves",
+	"lost_aether_content:phoenix_cape"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:effects_changed",
+      "conditions": {
+        "player": {
+          "location": {
+            "structure": "blue_skies:everdawn_blinding_dungeon"
+          }
+        },
+        "effects": {
+          "minecraft:blindness": {}
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "explorers_eve:boss/blinding/darkness"
+  }
+}

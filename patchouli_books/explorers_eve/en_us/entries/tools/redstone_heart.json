@@ -1,0 +1,37 @@
+{
+    "name": "Redstone Heart",
+    "icon": "twilightforest:knightmetal_ring",
+    "category": "patchouli:tools",
+	"advancement": "explorers_eve:book/phase_6",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Redstone Heart is the only power source capable of running a Command Block. There are four ways to get one, and they're all quite involved.$(br2)Make sure you're prepared before trying! Every option involves its own type of risk. You may want to look through other entries in this book to see what tools are now available to you."
+        },
+		{
+			"type": "patchouli:text",
+            "text": "Your first choice is the $(thing)Ender Dragon$(), which will drop a Redstone Heart upon its death. It's much more powerful than you're probably used to, so defense against fall damage and $(item)plenty of ender pearls$() will be essential.$(br2)Note that the dragon's presence interferes with teleportation. You won't be able to leave the End until it's defeated, but you $(thing)won't be interrupted$() no matter how long the fight takes."
+		},
+		{
+			"type": "patchouli:text",
+            "text": "Secondly, you could summon and defeat the $(thing)Harbinger$(), a mechanically-augmented Wither. To summon it, you would need to defeat a regular Wither to create a Beacon. $(thing)Looting$() is especially effect on Wither Skeletons, so if you prepare, it shouldn't take long.$(br2)Oh, and the Wither $(thing)has some new tricks$(). Fight it on the surface to improve your odds."
+		},
+		{
+            "type": "patchouli:crafting",
+            "recipe": "cataclysm:mech_eye",
+			"text": "With your Beacon prepared and active, $(1)$(k:use)$() it while holding a Redstone Beacon to summon the Harbinger, and prepare for chaos! Bring blocks to shield yourself from its devastating laser, and try to use any $(thing)support towers$() it summons against itself!"
+		},
+		{
+            "type": "patchouli:text",
+            "text": "Lastly, two great Illager mages fled to the $(thing)Everbright$() and $(thing)Everdawn$(), each taking a Redstone Heart with them. If you're willing to risk the oddities of these dimensions, you can chase them down and fight them for it.$(br2)You may want to make sure the Wither Storm is distracted before you do so. You'll need time to orient yourself once you travel, and every minute counts!"
+        },
+		{
+            "type": "patchouli:relations",
+			"entries": [
+                "patchouli:essentials/curse_of_keeping",
+                "patchouli:tools/blue_skies"
+            ],
+			"text": "These dimensions have a few catches to them. You'll want to read these two entries to be warned about the $(item)Curse of Keeping$() and learn how to even enter them. Despite the huge risk the Wither Storm poses and the crippling effects of the curse, the Illagers themselves are weaker than the guardians of the other two options."
+		}
+    ]
+}

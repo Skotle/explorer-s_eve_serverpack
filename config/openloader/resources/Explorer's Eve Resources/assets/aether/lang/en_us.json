@@ -1,0 +1,20 @@
+{
+  "advancement.aether.ice_accessory.desc": "With the help of a Freezer, craft a Frigid Gemstone",
+  
+  "item.aether.ice_pendant": "Frigid Gemstone",
+  "item.aether.zanite_ring": "Miner's Band",
+  
+  "lore.item.aether.agility_cape": "A rare cape hidden in the Giant Vault in the Twilight Forest. It makes the wearer's legs stronger, therefore they can walk up blocks instantly.",
+  "lore.item.aether.blue_gummy_swet": "A sweet-smelling gummy found in dungeons. It fully restores the player's hunger when eaten. Very useful for boss fights.",
+  "lore.item.aether.book_of_lore": "A large book containing many lore entries. It describes every object in detail.",
+  "lore.item.aether.golden_amber": "These round golden orbs can be obtained by mining Golden Oak Logs with a powerful axe. Their main purpose is to craft Golden Darts and Dart Shooters.",
+  "lore.item.aether.golden_gummy_swet": "A sour-tasting gummy found in dungeons. It fully restores the player's hunger when eaten. Very useful for boss fights.",
+  "lore.item.aether.healing_stone": "Obtained by combining a Golden Apple with Holystone and Ambrosium. It provides Regeneration for 30 seconds, and it has a surprisingly juicy flavor.",
+  "lore.item.aether.iron_bubble": "It allows for the wearer to breathe underwater indefinitely.",
+  "lore.item.aether.neptune_boots": "This armor allows for faster swimming in water. The full set is a much better replacement for the Depth Strider enchantment.",
+  "lore.item.aether.neptune_chestplate": "This armor allows for faster swimming in water. Combined with an Iron Bubble, this armor set is super useful for defeating underwater temples.",
+  "lore.item.aether.neptune_gloves": "These gloves are required to complete the Neptune armor set, which allows for underwater walking.",
+  "lore.item.aether.neptune_helmet": "This armor allows faster swimming in water. Combined with an Iron Bubble, this armor set is super useful for defeating underwater temples.",
+  "lore.item.aether.neptune_leggings": "This armor allows faster swimming in water. Combined with an Iron Bubble, this armor set is super useful for defeating underwater temples.",
+  "lore.item.aether.regeneration_stone": "A treasure found in the Knight's Tomb. This stone makes the wearer feel healthy and heals their wounds."
+}

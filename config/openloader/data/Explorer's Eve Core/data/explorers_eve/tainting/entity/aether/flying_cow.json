@@ -1,0 +1,5 @@
+{
+  "convert_from_sickness": true,
+  "from": "aether:flying_cow",
+  "to": "witherstormmod:sickened_cow"
+}

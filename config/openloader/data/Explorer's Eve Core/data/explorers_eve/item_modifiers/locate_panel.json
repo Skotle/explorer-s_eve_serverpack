@@ -1,0 +1,6 @@
+{
+"function" : "minecraft:exploration_map",
+"destination" : "explorers_eve:has_panels",
+"skip_existing_chunks" : false,
+"search_radius" : 150
+}

@@ -1,0 +1,10 @@
+{
+  "type": "aether:placement_conversion",
+  "biome": "#aether:ultracold",
+  "ingredient": {
+    "block": "witherstormmod:tainted_jack_o_lantern"
+  },
+  "result": {
+    "block": "witherstormmod:tainted_carved_pumpkin"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:carrot_on_a_stick",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Ice Staff",
+                "color": "aqua",
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {
+                    "text": "Launches Ice Bombs to freeze and damage nearby foes.\n",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Explorer's Treasure",
+                    "color": "gold",
+                    "italic": true
+                  }
+                ]
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:6,RepairCost:99,Unbreakable:1b,CustomModelData:2,IceStaff:1b}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

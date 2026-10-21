@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "leave_twilight": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "from": "aether:the_aether"
+      }
+    }
+  },
+  "rewards": {
+    "function": "explorers_eve:world/aether_exit_failsafe"
+  }
+}

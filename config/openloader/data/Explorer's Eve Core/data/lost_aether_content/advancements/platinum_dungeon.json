@@ -1,0 +1,42 @@
+{
+  "parent": "aether:enchanted_gravitite",
+  "criteria": {
+    "kill_boss": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "lost_aether_content:aerwhale_king",
+              "location": {
+                "dimension": "aether:the_aether"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancement.lost_aether_content.platinum_dungeon.desc"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "lost_aether_content:platinum_key"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancement.lost_aether_content.platinum_dungeon"
+    }
+  },
+  "requirements": [
+    [
+      "kill_boss"
+    ]
+  ]
+}

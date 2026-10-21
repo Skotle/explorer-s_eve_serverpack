@@ -1,0 +1,14 @@
+2026-10-21 21:17:09,300 main WARN Advanced terminal features are not available in this environment
+[21:17:09] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 45.3.0, --fml.mcVersion, 1.19.4, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230314.122934, nogui]
+[21:17:09] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.8 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
+[21:17:10] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Administrator/curseforge/minecraft/Instances/Explorer's%20Eve%20%20-%20Wither%20Storm%20Modpack/server-pack/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[21:17:10] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\Users\Administrator\curseforge\minecraft\Instances\Explorer's Eve  - Wither Storm Modpack\server-pack\libraries\net\minecraftforge\fmlcore\1.19.4-45.3.0\fmlcore-1.19.4-45.3.0.jar is missing mods.toml file
+[21:17:10] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\Users\Administrator\curseforge\minecraft\Instances\Explorer's Eve  - Wither Storm Modpack\server-pack\libraries\net\minecraftforge\javafmllanguage\1.19.4-45.3.0\javafmllanguage-1.19.4-45.3.0.jar is missing mods.toml file
+[21:17:10] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\Users\Administrator\curseforge\minecraft\Instances\Explorer's Eve  - Wither Storm Modpack\server-pack\libraries\net\minecraftforge\lowcodelanguage\1.19.4-45.3.0\lowcodelanguage-1.19.4-45.3.0.jar is missing mods.toml file
+[21:17:10] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\Users\Administrator\curseforge\minecraft\Instances\Explorer's Eve  - Wither Storm Modpack\server-pack\libraries\net\minecraftforge\mclanguage\1.19.4-45.3.0\mclanguage-1.19.4-45.3.0.jar is missing mods.toml file
+[21:17:11] [main/INFO] [ne.mi.fm.lo.mo.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[21:17:13] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[21:17:13] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[21:17:13] [main/INFO] [cp.mo.mo.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[21:17:13] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:17:15] [main/INFO] [minecraft/Main]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.

@@ -1,0 +1,22 @@
+{
+  "advancements.cataclysm.find_ruined_citadel.title": "The Ruin at the End of the Game",
+  "advancements.cataclysm.find_ruined_citadel.description": "Find a Ruined Citadel",
+  "advancements.cataclysm.kill_ender_guardian.title": "Null and Void",
+  "advancements.cataclysm.kill_ender_guardian.description": "Defeat the Ender Guardian",
+  "advancements.cataclysm.kill_monstrosity.title": "The Nether's Broken Warmachine",
+  "advancements.cataclysm.kill_monstrosity.description": "Reactivate and defeat the Netherite Monstrosity",
+  "advancements.cataclysm.kill_ignis.title": "The Extinguished Fire",
+  "advancements.cataclysm.kill_ignis.description": "Use an Infernal Star to summon Ignis atop the white castle, then defeat it!",
+  "advancements.cataclysm.kill_harbinger.title": "The Other One",
+  "advancements.cataclysm.kill_harbinger.description": "Call and defeat the Harbinger",
+  
+  "item.cataclysm.flame_eye": "Dawn Resonator",
+  "item.cataclysm.void_eye": "Sickly Teratoma",
+  "item.cataclysm.monstrous_eye": "Bright Resonator",
+  "item.cataclysm.mech_eye": "Redstone Beacon",
+  
+  "item.cataclysm.chain_of_soul_binding": "Burning Ashes",
+  "item.cataclysm.burning_ashes": "Infernal Star",
+  "item.cataclysm.enderite_ingot": "Infected Steel Ingot",
+  "block.cataclysm.enderite_block": "Infected Steel Block"
+}

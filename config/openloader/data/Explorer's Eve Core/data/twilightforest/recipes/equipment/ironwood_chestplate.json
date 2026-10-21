@@ -1,0 +1,19 @@
+{
+  "result": {
+    "nbt": "{Enchantments:[{id:\"minecraft:protection\",lvl:1s}],AttributeModifiers:[{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:6,Operation:0,UUID:[I;-1135947442,-1555479330,-2143009776,-1937856856],Slot:\"chest\"}]}",
+    "item": "twilightforest:ironwood_chestplate",
+    "type": "minecraft:item_nbt"
+  },
+  "group": "ironwood_armor",
+  "pattern": [
+    "# #",
+    "###",
+    "###"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "forge:ingots/ironwood"
+    }
+  }
+}

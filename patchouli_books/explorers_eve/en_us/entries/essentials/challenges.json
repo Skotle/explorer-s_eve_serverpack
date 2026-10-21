@@ -1,0 +1,41 @@
+{
+    "name": "Challenges",
+    "icon": "witherstormmod:eye_of_the_storm",
+    "category": "patchouli:essentials",
+    "priority": "true",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This modpack includes a datapack that increases difficulty in several ways. It's recommended to play on $(item)Normal$() for your first playthrough, as $(item)Hard$() will truly test your skills.$(br2)In particular, $(item)Hardcore$() is to be feared. It won't be possible without either extensive knowledge or great preparation."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "If you know what you're doing and want a greater challenge without just increasing stats, that can be done as well. The rest of the pages in this chapter will describe $(thing)custom challenge modes$() and provide buttons to enable or disable them.$(br2)Challenges cannot be enabled while the Wither Storm is alive, but they can be disabled at any time. You can simultaneously activate as many of them as you want."
+        },
+		{
+            "type": "patchouli:text",
+			"title": "Silent Storm",
+            "text": "The Wither Storm makes no ambient noises and doesn't play music. Its boss bar will not be visible underground. Certain attacks will still make sounds.$(br2)$(c:/trigger Challenge set 1)Click to Enable/Disable$()"
+        },
+		{
+            "type": "patchouli:text",
+			"title": "Diggy Diggy Hole",
+            "text": "The Wither Storm has no cooldown between digging attacks.$(br2)$(c:/trigger Challenge set 2)Click to Enable/Disable$()"
+        },
+		{
+            "type": "patchouli:text",
+			"title": "Incuritis",
+            "text": "All players are permanently infected with Wither Sickness while the Wither Storm is alive. Golden Apple Stew will still restore health.$(br2)$(c:/trigger Challenge set 3)Click to Enable/Disable$()"
+        },
+		{
+            "type": "patchouli:text",
+			"title": "Draconic Temperament",
+            "text": "The Wither Storm will not get distracted, its tractor beams are more aggressive and powerful, and all custom skull attacks use powerful and fast blue skulls.$(br2)$(c:/trigger Challenge set 4)Click to Enable/Disable$()"
+        },
+		{
+            "type": "patchouli:text",
+			"title": "Withering Apocalypse",
+            "text": "All mobs that can be sickened are instantly converted into powerful sickened variants.$(br2)$(c:/trigger Challenge set 5)Click to Enable/Disable$()"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+  "blocks": [
+    {
+      "block": "iron_ore",
+      "weight": 1
+    },
+	{
+      "block": "twilightforest:trollsteinn",
+      "weight": 4
+    }
+  ],
+  "max_length": 8,
+  "size_variation": 0.7,
+  "weight": 24
+}

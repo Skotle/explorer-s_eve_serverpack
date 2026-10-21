@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:slime",
+    "minecraft:magma_cube",
+    "minecraft:ender_dragon",
+    "minecraft:wither",
+    "witherstormmod:wither_storm",
+    "witherstormmod:withered_symbiont"
+	
+  ]
+}

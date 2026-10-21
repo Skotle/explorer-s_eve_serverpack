@@ -1,0 +1,13 @@
+{
+  "block": "minecraft:redstone_block",
+  "potion_effect": "minecraft:wither",
+  "properties_to_copy": [
+    "lit"
+  ],
+  "replacement": {
+    "Name": "witherstormmod:tainted_dust_block",
+    "Properties": {
+      "lit": "false"
+    }
+  }
+}

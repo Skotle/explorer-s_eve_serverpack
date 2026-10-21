@@ -1,0 +1,33 @@
+{
+	"type": "witherstormmod:item_craft_super_beacon",
+ 	"ingredients": [
+ 		{
+            "item": "minecraft:lapis_lazuli"
+        },
+		{
+            "item": "witherstormmod:tainted_dust"
+        },
+		{
+			"item": "minecraft:echo_shard"
+		},
+		{
+            "item": "witherstormmod:tainted_dust"
+        },
+ 		{
+            "item": "minecraft:lapis_lazuli"
+        },
+		{
+            "item": "witherstormmod:tainted_dust"
+        },
+ 		{
+            "item": "minecraft:paper"
+        },
+		{
+            "item": "witherstormmod:tainted_dust"
+        }
+  	],
+  	"result": {
+    "item": "twilightforest:armor_shard_cluster"
+  },
+  	"condition": "all_supports"
+}

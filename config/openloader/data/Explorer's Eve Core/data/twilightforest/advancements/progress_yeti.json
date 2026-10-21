@@ -1,0 +1,73 @@
+{
+  "parent": "twilightforest:root",
+  "criteria": {
+    "fur": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "twilightforest:alpha_yeti_fur"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "trophy": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "twilightforest:alpha_yeti_trophy"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "yeti": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "twilightforest:alpha_yeti",
+              "location": {
+                "dimension": "twilightforest:twilight_forest"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancement.twilightforest.progress_yeti.desc",
+      "with": [
+        {
+          "translate": "entity.twilightforest.alpha_yeti"
+        }
+      ]
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "twilightforest:alpha_yeti_fur"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancement.twilightforest.progress_yeti"
+    }
+  },
+  "requirements": [
+    [
+      "yeti",
+      "trophy",
+      "fur"
+    ]
+  ]
+}

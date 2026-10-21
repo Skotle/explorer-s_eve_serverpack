@@ -1,0 +1,28 @@
+{
+  "parent": "witherstormmod:main/activate_super_beacon",
+  "display": {
+    "icon": {
+      "item": "minecraft:elytra"
+    },
+    "title": "Above and Beyond",
+    "description": "Empower a Withered Beacon and emerge victorious",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "inventory_changed": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:elytra"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "The Twilight Forest",
+    "icon": "twilightforest:liveroot",
+    "category": "patchouli:tools",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Twilight Forest is a magical land filled with an unparalleled number of dungeons. Even the $(item)giant trees$() can contain spawners and loot, such as bizarre $(thing)magic saplings$()!$(br2)Travel in this dimension is the inverse of the Nether; 8 blocks in the forest is equivalent to 1 block in the Overworld."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "If you've played with Twilight Forest before, you may be worried about progression. Don't be! You can go $(thing)to any biome$() in any order.$(br2)In addition to the familiar ores you can find underground or in $(item)hollow hills$(), the Twilight Forest contains many unique materials not found anywhere else. Keep your eyes out for them, and they'll help you get a strong start!"
+        },
+		{
+			"type": "patchouli:spotlight",
+			"item": "twilightforest:ironwood_ingot",
+            "text": "The most basic material of the Twilight Forest. $(item)Raw ironwood$() is crafted by combining a gold nugget, raw iron, and $(item)liveroot$(), a green root sometimes found under trees. Smelt it to turn it into a useful ingot!$(br2)Ironwood equipment is more durable than iron and comes with basic enchantments."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "twilightforest:arctic_fur",
+            "text": "Hunting in the snowy forest will result in $(item)arctic fur$(), used to create a set of uniquely tough leather-like armor.$(br2)Perhaps a $(thing)more powerful winter creature$() could have something more useful to craft with..."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "twilightforest:steeleaf_ingot",
+            "text": "$(item)Steeleaves$() are less common, less durable, and sharper than ironwood. However, they're only found in dungeons. Armor and weapons crafted from them have comparable durability to stone tools, but they rival diamond in power. Unfortunately, they're too brittle for tools..."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "twilightforest:fiery_ingot",
+            "text": "Smithing iron with $(item)fiery blood$() or $(item)fiery tears$() yields this unique alloy. Fiery armor combines the protection of iron with the toughness of Netherite, while also setting your attackers on fire. The sword and pickaxe are equal to Netherite, and they too cook mobs and blocks alike."
+		}
+    ]
+}

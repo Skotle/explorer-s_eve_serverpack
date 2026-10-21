@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "blue_skies:charoite"
+    }
+  },
+  "pattern": [
+    "###",
+    "# #",
+    "# #"
+  ],
+  "result": {
+    "item": "blue_skies:charoite_leggings",
+	"nbt": "{AttributeModifiers:[{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:6,Operation:0,UUID:[I;-320972190,889210054,-1678564695,-1734892075],Slot:\"legs\"},{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:2,Operation:0,UUID:[I;385043447,-1513406443,-1544100047,-821853539],Slot:\"legs\"},{AttributeName:\"generic.attack_speed\",Name:\"generic.attack_speed\",Amount:0.1,Operation:0,UUID:[I;-1423381128,1577927171,-1610952496,-234735083],Slot:\"legs\"},{AttributeName:\"generic.attack_knockback\",Name:\"generic.attack_knockback\",Amount:0.5,Operation:0,UUID:[I;839222471,1915371936,-2066047739,-209274783],Slot:\"legs\"}]}"
+  },
+  "show_notification": true
+}

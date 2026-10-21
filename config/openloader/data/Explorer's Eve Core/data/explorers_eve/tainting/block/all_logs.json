@@ -1,0 +1,13 @@
+{
+  "block": "#minecraft:logs",
+  "potion_effect": "minecraft:wither",
+  "properties_to_copy": [
+    "axis"
+  ],
+  "replacement": {
+    "Name": "witherstormmod:tainted_log",
+    "Properties": {
+      "axis": "y"
+    }
+  }
+}

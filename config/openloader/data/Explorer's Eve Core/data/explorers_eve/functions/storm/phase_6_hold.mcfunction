@@ -1,0 +1,3 @@
+#Update phases as the player collects Command Block parts.
+execute unless entity @s[tag=Phase6Progress] if entity @a[advancements={explorers_eve:command_parts_single=true}] unless entity @a[advancements={explorers_eve:command_parts=true}] run function explorers_eve:storm/phase_6_progress
+execute if entity @a[advancements={explorers_eve:command_parts=true}] run function explorers_eve:storm/phase_6_evolve

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+		{
+          "type": "minecraft:item",
+          "name": "minecraft:tnt"
+        },
+		{
+          "type": "minecraft:item",
+          "name": "minecraft:arrow"
+        }
+      ],
+      "rolls": 2.0
+    }
+  ]
+}

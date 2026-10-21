@@ -1,0 +1,71 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "twilightforest:chests/labyrinth_vault"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "rolls": 1,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "twilightforest:blocks/uncrafting_table"
+        }
+      ]
+    },
+	{
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "twilightforest:moonworm_queen",
+		  "functions": [
+			{
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:4,Unbreakable:1b}"
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Places moonworms. When aimed at the air, launches moonworms.",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "Explorer's Treasure",
+                  "color": "gold"
+                }
+              ]
+            }
+		  ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "twilightforest:mazebreaker_pickaxe",
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 5
+            }
+		  ]
+        }
+      ]
+    }
+  ]
+}

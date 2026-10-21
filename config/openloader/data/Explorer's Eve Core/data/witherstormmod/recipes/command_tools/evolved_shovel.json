@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "witherstormmod:wooden_command_block_shovel"
+  },
+  "addition": {
+    "item": "cataclysm:enderite_ingot"
+  },
+  "result": {
+    "item": "witherstormmod:command_block_shovel"
+  }
+}

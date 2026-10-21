@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "witherstormmod:amulet"
+    },
+	{
+      "item": "minecraft:glowstone_dust"
+	}
+  ],
+  "result": {
+  	"item": "witherstormmod:amulet"
+  }
+}

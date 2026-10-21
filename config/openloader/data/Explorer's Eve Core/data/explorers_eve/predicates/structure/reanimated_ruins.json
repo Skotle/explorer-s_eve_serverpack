@@ -1,0 +1,25 @@
+[
+  {
+    "condition": "minecraft:alternative",
+    "terms": [
+      {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "structure": "dungeons_plus:reanimated_ruins_frozen"
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "structure": "dungeons_plus:reanimated_ruins_mesa"
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "structure": "dungeons_plus:reanimated_ruins_mossy"
+        }
+      }
+    ]
+  }
+]

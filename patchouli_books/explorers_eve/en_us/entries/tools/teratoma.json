@@ -1,0 +1,17 @@
+{
+    "name": "Sickly Teratoma",
+    "icon": "cataclysm:void_eye",
+    "category": "patchouli:tools",
+	"advancement": "explorers_eve:book/formidibomb",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Even a creature as mighty as the Wither Storm can be manipulated. By crafting a gross abomination against nature, you can aggravate it into lashing out. When used at a distance, the Wither Storm will accelerate and chase its target. When used near the Wither Storm, it will draw out a Withered Symbiont if one has already been created!"
+        },
+		{
+            "type": "patchouli:crafting",
+            "recipe": "cataclysm:void_eye",
+			"text": "This could be useful if you want to lure it to a more open area, if you expect that you can outrun it to cause a distraction, or if you $(thing)already have an item with the power of a Command Block$() and it won't summon a Withered Symbiont on its own."
+        }
+    ]
+}

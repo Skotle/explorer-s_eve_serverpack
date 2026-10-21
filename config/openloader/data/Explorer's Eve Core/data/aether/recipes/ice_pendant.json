@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BRB",
+    "IFI",
+    "BIB"
+  ],
+  "key": {
+	"F": {
+      "item": "lost_aether_content:flaming_gemstone"
+    },
+    "R": {
+      "item": "aether:ice_ring"
+    },
+    "I": {
+      "item": "aether:icestone"
+    },
+    "B": {
+      "item": "minecraft:blue_ice"
+    }
+  },
+  "result": {
+    "item": "aether:ice_pendant",
+	"nbt": "{HideFlags:4,Unbreakable:1b,display:{Lore:['{\"text\":\"Freezes water and lava near the wearer.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Explorer\\'s Treasure\",\"color\":\"gold\"}']}}"
+  }
+}

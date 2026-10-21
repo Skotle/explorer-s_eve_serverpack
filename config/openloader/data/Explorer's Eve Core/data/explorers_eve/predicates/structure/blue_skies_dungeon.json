@@ -1,0 +1,31 @@
+[
+  {
+    "condition": "minecraft:alternative",
+    "terms": [
+      {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "structure": "blue_skies:everbright_blinding_dungeon"
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "structure": "blue_skies:everdawn_blinding_dungeon"
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "structure": "blue_skies:nature_dungeon"
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "structure": "blue_skies:poison_dungeon"
+        }
+      }
+    ]
+  }
+]

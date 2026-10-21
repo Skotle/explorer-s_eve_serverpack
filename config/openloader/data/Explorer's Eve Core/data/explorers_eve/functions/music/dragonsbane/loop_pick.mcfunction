@@ -1,0 +1,5 @@
+#Decide which loop to use, including intros.
+execute if entity @s[tag=DragonsbaneIntro1] if entity @e[type=twilightforest:pinch_beetle,tag=DragonsbaneBoss,tag=Phase1,distance=..64] run function explorers_eve:music/dragonsbane/loop_1
+execute unless entity @s[tag=DragonsbaneIntro1] if entity @e[type=twilightforest:pinch_beetle,tag=DragonsbaneBoss,tag=Phase1,distance=..64] run function explorers_eve:music/dragonsbane/intro_1
+execute if entity @s[tag=DragonsbaneIntro2] if entity @e[type=twilightforest:pinch_beetle,tag=DragonsbaneBoss,tag=Phase2,distance=..64] run function explorers_eve:music/dragonsbane/loop_2
+execute unless entity @s[tag=DragonsbaneIntro2] if entity @e[type=twilightforest:pinch_beetle,tag=DragonsbaneBoss,tag=Phase2,distance=..64] run function explorers_eve:music/dragonsbane/intro_2

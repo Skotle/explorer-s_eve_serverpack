@@ -1,0 +1,47 @@
+{
+  "type": "minecraft:selector",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": 1,
+              "entity": "aether:zephyr",
+              "function": "aether:whirlwind_spawn_entity"
+            }
+          ],
+          "name": "minecraft:air",
+		  "weight": 3
+        },
+		{
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": 3,
+              "entity": "aether:zephyr",
+              "function": "aether:whirlwind_spawn_entity"
+            }
+          ],
+          "name": "minecraft:air",
+		  "weight": 1
+        },
+		{
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": 1,
+              "entity": "aether:cockatrice",
+              "function": "aether:whirlwind_spawn_entity"
+            }
+          ],
+          "name": "minecraft:air",
+		  "weight": 1
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

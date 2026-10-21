@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "sbs",
+        "bcb",
+        "sbs"
+    ],
+    "key": {
+        "c": {
+            "item": "blue_skies:charoite"
+        },
+        "s": {
+            "item": "blue_skies:moonstone_shard"
+        },
+        "b": {
+            "item": "blue_skies:lunar_stonebrick"
+        }
+    },
+    "result": {
+        "item": "cataclysm:flame_eye",
+		"nbt": "{display:{Lore:['{\"text\":\"Use to open a temporary portal to the Everdawn from the Everbright or Overworld. This portal can only teleport players! If you haven\\'t used the Charm of Keeping, your inventory will be left behind, except for any equipped accessories, Command Block parts, and certain magical tools!\",\"color\":\"gray\",\"italic\":false}']}}"
+    }
+}

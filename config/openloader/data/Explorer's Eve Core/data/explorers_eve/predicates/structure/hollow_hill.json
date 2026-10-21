@@ -1,0 +1,25 @@
+[
+  {
+    "condition": "minecraft:alternative",
+    "terms": [
+      {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "structure": "twilightforest:small_hollow_hill"
+        }
+      },
+	  {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "structure": "twilightforest:medium_hollow_hill"
+        }
+      },
+	  {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "structure": "twilightforest:large_hollow_hill"
+        }
+      }
+    ]
+  }
+]

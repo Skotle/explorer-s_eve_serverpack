@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "/": [
+      {
+      "tag": "forge:rods/wooden"
+      }
+    ],
+    "F": {
+      "tag": "forge:feathers"
+    },
+    "G": {
+      "item": "aether:golden_amber"
+    }
+  },
+  "pattern": [
+    "F",
+    "/",
+    "G"
+  ],
+  "result": {
+    "count": 4,
+    "item": "aether:golden_dart"
+  },
+  "show_notification": true
+}

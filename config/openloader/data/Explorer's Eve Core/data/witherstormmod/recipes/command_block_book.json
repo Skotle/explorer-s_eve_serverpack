@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "twilightforest:armor_shard_cluster"
+    },
+    {
+      "item": "twilightforest:armor_shard_cluster"
+    },
+    {
+      "item": "twilightforest:armor_shard_cluster"
+    },
+    {
+      "item": "minecraft:leather"
+    }
+  ],
+  "result": {
+    "item": "witherstormmod:command_block_book"
+  }
+}

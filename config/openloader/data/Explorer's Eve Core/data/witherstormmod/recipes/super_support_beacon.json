@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "GSG",
+    "III"
+  ],
+  "key": {
+    "G": {
+      "item": "witherstormmod:tainted_glass"
+    },
+    "S": {
+      "item": "cataclysm:witherite_ingot"
+    },
+    "I": {
+      "item": "witherstormmod:tainted_flesh_block"
+    }
+  },
+  "result": {
+    "item": "witherstormmod:super_support_beacon"
+  }
+}

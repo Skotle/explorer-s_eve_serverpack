@@ -1,0 +1,19 @@
+{
+  "result": {
+    "nbt": "{Enchantments:[{id:\"minecraft:blast_protection\",lvl:2s},{id:\"minecraft:projectile_protection\",lvl:2s}],AttributeModifiers:[{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:5,Operation:0,UUID:[I;-820972190,889210054,-1678564695,-1734892075],Slot:\"chest\"},{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:2,Operation:0,UUID:[I;685043447,-1513406443,-1544100047,-821853539],Slot:\"chest\"}]}",
+    "item": "twilightforest:yeti_chestplate",
+    "type": "minecraft:item_nbt"
+  },
+  "group": "yeti_armor",
+  "pattern": [
+    "# #",
+    "###",
+    "###"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "twilightforest:alpha_yeti_fur"
+    }
+  }
+}

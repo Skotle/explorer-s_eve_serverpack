@@ -1,0 +1,11 @@
+{
+  "replace": true,
+  "values": [
+	"twilightforest:dark_tower",
+	"minecraft:ancient_city",
+	"cataclysm:ruined_citadel",
+	"blue_skies:nature_dungeon",
+	"blue_skies:poison_dungeon",
+	"aether:gold_dungeon"
+  ]
+}

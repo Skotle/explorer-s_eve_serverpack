@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " dw",
+    " dw",
+    " dw"
+  ],
+  "key": {
+	"d": {
+      "item": "witherstormmod:tainted_dust"
+    },
+    "w": {
+      "item": "witherstormmod:withered_bone"
+    }
+  },
+  "result": {
+    "item": "witherstormmod:tainted_skeleton_wall"
+  }
+}

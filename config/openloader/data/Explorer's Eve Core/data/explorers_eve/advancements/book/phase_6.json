@@ -1,0 +1,9 @@
+{
+  "parent": "explorers_eve:book/formidibomb",
+  "criteria": {
+    "revival": {
+      "trigger": "witherstormmod:wither_storm_revival",
+      "conditions": {}
+    }
+  }
+}

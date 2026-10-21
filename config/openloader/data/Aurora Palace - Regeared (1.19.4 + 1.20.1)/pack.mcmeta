@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "pack_format": 12,
+		"name": "Aurora Palace - Regeared",
+        "id": "gearsaw_palace",
+        "version": "1.0.0",
+        "authors": [
+            "sm644me",
+            "Gearsaw Studios"
+        ],
+        "description": "Revamps the Aurora Palace!"
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "parent": "explorers_eve:book/bowels",
+  "criteria": {
+    "inventory_changed": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "witherstormmod:withered_nether_star"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

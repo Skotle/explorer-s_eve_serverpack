@@ -1,0 +1,3 @@
+#Wait for a bit...
+scoreboard players add @s CommandSymbiontTime 1
+execute if score @s CommandSymbiontTime matches 626.. run function explorers_eve:command_block/symbiont/summon_end

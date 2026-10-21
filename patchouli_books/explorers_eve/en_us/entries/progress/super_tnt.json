@@ -1,0 +1,24 @@
+{
+    "name": "2. Super TNT",
+    "icon": "witherstormmod:super_tnt",
+    "category": "patchouli:progress",
+	"advancement": "explorers_eve:book/super_tnt",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Tales tell of $(item)Super TNT$(), the most powerful explosive of all, forged with the power of the Command Block. It's critical to slaying the Wither Storm, but it was stolen by monsters and hidden underground in the $(thing)Reanimated Ruins$().$(br2)To stand a chance of finding it, you'll need a map. There are three ways to find one such map."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "First, you could wander the surface of the Overworld to find a stony staircase marked with a Soul Lantern. These undead-infested $(thing)Catacombs$() are dangerous, but if you delve deep enough, a map will be yours.$(br2)Second, you could search for an $(thing)Abandoned Mineshaft$() either by getting lucky in a cave or by finding an entrance on the surface. The winding tunnels may lead to a small outpost containing a map, and ore is plentiful here."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Alternatively, you could search in the $(thing)Aether$(), a land above the clouds accessible by building a portal from glowstone and activating it with a water bucket. Many of this dimension's large floating islands contain a $(thing)Bronze Dungeon$() marked by a large rectangular tunnel. If you can conquer its guardian, you'll be rewarded with a map and some valuable treasures. This is the most dangerous option, but perhaps the risk will pay off?"
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Wherever you search, make sure to not neglect your gear! More resources are available to you now. You can mine for diamonds in the $(thing)Overworld$()'s caves, search through the desolate $(thing)Nether$(), imbue items with the $(thing)Aether$()'s magic, and even return to the $(thing)Twilight Forest$() to scavenge for more treasures!$(br2)The Wither Storm is a constant threat, but if you don't prepare while you can, it may get worse later..."
+        }
+    ]
+}

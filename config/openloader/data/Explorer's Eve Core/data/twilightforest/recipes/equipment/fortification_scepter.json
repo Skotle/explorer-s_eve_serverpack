@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "type": "forge:partial_nbt",
+      "item": "twilightforest:fortification_scepter",
+      "nbt": "{Damage:9}"
+    },
+    {
+      "item": "minecraft:golden_apple"
+    },
+	{
+      "item": "lost_aether_content:invincibility_gem"
+    }
+  ],
+  "result": {
+    "item": "twilightforest:fortification_scepter",
+	"nbt": "{display:{Lore:['{\"text\":\"Creates temporary shields around the wielder.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Explorer\\'s Treasure\",\"color\":\"gold\"}']}}"
+  }
+}

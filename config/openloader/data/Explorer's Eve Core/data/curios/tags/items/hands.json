@@ -1,0 +1,11 @@
+{
+  "replace": true,
+  "values": [
+    "aether:gravitite_gloves",
+    "aether:neptune_gloves",
+    "aether:valkyrie_gloves",
+    "aether:phoenix_gloves",
+    "aether:obsidian_gloves",
+    "deep_aether:stratus_gloves"
+  ]
+}

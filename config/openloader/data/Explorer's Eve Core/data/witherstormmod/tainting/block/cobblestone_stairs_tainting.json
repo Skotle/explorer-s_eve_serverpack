@@ -1,0 +1,19 @@
+{
+  "block": "minecraft:cobblestone_stairs",
+  "potion_effect": "minecraft:wither",
+  "properties_to_copy": [
+    "facing",
+    "half",
+    "shape",
+    "waterlogged"
+  ],
+  "replacement": {
+    "Name": "witherstormmod:tainted_cobblestone_stairs",
+    "Properties": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "parent": "witherstormmod:main/activate_super_beacon",
+  "display": {
+    "icon": {
+      "item": "minecraft:carrot_on_a_stick",
+	  "nbt": "{CustomModelData:6}"
+    },
+    "title": "The Zenith",
+    "description": "Empower an Explorer's Treasure to make it suitable for the ultimate showdown",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "no": {
+      "trigger": "minecraft:impossible"
+      }
+    }
+  }
+}

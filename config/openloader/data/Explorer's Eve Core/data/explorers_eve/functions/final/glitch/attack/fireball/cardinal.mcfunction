@@ -1,0 +1,7 @@
+#Summon four fireballs.
+tag @s add Cardinal
+playsound minecraft:entity.blaze.shoot hostile @a ~ ~ ~ 8 1.5
+summon minecraft:endermite ~ ~1 ~ {ActiveEffects:[{Id:14,Amplifier:0b,Duration:999999,ShowParticles:0b},{Id:20,Amplifier:0b,Duration:999999,ShowParticles:0b}],Health:2,Silent:1,Motion:[1.75d,1d,0d],Passengers:[{id:dragon_fireball,direction:[0.0,0.1,-1.0],power:[0.0,-0.1,0.0],CreatedBySymbiont:1b}]}
+summon minecraft:endermite ~ ~1 ~ {ActiveEffects:[{Id:14,Amplifier:0b,Duration:999999,ShowParticles:0b},{Id:20,Amplifier:0b,Duration:999999,ShowParticles:0b}],Health:2,Silent:1,Motion:[-1.75d,1d,0d],Passengers:[{id:dragon_fireball,direction:[0.0,0.1,-1.0],power:[0.0,-0.1,0.0],CreatedBySymbiont:1b}]}
+summon minecraft:endermite ~ ~1 ~ {ActiveEffects:[{Id:14,Amplifier:0b,Duration:999999,ShowParticles:0b},{Id:20,Amplifier:0b,Duration:999999,ShowParticles:0b}],Health:2,Silent:1,Motion:[0d,1d,1.75d],Passengers:[{id:dragon_fireball,direction:[0.0,0.1,-1.0],power:[0.0,-0.1,0.0],CreatedBySymbiont:1b}]}
+summon minecraft:endermite ~ ~1 ~ {ActiveEffects:[{Id:14,Amplifier:0b,Duration:999999,ShowParticles:0b},{Id:20,Amplifier:0b,Duration:999999,ShowParticles:0b}],Health:2,Silent:1,Motion:[0d,1d,-1.75d],Passengers:[{id:dragon_fireball,direction:[0.0,0.1,-1.0],power:[0.0,-0.1,0.0],CreatedBySymbiont:1b}]}

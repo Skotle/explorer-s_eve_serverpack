@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "eat_apple": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "aether:white_apple"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "explorers_eve:item/eat_white_apple"
+  }
+}

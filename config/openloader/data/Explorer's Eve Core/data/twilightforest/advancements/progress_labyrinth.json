@@ -1,0 +1,37 @@
+{
+  "parent": "twilightforest:ironwood",
+  "criteria": {
+    "axe": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dungeons_plus:warped_axe"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancement.twilightforest.progress_labyrinth.desc"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "dungeons_plus:warped_axe"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancement.twilightforest.progress_labyrinth"
+    }
+  },
+  "requirements": [
+    [
+      "axe"
+    ]
+  ]
+}

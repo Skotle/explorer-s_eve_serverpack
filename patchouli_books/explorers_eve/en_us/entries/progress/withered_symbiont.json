@@ -1,0 +1,24 @@
+{
+    "name": "3. The Withered Symbiont",
+    "icon": "witherstormmod:formidibomb",
+    "category": "patchouli:progress",
+	"advancement": "explorers_eve:book/formidibomb",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Now that you've secured Super TNT, it's time to set it off! Approach the Wither Storm and light the fuse.$(br2)Unfortunately, it won't be that easy. The Super TNT's latent energy will attract the Wither Storm's attention. When provoked, it will absorb the Super TNT and use its power to create a new, fearsome monster: A $(item)Withered Symbiont$()."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "This presents an opportunity. These two abominations are closely connected, and slaying the $(item)Withered Symbiont$() will disrupt the Wither Storm and destabilize the Super TNT it absorbed. After being steeped in the Wither Storm's corrupted aura, who knows what that'll do? It's risky, but what other option do you have?$(br2)Don't forget to prepare. This battle will be tough, and you'll want the best gear you can find!"
+        },
+		{
+            "type": "patchouli:text",
+            "text": "The Withered Symbiont is $(thing)invincible$() except for a very specific time. It fights by casting a huge variety of spells, after which it will summon a horde of sickened monsters. Once it has finished summoning, it will stop to $(thing)recharge its strength$(), leaving it vulnerable. Clear out the monsters quickly and $(thing)attack its back$() to hurt it!$(br2)If you take too long, it will recharge on its own!"
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Additionally, the Wither Storm $(thing)will not target players with its tractor beams$() near the Withered Symbiont. Once you begin this fight, you won't have to worry about it!$(br2)The Wither Storm will still fire flaming skulls during this battle, though, so never become complacent. Its skulls are slow, but they're deadly if you don't dodge them."
+        }
+    ]
+}

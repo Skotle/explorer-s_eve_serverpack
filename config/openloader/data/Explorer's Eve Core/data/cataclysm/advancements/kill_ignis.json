@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "item": "cataclysm:ignitium_ingot"
+    },
+    "title": {
+      "translate": "advancements.cataclysm.kill_ignis.title"
+    },
+    "description": {
+      "translate": "advancements.cataclysm.kill_ignis.description"
+    },
+    "frame": "challenge"
+  },
+  "parent": "twilightforest:progress_castle",
+  "criteria": {
+    "ignis": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "cataclysm:ignis",
+              "location": {
+                "dimension": "twilightforest:twilight_forest"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

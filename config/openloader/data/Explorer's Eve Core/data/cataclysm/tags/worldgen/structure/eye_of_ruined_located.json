@@ -1,0 +1,9 @@
+{
+    "replace": true,
+    "values": [
+	"#minecraft:village",
+	"#twilightforest:landmark",
+	"#minecraft:eye_of_ender_located",
+	"#aether:dungeons"
+    ]
+}

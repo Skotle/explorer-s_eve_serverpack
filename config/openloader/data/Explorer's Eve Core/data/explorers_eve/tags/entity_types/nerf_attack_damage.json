@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+	"twilightforest:winter_wolf",
+	"twilightforest:mist_wolf",
+	"twilightforest:troll",
+	"twilightforest:kobold",
+	"twilightforest:redcap",
+	"twilightforest:redcap_sapper",
+	"twilightforest:pinch_beetle"
+  ]
+}

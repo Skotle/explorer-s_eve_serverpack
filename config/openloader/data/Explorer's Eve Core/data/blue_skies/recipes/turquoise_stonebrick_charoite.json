@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "###",
+    "#C#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "blue_skies:lunar_stonebrick"
+    },
+    "C": {
+      "item": "blue_skies:charoite"
+    }
+  },
+  "result": {
+    "item": "blue_skies:turquoise_stonebrick",
+    "count": 16
+  }
+}

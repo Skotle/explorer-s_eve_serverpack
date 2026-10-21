@@ -1,0 +1,17 @@
+{
+  "block": "#minecraft:leaves",
+  "potion_effect": "minecraft:wither",
+  "properties_to_copy": [
+    "distance",
+    "persistent",
+    "waterlogged"
+  ],
+  "replacement": {
+    "Name": "witherstormmod:tainted_leaves",
+    "Properties": {
+      "distance": "7",
+      "persistent": "false",
+      "waterlogged": "false"
+    }
+  }
+}

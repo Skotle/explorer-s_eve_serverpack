@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "twilightforest:charm_of_life_2"
+    },
+    "title": {
+      "text": "Life Insurance"
+    },
+    "description": {
+      "text": "Craft a Charm of Life II for ultimate death protection"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:adventure/charm_of_life_1",
+  "criteria": {
+    "charm": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "twilightforest:charm_of_life_2"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "charm"
+    ]
+  ]
+}

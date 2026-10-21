@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "cataclysm:ender_golem",
+    "cataclysm:ender_guardian",
+    "minecraft:ender_dragon",
+    "minecraft:enderman",
+    "minecraft:endermite",
+    "cataclysm:endermaptera",
+    "witherstormmod:wither_storm",
+    "witherstormmod:withered_symbiont"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "blue_skies:charoite_shovel"
+  },
+  "addition": {
+    "item": "minecraft:command_block"
+  },
+  "result": {
+    "item": "witherstormmod:wooden_command_block_shovel"
+  }
+}

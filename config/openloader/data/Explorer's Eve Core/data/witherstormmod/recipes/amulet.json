@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "dgd",
+    "gag",
+    "dgd"
+  ],
+  "key": {
+	"d": {
+      "item": "witherstormmod:tainted_dust"
+    },
+    "g": {
+      "item": "minecraft:gold_ingot"
+    },
+    "a": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+  	"item": "witherstormmod:amulet",
+  	"nbt": {
+  	  "TrackEntityTypes": true
+  	}
+  }
+}

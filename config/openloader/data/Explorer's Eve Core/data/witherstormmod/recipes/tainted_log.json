@@ -1,0 +1,34 @@
+{
+  "type": "witherstormmod:item_craft_super_beacon",
+  "condition": "main_activated",
+  "ingredients": [
+    {
+      "item": "minecraft:log"
+    },
+    {
+      "item": "minecraft:log"
+    },
+    {
+      "item": "minecraft:log"
+    },
+    {
+      "item": "minecraft:log"
+    },
+    {
+      "item": "minecraft:log"
+    },
+    {
+      "item": "minecraft:log"
+    },
+    {
+      "item": "minecraft:log"
+    },
+    {
+      "item": "minecraft:log"
+    }
+  ],
+  "result": {
+    "item": "witherstormmod:tainted_log",
+	"count": 8
+  }
+}

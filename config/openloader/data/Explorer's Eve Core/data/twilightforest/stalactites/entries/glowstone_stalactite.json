@@ -1,0 +1,11 @@
+{
+  "blocks": [
+    {
+      "block": "twilightforest:trollsteinn",
+      "weight": 1
+    }
+  ],
+  "max_length": 10,
+  "size_variation": 0.75,
+  "weight": 20
+}

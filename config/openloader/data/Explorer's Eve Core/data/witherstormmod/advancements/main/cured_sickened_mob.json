@@ -1,0 +1,32 @@
+{
+  "parent": "witherstormmod:main/summon_wither_storm",
+  "display": {
+    "icon": {
+      "item": "witherstormmod:golden_apple_stew"
+    },
+    "title": {
+      "translate": "advancements.witherstormmod.main.cured_sickened_mob.title"
+    },
+    "description": {
+      "translate": "advancements.witherstormmod.main.cured_sickened_mob.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "stew": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "witherstormmod:golden_apple_stew"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

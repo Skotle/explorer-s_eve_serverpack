@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "witherstormmod:super_beacon"
+    }
+  ],
+  "result": {
+    "item": "witherstormmod:withered_nether_star"
+  }
+}

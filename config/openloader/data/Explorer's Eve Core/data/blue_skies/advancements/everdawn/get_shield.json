@@ -1,0 +1,33 @@
+{
+  "parent": "blue_skies:everdawn/enter",
+  "display": {
+    "icon": {
+      "item": "blue_skies:moonstone_shield"
+    },
+    "title": "Terrific Translucence",
+    "description": "Craft a Shield using Vitreous Moonstone.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "inventory_changed": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "blue_skies:moonstone_shield"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "inventory_changed"
+    ]
+  ]
+}

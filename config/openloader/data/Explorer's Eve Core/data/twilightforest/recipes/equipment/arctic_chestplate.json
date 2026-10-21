@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "tag": "twilightforest:arctic_fur"
+    }
+  },
+  "pattern": [
+    "# #",
+    "###",
+    "###"
+  ],
+  "result": {
+    "nbt": "{AttributeModifiers:[{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:3,Operation:0,UUID:[I;-2142034876,1495811973,-1144944613,2130466646],Slot:\"chest\"},{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:2,Operation:0,UUID:[I;1269172331,987581126,-1169418339,-805447672],Slot:\"chest\"}]}",
+    "item": "twilightforest:arctic_chestplate",
+    "type": "minecraft:item_nbt"
+  }
+}

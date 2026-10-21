@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "exit_bowels": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "from": "witherstormmod:bowels"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "exit_bowels"
+    ]
+  ],
+  "rewards": {
+    "function": "explorers_eve:world/bowels_exit"
+  }
+}

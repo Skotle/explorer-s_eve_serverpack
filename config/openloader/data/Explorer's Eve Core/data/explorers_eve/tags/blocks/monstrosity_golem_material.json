@@ -1,0 +1,12 @@
+{
+  "values": [
+    "minecraft:red_nether_bricks",
+	"minecraft:polished_basalt",
+    "minecraft:blackstone",
+    "minecraft:polished_blackstone",
+    "minecraft:chiseled_polished_blackstone",
+    "minecraft:polished_blackstone_brick_stairs",
+    "minecraft:redstone_block",
+    "witherstormmod:tainted_dust_block"
+  ]
+}

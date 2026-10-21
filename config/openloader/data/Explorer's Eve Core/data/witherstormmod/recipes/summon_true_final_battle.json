@@ -1,0 +1,32 @@
+{
+	"type": "witherstormmod:resummon_super_beacon",
+ 	"ingredients": [
+ 		{
+ 			"item": "witherstormmod:tainted_dust"
+ 		},
+ 		{
+ 			"item": "witherstormmod:tainted_dust"
+ 		},
+ 		{
+ 			"item": "witherstormmod:tainted_dust"
+ 		},
+ 		{
+ 			"item": "witherstormmod:tainted_dust"
+ 		},
+ 		{
+ 			"item": "witherstormmod:tainted_dust"
+ 		},
+ 		{
+ 			"item": "witherstormmod:tainted_dust"
+ 		},
+ 		{
+ 			"item": "witherstormmod:command_block_book"
+ 		},
+ 		{
+ 			"item": "witherstormmod:tainted_dust"
+ 		}
+  	],
+  	"entity": "minecraft:marker",
+  	"nbt": "{Tags:[\"FinalBossSummonMark\"],CustomName:'{\"text\":\"???\"}'}",
+  	"condition": "all_supports"
+}

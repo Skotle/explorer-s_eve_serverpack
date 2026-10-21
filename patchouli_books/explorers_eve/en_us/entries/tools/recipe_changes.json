@@ -1,0 +1,26 @@
+{
+    "name": "Changed Recipes",
+    "icon": "minecraft:saddle",
+    "category": "patchouli:tools",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Recipe changes make certain items more practical. For example, saddles and all types of horse armor are easily craftable, and horses themselves $(thing)move faster$(), making them viable transport options!$(br2)Be curious! When you have time, check JEI to see what your materials can be used for!$(br2)Here are some examples."
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "aether:aether_saddle",
+			"recipe2": "minecraft:golden_horse_armor"
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "minecraft:bundle",
+			"recipe2": "cataclysm:void_scatter_arrow"
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "twilightforest:magic_map_focus",
+			"recipe2": "twilightforest:ore_map"
+        }
+    ]
+}

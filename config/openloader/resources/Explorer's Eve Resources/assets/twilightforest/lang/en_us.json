@@ -1,0 +1,20 @@
+{
+  "advancement.twilightforest.kill_naga.desc": "Slay the %s in its forest courtyard and obtain some %ss.",
+  "advancement.twilightforest.kill_lich.desc": "Slay the %s at the top of his tower and retrieve a magical scepter.",
+  "advancement.twilightforest.progress_labyrinth": "Axing Questions",
+  "advancement.twilightforest.progress_labyrinth.desc": "Claim the Warped Axe from the depths of the swampy labyrinth.",
+  "advancement.twilightforest.kill_hydra.desc": "Defeat the mighty %s in the Fire Swamp.",
+  "advancement.twilightforest.progress_knights.desc": "Settle the restless phantoms in the Knight's Tomb.",
+  "advancement.twilightforest.progress_ur_ghast.desc": "Slay the %s and claim its fiery tears.",
+  "advancement.twilightforest.progress_yeti.desc": "Line your garments with the soft fur from the %s.",
+  "advancement.twilightforest.progress_castle": "So Castle Very Wow",
+  "advancement.twilightforest.progress_castle.desc": "Venture inside the enormous castle atop the Thornlands.",
+  
+  "biome.twilightforest.dark_forest_edge": "Dark Forest Edge",
+  
+  "entity.twilightforest.thrown_ice": "Falling Ice",
+  
+  "item.twilightforest.armor_shard_cluster": "Thaumic Paper",
+  "item.twilightforest.knightmetal_ingot": "Coruscant Panel",
+  "item.twilightforest.knightmetal_ring": "Redstone Heart"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "cataclysm:weapon_fusion",
+  "base": {
+    "item": "witherstormmod:command_block_pickaxe"
+  },
+  "addition": {
+    "item": "cataclysm:ignitium_ingot"
+  },
+  "result": {
+    "item": "cataclysm:infernal_forge"
+  }
+}

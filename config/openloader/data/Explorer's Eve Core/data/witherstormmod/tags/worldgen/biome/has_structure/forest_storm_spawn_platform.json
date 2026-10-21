@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+    "twilightforest:firefly_forest",
+    "twilightforest:forest",
+    "twilightforest:mushroom_forest"
+  ]
+}

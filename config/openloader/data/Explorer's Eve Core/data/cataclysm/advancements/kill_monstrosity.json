@@ -1,0 +1,65 @@
+{
+  "display": {
+    "icon": {
+      "item": "twilightforest:lamp_of_cinders"
+    },
+    "title": {
+      "translate": "advancements.cataclysm.kill_monstrosity.title"
+    },
+    "description": {
+      "translate": "advancements.cataclysm.kill_monstrosity.description"
+    },
+    "frame": "challenge"
+  },
+  "parent": "minecraft:nether/find_fortress",
+  "criteria": {
+    "netheritemonstrosity": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "cataclysm:netherite_monstrosity",
+              "location": {
+                "dimension": "minecraft:the_nether"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "horn": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "cataclysm:monstrous_horn"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "ashes": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "twilightforest:lamp_of_cinders"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "netheritemonstrosity",
+      "horn",
+      "ashes"
+    ]
+  ]
+}

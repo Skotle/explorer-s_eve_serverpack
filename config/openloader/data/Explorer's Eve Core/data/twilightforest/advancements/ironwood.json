@@ -1,0 +1,33 @@
+{
+  "parent": "twilightforest:root",
+  "display": {
+    "icon": {
+      "item": "twilightforest:ironwood_ingot"
+    },
+    "title": "Natural Hardware",
+    "description": "Obtain Ironwood either by finding it or by melding Liveroot with iron and gold.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "inventory_changed": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "twilightforest:ironwood_ingot"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "inventory_changed"
+    ]
+  ]
+}

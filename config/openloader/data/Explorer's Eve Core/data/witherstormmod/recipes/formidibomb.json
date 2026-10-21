@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ddd",
+    "dtd",
+    "ddd"
+  ],
+  "key": {
+	"d": {
+      "item": "witherstormmod:tainted_dust"
+    },
+    "t": {
+      "item": "witherstormmod:super_tnt"
+    }
+  },
+  "result": {
+    "item": "witherstormmod:formidibomb"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cataclysm:enderite_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "cataclysm:enderite_ingot"
+  }
+}

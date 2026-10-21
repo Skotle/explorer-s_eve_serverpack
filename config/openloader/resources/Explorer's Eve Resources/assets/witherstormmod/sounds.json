@@ -1,0 +1,11 @@
+{
+	"bowels_loop": {
+    	"category": "ambient",
+		"replace": true,
+    	"subtitle": "witherstormmod.subtitle.bowels_ambience",
+    	"sounds": [{
+    		"name": "witherstormmod:wither_storm/bowels/bowels_loop",
+    		"volume": 0.25
+    	}]
+	}
+}

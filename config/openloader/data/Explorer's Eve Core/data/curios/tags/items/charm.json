@@ -1,0 +1,15 @@
+{
+  "replace": true,
+  "values": [
+    "aether:golden_feather",
+    "aether:iron_bubble",
+    "lost_aether_content:invincibility_gem",
+    "lost_aether_content:flaming_gemstone",
+    "aether:zanite_ring",
+    "aether:ice_ring",
+    "deep_aether:skyjade_ring",
+    "aether:agility_cape",
+    "aether:swet_cape",
+    "lost_aether_content:phoenix_cape"
+  ]
+}

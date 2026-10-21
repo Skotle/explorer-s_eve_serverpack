@@ -1,0 +1,8 @@
+[
+  {
+    "condition": "minecraft:location_check",
+    "predicate": {
+      "structure": "twilightforest:lich_tower"
+    }
+  }
+]

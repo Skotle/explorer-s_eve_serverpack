@@ -1,0 +1,16 @@
+{
+    "name": "Wither Sickness",
+    "icon": "witherstormmod:golden_apple_stew",
+    "category": "patchouli:essentials",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "If you spend too much time near the Wither Storm, you may get infected with $(thing)Wither Sickness$(). Signaled by purple spots all over the body, this disease slowly lowers your maximum health. The only known cure is $(item)Golden Apple Stew$(), made with a drop from a fully-infected monster combined with plenty of curatives."
+        },
+		{
+            "type": "patchouli:crafting",
+            "recipe": "witherstormmod:golden_apple_stew",
+			"text": "Once you eat the stew or give it to an infected entity, it'll take a little while to be fully cured. Make sure to stay away from the Wither Storm during this time, as it might overpower the stew's effect and worsen the infection."
+        }
+    ]
+}

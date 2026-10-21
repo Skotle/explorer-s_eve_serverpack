@@ -1,0 +1,19 @@
+{
+  "replace": true,
+  "values": [
+    "#minecraft:village",
+    "minecraft:mansion",
+    "minecraft:pillager_outpost",
+    "minecraft:end_city",
+    "betterdeserttemples:desert_temple",
+    "betterjungletemples:jungle_temple",
+	"betteroceanmonuments:ocean_monument",
+	"dungeons_plus:snowy_temple",
+	"twilightforest:lich_tower",
+	"twilightforest:dark_tower",
+	"gearsaw_palace:aurora_palace",
+	"#blue_skies:on_blinding_maps",
+	"aether:silver_dungeon",
+	"lost_aether_content:platinum_dungeon"
+  ]
+}

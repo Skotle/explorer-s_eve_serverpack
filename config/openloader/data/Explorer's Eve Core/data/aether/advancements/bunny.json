@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "aether:cold_aercloud"
+    },
+    "title": "Better than Bundles",
+    "description": "Pick up an Aerbunny to glide through the sky",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "aether:blue_aercloud",
+  "criteria": {
+    "bunny": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "passenger": {
+                "type": "aether:aerbunny"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

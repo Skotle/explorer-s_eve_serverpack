@@ -1,0 +1,8 @@
+{
+  "type": "aether:repairing",
+  "group": "altar_pickaxe_repair",
+  "ingredient": {
+    "item": "blue_skies:charoite_pickaxe"
+  },
+  "repairTime": 2000
+}

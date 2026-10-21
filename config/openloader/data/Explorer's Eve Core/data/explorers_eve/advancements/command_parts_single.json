@@ -1,0 +1,37 @@
+{
+  "criteria": {
+    "heart": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "twilightforest:knightmetal_ring"
+            ]
+          }
+        ]
+      }
+    },
+    "panels": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "twilightforest:knightmetal_ingot"
+            ],
+            "count": {
+              "min": 6
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "heart",
+      "panels"
+    ]
+  ]
+}

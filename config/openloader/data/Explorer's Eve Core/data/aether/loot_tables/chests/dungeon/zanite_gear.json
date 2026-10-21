@@ -1,0 +1,61 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "aether:zanite_helmet",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "aether:zanite_chestplate",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "aether:zanite_leggings",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "aether:zanite_boots",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "aether:zanite_pickaxe",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "aether:zanite_axe",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "aether:zanite_shovel",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "aether:zanite_hoe",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "aether:zanite_sword",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lost_aether_content:zanite_shield",
+          "weight": 3
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

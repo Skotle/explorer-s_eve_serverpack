@@ -1,0 +1,61 @@
+{
+  "processors": [
+    {
+      "rules": [
+        {
+          "output_state": {
+            "Name": "blue_skies:lunar_stonebrick"
+          },
+          "input_predicate": {
+            "block": "blue_skies:brumble_block",
+            "probability": 0.05,
+            "predicate_type": "minecraft:random_block_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "blue_skies:cracked_lunar_stonebrick"
+          },
+          "input_predicate": {
+            "block": "blue_skies:brumble_block",
+            "probability": 0.1,
+            "predicate_type": "minecraft:random_block_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "blue_skies:lunar_cobblestone"
+          },
+          "input_predicate": {
+            "block": "blue_skies:brumble_block",
+            "probability": 0.35,
+            "predicate_type": "minecraft:random_block_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          }
+        },
+		{
+          "output_state": {
+            "Name": "blue_skies:lunar_stone"
+          },
+          "input_predicate": {
+            "block": "blue_skies:brumble_block",
+            "probability": 1,
+            "predicate_type": "minecraft:random_block_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          }
+        }
+      ],
+      "processor_type": "minecraft:rule"
+    }
+  ]
+}

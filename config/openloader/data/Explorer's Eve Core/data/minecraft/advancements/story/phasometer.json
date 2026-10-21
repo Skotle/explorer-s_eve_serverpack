@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:story/spyglass",
+  "display": {
+    "icon": {
+      "item": "witherstormmod:phasometer"
+    },
+    "title": "Crackers, analysis!",
+    "description": "Upgrade your Spyglass into a Phasometer to scan the Wither Storm from any distance",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "inventory_changed": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "witherstormmod:phasometer"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "inventory_changed"
+    ]
+  ]
+}

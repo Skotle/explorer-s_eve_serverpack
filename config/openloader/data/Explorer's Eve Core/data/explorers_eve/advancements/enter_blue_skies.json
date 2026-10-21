@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "enter_everbright": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "blue_skies:everbright"
+      }
+    },
+    "enter_everdawn": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "blue_skies:everdawn"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "enter_everbright",
+      "enter_everdawn"
+    ]
+  ],
+  "rewards": {
+    "function": "explorers_eve:world/blue_skies/enter"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "display": {
+    "icon": {
+      "item": "cataclysm:mech_eye"
+    },
+    "title": {
+      "translate": "advancements.cataclysm.kill_harbinger.title"
+    },
+    "description": {
+      "translate": "advancements.cataclysm.kill_harbinger.description"
+    },
+    "frame": "challenge"
+  },
+  "parent": "minecraft:nether/create_beacon",
+  "criteria": {
+    "theharbinger": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "cataclysm:the_harbinger",
+              "location": {
+                "dimension": "minecraft:overworld"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "weapon": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "cataclysm:wither_assault_shoulder_weapon"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "theharbinger",
+      "weapon"
+    ]
+  ]
+}

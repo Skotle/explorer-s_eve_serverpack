@@ -1,0 +1,46 @@
+{
+  "parent": "witherstormmod:main/belly_of_the_beast",
+  "display": {
+    "icon": {
+      "item": "minecraft:command_block"
+    },
+    "title": {
+      "translate": "advancements.witherstormmod.main.infinite_potential.title"
+    },
+    "description": {
+      "translate": "advancements.witherstormmod.main.infinite_potential.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "inventory_changed": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:command_block"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "inventory_changed"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "witherstormmod:command_block_sword_smithing",
+      "witherstormmod:command_block_pickaxe_smithing",
+      "witherstormmod:command_block_axe_smithing",
+      "witherstormmod:command_block_shovel_smithing",
+      "witherstormmod:command_block_hoe_smithing"
+    ]
+  }
+}

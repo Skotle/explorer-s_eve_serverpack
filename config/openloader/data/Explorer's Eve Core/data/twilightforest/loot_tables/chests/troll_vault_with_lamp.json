@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "twilightforest:chests/troll_vault"
+        }
+      ],
+      "rolls": 1.0
+    },
+	{
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "aether:agility_cape",
+		  "functions": [
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Allows the wearer to step up blocks without jumping.",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "Explorer's Treasure",
+                  "color": "gold"
+                }
+              ]
+            }
+		  ]
+        }
+      ]
+    }
+  ]
+}

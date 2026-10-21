@@ -1,0 +1,37 @@
+{
+    "name": "The Aether",
+    "icon": "aether:ambrosium_shard",
+    "category": "patchouli:tools",
+	"advancement": "explorers_eve:book/super_tnt",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Aether is a realm high above the clouds. If you fall, you'll drop back into the Overworld, so always be prepared to survive the drop! A $(item)parachute$() made from Cold or Golden Aerclouds can help. $(br2)The gaps between floating islands are often large. Make use of the local wildlife to get around easier."
+        },
+		{
+			"type": "patchouli:spotlight",
+			"item": "aether:ambrosium_shard",
+            "text": "Torches don't have enough oxygen to burn in the Aether. Instead, use $(item)Ambrosium$() torches! Ambrosium also has many other uses. It can be used to fuel both Altars and furnaces, it can enchant grass to increase harvests from berry bushes, and it can be used to craft $(item)healing stones$()."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "aether:zanite_gemstone",
+            "text": "These gemstones are the basic material of the Aether. Armor and tools created using $(item)Zanite$() become $(thing)more powerful$() as their durability decreases. They can also be used to make an Altar, which allows enchanting various items via Ambrosium fuel, and a Nature Staff, used to make a tamed Moa sit!"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "deep_aether:skyjade",
+            "text": "Rare $(item)Skyjade$() gems create absurdly powerful tools and armor. However, their power rapidly deteriorates as their durability lowers, and they $(thing)cannot be enchanted$()."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "aether:enchanted_gravitite",
+            "text": "$(item)Gravitite$() is equivalent to diamond in strength. The sword will launch monsters skyward, the tools make blocks levitate away, and a full set of armor (including gloves!) allows for a very high jump!$(br2)The ore will $(thing)levitate$() when not under a ceiling, so make sure it doesn't fly away!"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "deep_aether:stratus_ingot",
+            "text": "The most powerful material the Aether has to offer. $(item)Stratus$() gear is superior to Gravitite in every way. It can be crafted by combining Enchanted Pink Aerclouds with Falsite from the Everbright and Chromatic Aerclouds, obtained by purifying Sterling Aerclouds in an Alchemy Table from the Everdawn."
+		}
+    ]
+}

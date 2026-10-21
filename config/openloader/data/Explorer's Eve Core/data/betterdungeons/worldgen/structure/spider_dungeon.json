@@ -1,0 +1,37 @@
+{
+  "type": "betterdungeons:spider_dungeon",
+  "biomes": [
+    "blue_skies:shaded_woodlands",
+    "blue_skies:sunset_maple_forest",
+    "blue_skies:crescent_orchard"
+  ],
+  "step": "underground_structures",
+  "start_height": {
+    "type": "minecraft:uniform",
+    "min_inclusive": {
+      "absolute": 70
+    },
+    "max_inclusive": {
+      "absolute": 71
+    }
+  },
+  "spawn_overrides": {
+    "monster": {
+      "bounding_box": "piece",
+      "spawns": [
+        {
+          "type": "blue_skies:nested_spider",
+          "weight": 100,
+          "minCount": 4,
+          "maxCount": 15
+        },
+        {
+          "type": "blue_skies:venom_spider",
+          "weight": 25,
+          "minCount": 2,
+          "maxCount": 3
+        }
+      ]
+    }
+  }
+}

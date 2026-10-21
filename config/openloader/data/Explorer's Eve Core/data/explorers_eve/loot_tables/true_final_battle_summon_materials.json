@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "witherstormmod:command_block_book"
+        }
+      ],
+      "rolls": 1.0
+    },
+	{
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": 7,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "witherstormmod:tainted_dust"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "type": "forge:partial_nbt",
+      "item": "twilightforest:lifedrain_scepter",
+      "nbt": "{Damage:99}"
+    },
+    {
+      "item": "minecraft:fermented_spider_eye"
+    },
+    {
+      "item": "minecraft:ghast_tear"
+    }
+  ],
+  "result": {
+    "item": "twilightforest:lifedrain_scepter",
+	"nbt": "{display:{Lore:['{\"text\":\"Drains targets of health to heal the wielder.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Explorer\\'s Treasure\",\"color\":\"gold\"}']}}"
+  }
+}

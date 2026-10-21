@@ -1,0 +1,29 @@
+{
+  "values": [
+	"#witherstormmod:sickened_mobs",
+	"minecraft:shulker_bullet",
+	"minecraft:slime",
+	"minecraft:witch",
+    "minecraft:drowned",
+	"minecraft:guardian",
+	"twilightforest:minotaur",
+	"twilightforest:blockchain_goblin",
+	"twilightforest:skeleton_druid",
+	"twilightforest:fire_beetle",
+	"twilightforest:wraith",
+	"twilightforest:pinch_beetle",
+	"twilightforest:stable_ice_core",
+	"twilightforest:king_spider",
+	"twilightforest:yeti",
+	"twilightforest:death_tome",
+	"twilightforest:slime_beetle",
+	"blue_skies:armored_frost_spirit",
+	"blue_skies:nyctofly",
+	"blue_skies:diophyde_prowler",
+	"blue_skies:infested_swarmer",
+	"blue_skies:polargeist",
+	"blue_skies:emberback",
+	"blue_skies:crynocerous",
+	"blue_skies:venom_spider"
+  ]
+}

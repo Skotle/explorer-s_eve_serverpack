@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "tag": "twilightforest:arctic_fur"
+    }
+  },
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "result": {
+    "nbt": "{AttributeModifiers:[{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:1,Operation:0,UUID:[I;-675643914,-1281210444,-1945213957,2125919932],Slot:\"feet\"},{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:2,Operation:0,UUID:[I;619862001,-1063959055,-1152781905,-219693484],Slot:\"feet\"}]}",
+    "item": "twilightforest:arctic_boots",
+    "type": "minecraft:item_nbt"
+  }
+}

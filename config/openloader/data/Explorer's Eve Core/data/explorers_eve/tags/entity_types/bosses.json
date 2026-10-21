@@ -1,0 +1,13 @@
+{
+  "values": [
+    "#forge:bosses",
+    "#explorers_eve:blinding_boss",
+    "#explorers_eve:population_boss",
+    "witherstormmod:withered_symbiont",
+    "witherstormmod:command_block",
+    "cataclysm:netherite_monstrosity",
+    "cataclysm:ender_guardian",
+    "cataclysm:the_harbinger",
+    "cataclysm:ignis"
+  ]
+}

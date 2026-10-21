@@ -1,0 +1,15 @@
+{
+  "values": [
+    "minecraft:heart_of_the_sea",
+    "minecraft:rabbit_foot",
+    "minecraft:ender_eye",
+    "minecraft:ghast_tear",
+    "minecraft:dragon_breath",
+	"twilightforest:time_sapling",
+	"twilightforest:transformation_sapling",
+	"twilightforest:mining_sapling",
+	"twilightforest:sorting_sapling",
+    "blue_skies:star_flare",
+	"aether:skyroot_remedy_bucket"
+  ]
+}

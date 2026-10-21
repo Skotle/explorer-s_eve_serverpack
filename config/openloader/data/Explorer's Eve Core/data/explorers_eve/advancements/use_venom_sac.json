@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "shot_arrow": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "damage": {
+          "type": {
+            "tags": [
+              {
+                "id": "minecraft:is_projectile",
+                "expected": true
+              }
+            ],
+            "direct_entity": {
+              "type": "blue_skies:venom_spit"
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "explorers_eve:item/venom_sac/check"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "parent": "witherstormmod:main/wither_storm_defeated",
+  "display": {
+    "icon": {
+      "item": "cataclysm:enderite_ingot"
+    },
+    "title": "The Next Phase",
+    "description": "Obtain Infected Steel from the Withered Beacon to evolve your Command Block tools",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "inventory_changed": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "cataclysm:enderite_ingot"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

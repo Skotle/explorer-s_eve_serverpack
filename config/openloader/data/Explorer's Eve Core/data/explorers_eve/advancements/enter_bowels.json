@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "enter_bowels": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "witherstormmod:bowels"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "enter_bowels"
+    ]
+  ],
+  "rewards": {
+    "function": "explorers_eve:world/bowels_protection"
+  }
+}

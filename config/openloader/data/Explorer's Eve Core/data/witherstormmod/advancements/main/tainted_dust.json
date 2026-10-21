@@ -1,0 +1,53 @@
+{
+  "parent": "witherstormmod:main/harbinger_of_cataclysmic_fates",
+  "display": {
+    "icon": {
+      "item": "witherstormmod:tainted_dust"
+    },
+    "title": "Wiring Remnants",
+    "description": "Obtain Tainted Dust, a powder corrupted by the Wither Storm, from a Withered Symbiont",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "inventory_changed": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "witherstormmod:tainted_dust"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "inventory_changed"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+	  "witherstormmod:amulet",
+      "witherstormmod:tainted_dust",
+	  "witherstormmod:tainted_cobblestone",
+	  "witherstormmod:tainted_mushroom_brown",
+	  "witherstormmod:tainted_mushroom_red",
+	  "witherstormmod:tainted_planks",
+	  "witherstormmod:tainted_sand",
+	  "witherstormmod:tainted_stone",
+	  "witherstormmod:withered_bone",
+	  "witherstormmod:withered_flesh",
+	  "witherstormmod:withered_spider_eye",
+	  "minecraft:ender_eye",
+      "witherstormmod:golden_apple_stew",
+      "cataclysm:flame_eye",
+      "cataclysm:monstrous_eye",
+	  "blue_skies:raw_charoite"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "slept_in_bed": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "location": {
+          "block": {
+            "tag": "minecraft:beds"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "explorers_eve:world/bed_spawn_point"
+  }
+}

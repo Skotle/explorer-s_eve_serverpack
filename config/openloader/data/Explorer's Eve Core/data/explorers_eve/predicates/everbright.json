@@ -1,0 +1,6 @@
+{
+  "condition": "minecraft:location_check",
+  "predicate": {
+    "dimension": "blue_skies:everbright"
+  }
+}

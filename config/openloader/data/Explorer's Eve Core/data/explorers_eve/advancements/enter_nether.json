@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "entered_nether": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "from": "minecraft:overworld",
+        "to": "minecraft:the_nether"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "entered_nether"
+    ]
+  ],
+  "rewards": {
+    "function": "explorers_eve:world/nether_portal_mark_check"
+  }
+}

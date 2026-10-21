@@ -1,0 +1,15 @@
+{
+  "block": "#minecraft:wooden_slabs",
+  "potion_effect": "minecraft:wither",
+  "properties_to_copy": [
+    "type",
+    "waterlogged"
+  ],
+  "replacement": {
+    "Name": "witherstormmod:tainted_slab",
+    "Properties": {
+      "type": "bottom",
+      "waterlogged": "false"
+    }
+  }
+}

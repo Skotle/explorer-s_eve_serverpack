@@ -1,0 +1,13 @@
+{
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "equipment": {
+          "mainhand": {
+            "items": [
+              "witherstormmod:eye_of_the_storm"
+            ]
+          }
+        }
+      }
+}

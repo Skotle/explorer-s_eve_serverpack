@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "aether:skyroot_poison_bucket"
+    },
+    "title": "Nefarious Nectar",
+    "description": "Gather poison from an Aechor Plant",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "aether:obtain_petal",
+  "criteria": {
+    "bucket": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "aether:skyroot_poison_bucket"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

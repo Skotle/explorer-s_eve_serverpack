@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "sword": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "damage": {
+          "type": {
+            "direct_entity": {
+              "equipment": {
+                "mainhand": {
+                  "items": [
+                    "witherstormmod:eye_of_the_storm"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "explorers_eve:item/eye_of_the_storm/check"
+  }
+}

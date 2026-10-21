@@ -1,0 +1,3 @@
+#No need to spam this. Also lock the DigSource's duration until the particles stop.
+execute if entity @e[tag=DigParticleSource] as @e[tag=DigSkullSource] at @s facing entity @e[tag=DigSkullTarget,limit=1,sort=nearest] eyes positioned ^ ^ ^0.25 run function explorers_eve:storm/attack/dig/particle
+execute if entity @e[tag=DigParticleSource] run schedule function explorers_eve:storm/attack/dig/particle_timer 5t

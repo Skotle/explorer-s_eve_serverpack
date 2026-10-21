@@ -1,0 +1,50 @@
+{
+  "display": {
+    "icon": {
+      "item": "cataclysm:void_core"
+    },
+    "title": "And Now, Escape",
+    "description": "Obtain every Explorer's Treasure in the End",
+    "frame": "goal"
+  },
+  "parent": "minecraft:end/enter_end_gateway",
+  "criteria": {
+	"seeker_bow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "twilightforest:seeker_bow"
+            ]
+          }
+        ]
+      }
+    },
+	"void_core": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "cataclysm:void_core"
+            ]
+          }
+        ]
+      }
+    },
+	"punisher": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:fishing_rod"
+            ],
+            "nbt": "{Punisher:1}"
+          }
+        ]
+      }
+    }
+  }
+}

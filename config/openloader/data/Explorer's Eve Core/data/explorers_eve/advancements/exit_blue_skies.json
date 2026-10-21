@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "exit_everbright": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "from": "blue_skies:everbright"
+      }
+    },
+    "exit_everdawn": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "from": "blue_skies:everdawn"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "exit_everbright",
+      "exit_everdawn"
+    ]
+  ],
+  "rewards": {
+    "function": "explorers_eve:world/blue_skies/exit"
+  }
+}

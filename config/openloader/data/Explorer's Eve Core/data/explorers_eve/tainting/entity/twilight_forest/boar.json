@@ -1,0 +1,5 @@
+{
+  "convert_from_sickness": true,
+  "from": "twilightforest:boar",
+  "to": "witherstormmod:sickened_pig"
+}

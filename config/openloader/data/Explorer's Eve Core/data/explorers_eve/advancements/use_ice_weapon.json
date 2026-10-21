@@ -1,0 +1,43 @@
+{
+  "criteria": {
+    "arrow": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "damage": {
+          "type": {
+            "direct_entity": {
+              "type": "twilightforest:ice_arrow"
+            }
+          }
+        }
+      }
+    },
+    "sword": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "damage": {
+          "type": {
+            "direct_entity": {
+              "equipment": {
+                "mainhand": {
+                  "items": [
+                    "twilightforest:ice_sword"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "arrow",
+      "sword"
+    ]
+  ],
+  "rewards": {
+    "function": "explorers_eve:item/frosted_nerf_check"
+  }
+}

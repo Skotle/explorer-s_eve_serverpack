@@ -1,0 +1,80 @@
+{
+  "parent": "witherstormmod:main/activate_super_beacon",
+  "display": {
+    "icon": {
+      "item": "witherstormmod:iron_command_block_hoe"
+    },
+    "title": {
+      "translate": "advancements.witherstormmod.main.insane_dedication.title"
+    },
+    "description": {
+      "translate": "advancements.witherstormmod.main.insane_dedication.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+	"sword": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "witherstormmod:command_block_sword"
+            ]
+          }
+        ]
+      }
+    },
+	"pickaxe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "witherstormmod:command_block_pickaxe"
+            ]
+          }
+        ]
+      }
+    },
+	"shovel": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "witherstormmod:stone_command_block_shovel"
+            ]
+          }
+        ]
+      }
+    },
+	"axe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "witherstormmod:command_block_axe"
+            ]
+          }
+        ]
+      }
+    },
+    "hoe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "witherstormmod:iron_command_block_hoe"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

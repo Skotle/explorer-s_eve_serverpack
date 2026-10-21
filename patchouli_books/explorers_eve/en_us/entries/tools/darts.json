@@ -1,0 +1,25 @@
+{
+    "name": "Dart Shooters",
+    "icon": "aether:golden_dart_shooter",
+    "category": "patchouli:tools",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Darts are an alternate ranged weapon. All darts require a matching dart shooter, fire very quickly, are unaffected by gravity, and deal significantly less damage than arrows.$(br2)Golden darts are the basic variety of dart, easily crafted in both the Twilight Forest and Aether."
+        },
+        {
+			"type": "patchouli:crafting",
+			"recipe": "aether:golden_dart",
+			"recipe2": "aether:golden_dart_shooter"
+        },
+		{
+			"type": "patchouli:text",
+            "text": "In the Aether, darts can be enchanted in an $(thing)Altar$() using ambrosium, enhancing their power! You'll also need to enchant a matching dart shooter to use them.$(br2)Lastly, darts can be poisoned, making them inflict $(thing)Inebriation$() on their targets. Bosses are immune to this effect, but a single dart will incapacitate most monsters."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "aether:poison_dart",
+			"recipe2": "aether:poison_dart_shooter"
+		}
+    ]
+}

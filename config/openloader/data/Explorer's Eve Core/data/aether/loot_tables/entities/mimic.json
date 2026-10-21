@@ -1,0 +1,71 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chest"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": 4.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "aether:golden_dart"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": 4.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "aether:enchanted_dart"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": 4.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "aether:poison_dart"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "aether:golden_amber"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "aether:zanite_gemstone"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "aether:icestone"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "aether:ambrosium_shard"
+        }
+      ],
+      "rolls": {
+        "type": "minecraft:uniform",
+        "max": 3.0,
+        "min": 1.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+#Need unique functions for the intros because they change so much at once.
+playsound explorers_eve:aerwhale_king_theme_2_intro record @s ~ ~ ~ 1 1 1
+scoreboard players set @s MusicTime 1003
+tag @s add AerwhaleIntro2

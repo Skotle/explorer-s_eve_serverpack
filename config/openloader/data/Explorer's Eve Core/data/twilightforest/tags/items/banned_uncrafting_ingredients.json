@@ -1,0 +1,21 @@
+{
+  "values": [
+    "twilightforest:infested_towerwood",
+    "twilightforest:hollow_oak_sapling",
+    "twilightforest:time_sapling",
+    "twilightforest:transformation_sapling",
+    "twilightforest:mining_sapling",
+    "twilightforest:sorting_sapling",
+    "twilightforest:transformation_powder",
+    "minecraft:knowledge_book",
+	"minecraft:ender_eye",
+    "aether:swet_ball",
+	"blue_skies:bluebright_stick",
+    "blue_skies:starlit_stick",
+    "blue_skies:frostbright_stick",
+    "blue_skies:lunar_stick",
+    "blue_skies:dusk_stick",
+    "blue_skies:maple_stick",
+    "blue_skies:cherry_stick"
+  ]
+}

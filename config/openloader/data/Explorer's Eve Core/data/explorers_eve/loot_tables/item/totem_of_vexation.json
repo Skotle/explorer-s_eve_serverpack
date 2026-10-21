@@ -1,0 +1,50 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:carrot_on_a_stick",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Totem of Vexation",
+                "color": "light_purple",
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {
+                    "text": "Summons Vexes to maul a target the user is looking at.\n",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "If the Vexes slay their target, this item's cooldown is reset!\n",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Explorer's Treasure",
+                    "color": "gold",
+                    "italic": true
+                  }
+                ]
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:6,RepairCost:99,Unbreakable:1b,CustomModelData:1,VexationTotem:1b}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

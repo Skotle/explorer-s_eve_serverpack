@@ -1,0 +1,21 @@
+{
+    "name": "4. Command Block Tools",
+    "icon": "minecraft:command_block",
+    "category": "patchouli:progress",
+	"advancement": "explorers_eve:book/phase_6",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Well, that didn't work.$(br2)So long as the Command Block powering the Wither Storm remains intact, there's no way to stop it. It's time for a new goal: Creating a $(item)Command Block$() of your own along with a weapon capable of using it.$(br2)$(item)Charoite$(), a material forged using tainted dust, will suffice for the latter."
+        },
+		{
+            "type": "patchouli:relations",
+			"entries": [
+                "patchouli:tools/charoite",
+                "patchouli:tools/coruscant_panels",
+				"patchouli:tools/redstone_heart"
+            ],
+            "text": "Your quest will focus on finding six $(item)Coruscant Panels$() and a $(item)Redstone Heart$(). These pieces have their own entries in this book to help you.$(br2)Once you've found all of these, hopefully the Wither Storm will evolve to a point where you can do more."
+		}
+    ]
+}

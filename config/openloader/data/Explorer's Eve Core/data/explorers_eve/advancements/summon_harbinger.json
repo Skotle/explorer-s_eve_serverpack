@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "slept_in_bed": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "location": {
+          "block": {
+            "blocks": [
+              "minecraft:beacon"
+            ]
+          }
+        },
+        "item": {
+          "items": [
+            "cataclysm:mech_eye"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "explorers_eve:boss/harbinger/beacon_click"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond"
+    },
+	{
+      "item": "witherstormmod:tainted_dust"
+    },
+    {
+      "item": "deep_aether:skyjade"
+    },
+    {
+      "item": "minecraft:lapis_lazuli"
+    },
+    {
+      "item": "minecraft:echo_shard"
+    },
+    {
+      "item": "minecraft:lapis_lazuli"
+    },
+    {
+      "item": "deep_aether:skyjade"
+    },
+	{
+      "item": "witherstormmod:tainted_dust"
+    },
+	{
+      "item": "minecraft:diamond"
+    }
+  ],
+  "result": {
+    "item": "blue_skies:charoite",
+	"count": 2
+  }
+}

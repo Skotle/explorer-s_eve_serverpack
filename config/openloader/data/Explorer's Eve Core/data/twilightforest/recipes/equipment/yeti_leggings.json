@@ -1,0 +1,19 @@
+{
+  "result": {
+    "nbt": "{Enchantments:[{id:\"minecraft:blast_protection\",lvl:2s},{id:\"minecraft:projectile_protection\",lvl:2s}],AttributeModifiers:[{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:4,Operation:0,UUID:[I;1710234768,-751418467,-1619258739,1758026089],Slot:\"legs\"},{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:2,Operation:0,UUID:[I;1066102983,298208696,-1242459602,320283402],Slot:\"legs\"}]}",
+    "item": "twilightforest:yeti_leggings",
+    "type": "minecraft:item_nbt"
+  },
+  "group": "yeti_armor",
+  "pattern": [
+    "###",
+    "# #",
+    "# #"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "twilightforest:alpha_yeti_fur"
+    }
+  }
+}

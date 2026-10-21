@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "witherstormmod:tainted_dust"
+    }
+  ],
+  "result": {
+	"count": 2,
+    "item": "witherstormmod:tainted_dust"
+  }
+}

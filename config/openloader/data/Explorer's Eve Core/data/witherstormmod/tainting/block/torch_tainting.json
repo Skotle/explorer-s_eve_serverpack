@@ -1,0 +1,7 @@
+{
+  "block": "minecraft:torch",
+  "potion_effect": "minecraft:wither",
+  "replacement": {
+    "Name": "witherstormmod:tainted_torch"
+  }
+}

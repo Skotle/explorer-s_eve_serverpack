@@ -1,0 +1,18 @@
+{
+  "values": [
+    "minecraft:arrow",
+    "minecraft:firework_rocket",
+    "cataclysm:wither_missile",
+    "cataclysm:wither_howitzer",
+    "cataclysm:void_howitzer",
+	"dungeons_plus:soul_fireball",
+	"aether:cloud_crystal",
+	"aether:enchanted_dart",
+	"aether:golden_dart",
+	"aether:poison_dart",
+	"aether:hammer_projectile",
+	"twilightforest:ice_arrow",
+	"twilightforest:seeker_arrow",
+	"twilightforest:wand_bolt"
+  ]
+}

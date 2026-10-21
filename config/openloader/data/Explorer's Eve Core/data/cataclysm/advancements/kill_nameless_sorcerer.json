@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "item": "blue_skies:runic_arc"
+    },
+    "title": {
+      "translate": "Interdimensional Interference"
+    },
+    "description": {
+      "translate": "Summon and defeat the Nameless Sorcerer"
+    },
+    "frame": "goal"
+  },
+  "parent": "witherstormmod:main/wither_storm_defeated",
+  "criteria": {
+    "ignis": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "cataclysm:nameless_sorcerer"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

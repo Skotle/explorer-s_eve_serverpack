@@ -1,0 +1,15 @@
+{
+    "name": "Easy Tree Chopping",
+    "icon": "twilightforest:gold_minotaur_axe",
+    "category": "patchouli:essentials",
+    "pages": [
+		{
+            "type": "patchouli:text",
+            "text": "If you hold $(1)$(k:sneak)$() while chopping a tree, you'll break all of the logs at once! This takes a little longer than chopping the logs individually and costs just as much durability, but it's still great for harvesting large trees.$(br2)It works on Nether trees, too, although in that case, you'd want to bring a hoe to clear out the wart blocks."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Certain axes and logs have special effects or drops. In these cases, felling the entire tree at once will act as though your currently-held axe has manually broken each log, so there's no need to worry about wasting resources."
+        }
+    ]
+}

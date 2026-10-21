@@ -1,0 +1,47 @@
+{
+    "name": "Everbright & Everdawn",
+    "icon": "blue_skies:moonstone_shard",
+    "category": "patchouli:tools",
+	"advancement": "explorers_eve:book/phase_6",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "These two dimensions share many resources and mechanics. They both can only be accessed by portals lit by a $(item)Zeal Lighter$() from their most dangerous dungeons or $(item)Resonators$() which you can craft by repurposing ruined portals in the Overworld.$(br2)Resonators are temporary, and their portals will disperse after just a few minutes!"
+        },
+		{
+            "type": "patchouli:crafting",
+			"title": "Resonators",
+            "recipe": "cataclysm:monstrous_eye",
+			"recipe2": "cataclysm:flame_eye"
+		},
+        {
+            "type": "patchouli:text",
+            "text": "Both the Everbright and Everdawn contain exclusive ores. Check your advancements or the $(item)Blue Journal$() in your inventory when you reach either dimension to learn more about those! The rest of this entry will focus on materials found in both dimensions."
+        },
+		{
+			"type": "patchouli:spotlight",
+			"item": "blue_skies:moonstone_shard",
+            "text": "These mystical shards are your primary source of light in these dimensions! Four of them can be crafted into two $(item)Moonstones$(), which can be placed on walls, floors and ceilings. They can also craft spears to help attack at range."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "blue_skies:pyrope_gem",
+            "text": "$(item)Pyrope$() is used to create tools and weapons. The gear is faster than you may expect, but its durability is mediocre. As an ore, it requires no smelting and is quite common, so use it as soon as you find it to speed up your caving!"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "blue_skies:aquite",
+            "text": "$(item)Aquite$() equipment is very similar to iron. Unlike Pyrope, it is capable of mining the strongest ores of the Everbright and Everdawn, so while it may seem simple, don't miss it!"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "blue_skies:diopside_gem",
+            "text": "$(item)Diopside$() is found in the lowest layers of the caves. It's comparable to diamond, but not exactly. Weapons have even higher damage but swing slower, and Diopside armor has very high toughness."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "blue_skies:charoite",
+            "text": "$(item)Charoite$() can be found at similar depths to Diopside, but often only in single-block ore deposits. It functions just as if you crafted it.$(br2)Because Charoite is needed to craft $(item)Resonators$(), you'll have to go mining to return to the Overworld!"
+		}
+    ]
+}

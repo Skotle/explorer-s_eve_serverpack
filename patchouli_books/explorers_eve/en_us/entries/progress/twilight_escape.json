@@ -1,0 +1,35 @@
+{
+    "name": "1. Escaping the Forest",
+    "icon": "minecraft:echo_shard",
+    "category": "patchouli:progress",
+    "pages": [
+		{
+            "type": "patchouli:text",
+            "text": "Welcome to Explorer's Eve! Take a moment to admire your spawn area. It probably won't last long.$(br2)This modpack is balanced around summoning the Wither Storm as soon as possible, however, you're free to explore as much as you'd like before doing so. When you're ready, locate a structure nearby where you spawned."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "This structure, typically a rundown house, will contain a typical Wither spawning structure on the roof with a Command Block replacing the center piece of soul sand. Place the last skull on top, then $(thing)run$(). It will quickly awake and chase you, so do your best to $(thing)outmaneuver it$()! If you can lure it behind a tall tree or building to get out of sight, you can escape before it evolves too much. If you take too long, $(thing)punch$() its head and hope for the best."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "As pretty as the Twilight Forest is, it lacks critical resources. You'll never find diamonds here, and there's no way to seriously fight back against the Wither Storm.$(br2)Once you've gathered some basic gear, you'll want to get to the $(thing)Overworld$() to gear up and progress further. This requires a portal, which in turn requires an $(item)Echo Shard$(), a magical catalyst with interdimensional resonance."
+        },
+		{
+			"type": "patchouli:text",
+            "text": "To get your first shards, good places to search include a white-roofed $(thing)Lich Tower$(), a rare $(thing)Quest Grove$(), the glacier's revamped $(thing)Aurora Palace$(), a swampy and extensive $(thing)Labyrinth$(), a buried $(thing)Stronghold$() in the dark forest, or the dangerous $(thing)Fire Swamp$().$(br2)These options aren't all equal, so if one seems too rough, it might be best to retreat and try another."
+		},
+		{
+			"type": "patchouli:text",
+            "text": "Once you've found an $(item)Echo Shard$(), constructing the portal is simple! Dig a shallow pool in the grass and line the edges, not including the corners, with flowers! Drop the $(item)Echo Shard$() in the water, and the portal will open!$(br2)Also, note that you $(thing)cannot leave the Twilight Forest until the Wither Storm is spawned$()."
+		},
+		{
+            "type": "patchouli:image",
+			"images": [
+                "patchouli:twilight_portal.png"
+            ],
+			"border": true,
+			"text": "Here's an example of a completed portal. Any flowers will do."
+        }
+    ]
+}

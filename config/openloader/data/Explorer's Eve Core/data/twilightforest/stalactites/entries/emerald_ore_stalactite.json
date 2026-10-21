@@ -1,0 +1,19 @@
+{
+  "blocks": [
+    {
+      "block": "gold_ore",
+      "weight": 4
+    },
+    {
+      "block": "raw_gold_block",
+      "weight": 1
+    },
+	{
+      "block": "twilightforest:trollsteinn",
+      "weight": 20
+    }
+  ],
+  "max_length": 6,
+  "size_variation": 0.6,
+  "weight": 20
+}

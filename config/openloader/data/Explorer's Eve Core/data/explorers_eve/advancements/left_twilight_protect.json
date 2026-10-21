@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "leave_twilight": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "from": "twilightforest:twilight_forest"
+      }
+    }
+  },
+  "rewards": {
+    "function": "explorers_eve:world/twilight_exit_failsafe"
+  }
+}

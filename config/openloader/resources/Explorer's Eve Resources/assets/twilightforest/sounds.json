@@ -1,0 +1,3 @@
+{
+  "entity.twilightforest.urghast.hurt": { "replace": true, "subtitle": "subtitles.twilightforest.entity.urghast.hurt", "sounds": [{ "name": "mob/ghast/scream1",  "volume": 0.2 }, { "name": "mob/ghast/scream2", "volume": 0.2 }, { "name": "mob/ghast/scream3", "volume": 0.2 }, { "name": "mob/ghast/scream4",  "volume": 0.2 }, { "name": "mob/ghast/scream5",  "volume": 0.2 }]}
+}

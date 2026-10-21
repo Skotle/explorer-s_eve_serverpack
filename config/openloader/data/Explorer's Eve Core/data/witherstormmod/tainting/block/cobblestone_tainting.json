@@ -1,0 +1,7 @@
+{
+  "block": "#forge:cobblestone",
+  "potion_effect": "minecraft:wither",
+  "replacement": {
+    "Name": "witherstormmod:tainted_cobblestone"
+  }
+}

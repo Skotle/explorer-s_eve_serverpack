@@ -1,0 +1,33 @@
+{
+  "parent": "witherstormmod:main/infinite_potential",
+  "display": {
+    "icon": {
+      "item": "witherstormmod:wooden_command_block_sword"
+    },
+    "title": {
+      "translate": "advancements.witherstormmod.main.silver_lining.title"
+    },
+    "description": {
+      "translate": "advancements.witherstormmod.main.silver_lining.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "gained_tool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{
+          "tag": "witherstormmod:command_block_tools"
+        }]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "gained_tool"
+    ]
+  ]
+}

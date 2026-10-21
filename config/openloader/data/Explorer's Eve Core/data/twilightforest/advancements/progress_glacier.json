@@ -1,0 +1,60 @@
+{
+  "parent": "twilightforest:ironwood",
+  "criteria": {
+    "queen": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "twilightforest:snow_queen",
+              "location": {
+                "dimension": "twilightforest:twilight_forest"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "trophy": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "twilightforest:snow_queen_trophy"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancement.twilightforest.progress_glacier.desc",
+      "with": [
+        {
+          "translate": "entity.twilightforest.snow_queen"
+        }
+      ]
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "twilightforest:snow_queen_trophy"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancement.twilightforest.progress_glacier"
+    }
+  },
+  "requirements": [
+    [
+      "queen",
+      "trophy"
+    ]
+  ]
+}

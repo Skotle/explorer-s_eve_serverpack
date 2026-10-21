@@ -1,0 +1,18 @@
+{
+  "structures": [
+	{
+      "structure": "dungeons_plus:snowy_temple",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 2124655984,
+    "spacing": 42,
+    "separation": 20,
+    "exclusion_zone": {
+      "chunk_count": 6,
+      "other_set": "minecraft:villages"
+    },
+    "type": "minecraft:random_spread"
+  }
+}

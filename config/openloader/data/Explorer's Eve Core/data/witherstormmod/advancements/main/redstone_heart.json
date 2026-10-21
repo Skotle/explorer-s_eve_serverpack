@@ -1,0 +1,28 @@
+{
+  "parent": "witherstormmod:main/weakened_arise_stronger",
+  "display": {
+    "icon": {
+      "item": "twilightforest:knightmetal_ring"
+    },
+    "title": "Could Be Useful",
+    "description": "Obtain a Redstone Heart, the only power source capable of running a Command Block",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "heart": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "twilightforest:knightmetal_ring"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

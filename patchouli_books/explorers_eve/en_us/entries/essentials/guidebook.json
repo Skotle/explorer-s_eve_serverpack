@@ -1,0 +1,17 @@
+{
+    "name": "This Book",
+    "icon": "patchouli:guide_book{\"patchouli:book\":\"patchouli:explorers_eve\"}",
+    "category": "patchouli:essentials",
+	"priority": "true",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Explorer's Eve provides guidance in two main ways. One is the $(item)advancements$() menu. Check it often!$(br2)The other is this book. It contains more detailed entries than the advancments.$(br2)But inventory space is precious. If you need to throw out this book, no problem, you can make a new one!"
+        },
+		{
+            "type": "patchouli:crafting",
+            "recipe": "patchouli:guidebook",
+			"text": "With just one book, you can get this guide back whenever you need."
+        }
+    ]
+}

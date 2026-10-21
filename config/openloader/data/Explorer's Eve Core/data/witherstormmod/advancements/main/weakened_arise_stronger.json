@@ -1,0 +1,39 @@
+{
+  "parent": "witherstormmod:main/explode_wither_storm",
+  "display": {
+    "icon": {
+      "item": "witherstormmod:hardened_flesh_block"
+    },
+    "title": {
+      "translate": "advancements.witherstormmod.main.weakened_arise_stronger.title"
+    },
+    "description": {
+      "translate": "advancements.witherstormmod.main.weakened_arise_stronger.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "revival": {
+      "trigger": "witherstormmod:wither_storm_revival",
+      "conditions": {}
+    }
+  },
+  "requirements": [
+    [
+      "revival"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:command_block",
+	  "witherstormmod:command_block_axe_smithing",
+	  "witherstormmod:command_block_hoe_smithing",
+	  "witherstormmod:command_block_pickaxe_smithing",
+	  "witherstormmod:command_block_shovel_smithing",
+	  "witherstormmod:command_block_sword_smithing"
+    ]
+  }
+}

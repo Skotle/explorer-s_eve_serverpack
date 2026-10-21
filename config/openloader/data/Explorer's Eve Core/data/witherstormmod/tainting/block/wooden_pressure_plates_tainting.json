@@ -1,0 +1,13 @@
+{
+  "block": "#minecraft:wooden_pressure_plates",
+  "potion_effect": "minecraft:wither",
+  "properties_to_copy": [
+    "powered"
+  ],
+  "replacement": {
+    "Name": "witherstormmod:tainted_pressure_plate",
+    "Properties": {
+      "powered": "false"
+    }
+  }
+}

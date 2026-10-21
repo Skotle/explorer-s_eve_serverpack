@@ -1,0 +1,12 @@
+{
+    "pack": {
+        "pack_format": 13,
+		"name": "Explorer's Eve",
+        "id": "explorers_eve",
+        "version": "1.5.3",
+        "authors": [
+            "sm644me"
+        ],
+        "description": "Essential resources for Explorer's Eve!"
+    }
+}

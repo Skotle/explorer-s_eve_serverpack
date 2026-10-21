@@ -1,0 +1,16 @@
+{
+    "name": "The Nameless Sorcerer",
+    "icon": "blue_skies:runic_arc",
+    "category": "patchouli:endgame",
+	"advancement": "explorers_eve:book/star",
+    "pages": [
+		{
+            "type": "patchouli:text",
+            "text": "The $(item)Nameless Sorcerer$(), a corrupt mage of unknowable origins, can be summoned using the Withered Beacon. Just activate the beacon as normal, then give it two pieces of Tainted Dust, a Totem of Undying, and either a $(item)Dusk Arc$() or $(item)Ethereal Arc$().$(br2)Which Arc you use will $(thing)determine what abilities the Nameless Sorcerer will have$()!"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "This summoning recipe is expensive, but don't worry! If you lose, the Nameless Sorcerer will despawn and $(thing)drop the items used to spawn it$().$(br2)Upon death, the Nameless Sorcerer will drop a powerful $(item)Totem of Vexation$(), plenty of diamonds and emeralds, and a $(item)Runic Arc$(), which when worn, will empower any other arcs you currently have equipped!"
+        }
+    ]
+}

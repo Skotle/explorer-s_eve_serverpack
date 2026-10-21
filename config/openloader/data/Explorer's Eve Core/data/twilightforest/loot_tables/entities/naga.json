@@ -1,0 +1,78 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+	{
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "lost_aether_content:invincibility_gem",
+		  "functions": [
+			{
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:4,Unbreakable:1b}"
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Occasionally dodges an attack and grants brief invisibility.",
+                  "color": "gray",
+                  "italic": false
+                },
+				{
+                  "text": "This effect does not stack if two gems are equipped.",
+                  "color": "gray",
+                  "italic": true
+                },
+                {
+                  "text": "Explorer's Treasure",
+                  "color": "gold"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 13.0,
+                "min": 9.0
+              },
+              "function": "minecraft:set_count"
+            },
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 1.0,
+                "min": 0.0
+              },
+              "function": "minecraft:looting_enchant"
+            }
+          ],
+          "name": "twilightforest:naga_scale"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "twilightforest:naga_trophy"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

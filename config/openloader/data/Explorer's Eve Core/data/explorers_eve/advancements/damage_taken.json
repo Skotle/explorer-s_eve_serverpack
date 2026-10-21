@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "hurt": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "damage": {
+          "source_entity": {}
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "explorers_eve:item/swet_cape/check"
+  }
+}

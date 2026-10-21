@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "witherstormmod:wooden_command_block_pickaxe",
+    "witherstormmod:stone_command_block_pickaxe",
+    "witherstormmod:command_block_pickaxe",
+    "cataclysm:infernal_forge",
+    "cataclysm:void_forge"
+  ]
+}

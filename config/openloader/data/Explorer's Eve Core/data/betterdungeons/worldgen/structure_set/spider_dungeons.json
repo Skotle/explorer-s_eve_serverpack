@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "explorers_eve:spider_nest",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 596523129,
+    "spacing": 25,
+    "separation": 6,
+    "type": "minecraft:random_spread"
+  }
+}

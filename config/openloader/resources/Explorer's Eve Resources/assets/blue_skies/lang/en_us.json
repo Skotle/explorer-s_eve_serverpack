@@ -1,0 +1,25 @@
+{
+	"advancements.blue_skies.everbright.enter.desc": "Enter the Everbright via a portal or Resonator.",
+	"advancements.blue_skies.everdawn.enter.desc": "Enter the Everdawn via a portal or Resonator.",
+	
+	"advancements.blue_skies.everbright.get_falsite.desc": "Smelt Raw Falsite, found in caves away from mountains, into an ingot.",
+	"advancements.blue_skies.everdawn.get_horizonite.desc": "Smelt Raw Horizonite, found in caves in warm biomes, into an ingot.",
+	
+	"gui.blue_skies.item.ability.summoning_tome.artificial_golem": "Summons Artificial Golems to protect you.",
+	"gui.blue_skies.item.ability.alchemy_scroll": "Drops Decaying Spikes and potions in a line from above the player.",
+	
+	"gui.blue_skies.item.unused": "",
+	
+	"gui.blue_skies.item.rarity": "Potency",
+	"gui.blue_skies.item.rarity.0": "Mundane",
+	"gui.blue_skies.item.rarity.1": "Basic",
+	"gui.blue_skies.item.rarity.2": "Imbued",
+	"gui.blue_skies.item.rarity.3": "Empowered",
+	
+	"item.blue_skies.ethereal_arc": "Ethereal Arc",
+	"item.blue_skies.life_arc": "Dusk Arc",
+	"item.blue_skies.nature_arc": "Poisonous Arc",
+	"item.blue_skies.aquatic_arc": "Nature Arc",
+	
+	"gui.blue_skies.item.ability.runic.0": "Increases the potency of all worn arcs."
+}

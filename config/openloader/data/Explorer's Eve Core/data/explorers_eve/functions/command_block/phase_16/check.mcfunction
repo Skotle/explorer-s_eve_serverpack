@@ -1,0 +1,2 @@
+#Make sure the player is nearby, then run the function at the right spot.
+execute as @e[tag=CommandPhase16Summon] at @s if entity @a[gamemode=!spectator,distance=..100] as @e[tag=CommandBattleActive,limit=1,sort=nearest] at @s run function explorers_eve:command_block/phase_16/summon

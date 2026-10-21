@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "hit": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "damage": {
+          "source_entity": {
+            "type": "cataclysm:ignis"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "explorers_eve:boss/ignis/hit_player"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "blue_skies:charoite"
+    }
+  },
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "result": {
+    "item": "blue_skies:charoite_helmet",
+	"nbt": "{AttributeModifiers:[{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:3,Operation:0,UUID:[I;-420972190,889210054,-1678564695,-1734892075],Slot:\"head\"},{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:2,Operation:0,UUID:[I;285043447,-1513406443,-1544100047,-821853539],Slot:\"head\"},{AttributeName:\"generic.attack_speed\",Name:\"generic.attack_speed\",Amount:0.1,Operation:0,UUID:[I;-1423381128,1577927171,-1610952496,-234735081],Slot:\"head\"},{AttributeName:\"generic.attack_knockback\",Name:\"generic.attack_knockback\",Amount:0.5,Operation:0,UUID:[I;839222471,1915371936,-2066047739,-209274781],Slot:\"head\"}]}"
+  },
+  "show_notification": true
+}

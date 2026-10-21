@@ -1,0 +1,41 @@
+{
+  "parent": "twilightforest:root",
+  "criteria": {
+    "castle": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structure": "twilightforest:final_castle"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:location"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancement.twilightforest.progress_castle.desc"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "twilightforest:violet_castle_rune_brick"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancement.twilightforest.progress_castle"
+    }
+  },
+  "requirements": [
+    [
+      "castle"
+    ]
+  ]
+}

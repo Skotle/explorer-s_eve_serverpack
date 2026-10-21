@@ -1,0 +1,18 @@
+{
+    "name": "The Curse of Keeping",
+    "icon": "twilightforest:charm_of_keeping_3",
+    "category": "patchouli:essentials",
+	"advancement": "explorers_eve:book/phase_6",
+    "pages": [
+		{
+            "type": "patchouli:text",
+            "text": "The Everbright and Everdawn are afflicted with the $(thing)Curse of Keeping$(), preventing most items from entering. There are very few exceptions, including Command Block parts, the Amulet, any equipped accessories, and the most treasured possessions of the Illager mages responsible for creating the curse."
+        },
+		{
+			"type": "patchouli:spotlight",
+			"title": "Charm of Keeping",
+			"item": "minecraft:carrot_on_a_stick{CustomModelData:3,display:{Name:\\'{\"text\":\"Charm of Keeping\",\"color\":\"yellow\",\"italic\":false}\\'}}",
+            "text": "The only way to break the curse is to use a $(item)Charm of Keeping$(), found in the Everbright and Everdawn's most dangerous dungeons.$(br2)Note that even when the curse is broken, items not from these dimensions won't work as well if you bring them with you!"
+		}
+    ]
+}

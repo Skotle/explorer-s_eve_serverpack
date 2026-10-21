@@ -1,0 +1,3 @@
+#Ride a fast bat in the rematch.
+summon bat ~ ~ ~ {Silent:1b,Invulnerable:1b,Tags:["UrGhastRide","CommandRideHigh"],DeathLootTable:"minecraft:empty",PortalCooldown:1000000,ActiveEffects:[{Id:14,Amplifier:0b,Duration:1000000,ShowParticles:0b}],Health:600f,Attributes:[{Name:generic.movement_speed,Base:0},{Name:generic.max_health,Base:600},{Name:generic.follow_range,Base:200}]}
+ride @s mount @e[tag=UrGhastRide,limit=1,sort=nearest]

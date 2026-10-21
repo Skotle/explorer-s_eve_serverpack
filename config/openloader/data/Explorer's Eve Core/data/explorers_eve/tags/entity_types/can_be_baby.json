@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:zombie",
+	"minecraft:zombie_villager",
+	"minecraft:husk",
+    "minecraft:drowned",
+	"minecraft:zombified_piglin",
+	"twilightforest:skeleton_druid",
+	"witherstormmod:sickened_zombie",
+	"witherstormmod:sickened_villager"
+  ]
+}

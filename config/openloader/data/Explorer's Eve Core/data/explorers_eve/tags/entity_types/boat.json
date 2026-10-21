@@ -1,0 +1,12 @@
+{
+  "values": [
+    "minecraft:boat",
+    "twilightforest:boat",
+    "aether:skyroot_boat",
+    "deep_aether:boat",
+    "minecraft:chest_boat",
+    "twilightforest:chest_boat",
+    "aether:skyroot_chest_boat",
+    "deep_aether:chest_boat"
+  ]
+}

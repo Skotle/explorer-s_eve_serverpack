@@ -1,0 +1,67 @@
+[
+  {
+    "condition": "minecraft:alternative",
+    "terms": [
+      {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "structure": "blue_skies:everbright_blinding_dungeon"
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "structure": "blue_skies:everdawn_blinding_dungeon"
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "structure": "blue_skies:nature_dungeon"
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "structure": "blue_skies:poison_dungeon"
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "structure": "aether:bronze_dungeon"
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "structure": "aether:silver_dungeon"
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "structure": "aether:gold_dungeon"
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "structure": "aether:platinum_dungeon"
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "structure": "twilightforest:labyrinth"
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "structure": "twilightforest:final_castle"
+        }
+      }
+    ]
+  }
+]

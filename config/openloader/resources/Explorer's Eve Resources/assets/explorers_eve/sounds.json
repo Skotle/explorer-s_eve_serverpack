@@ -1,0 +1,1544 @@
+{
+	"progress.phase_4": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:progress/phase_4",
+    			"stream": true,
+    			"volume": 0.8
+    		}
+    	]
+	},
+	"progress.echo_shard": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:progress/echo_shard",
+    			"stream": true,
+    			"volume": 0.7
+    		}
+    	]
+	},
+	"progress.overworld": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:progress/overworld",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"progress.teleport": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:progress/teleport",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"progress.super_tnt": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:progress/super_tnt",
+    			"stream": true,
+    			"volume": 0.8
+    		}
+    	]
+	},
+	"progress.command_parts_single": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:progress/command_parts_single",
+    			"stream": true,
+    			"volume": 0.8
+    		}
+    	]
+	},
+	"progress.command_parts_all": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:progress/command_parts_all",
+    			"stream": true,
+    			"volume": 0.8
+    		}
+    	]
+	},
+	"progress.wither_storm_victory": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:progress/wither_storm_victory",
+    			"stream": true,
+    			"volume": 0.8
+    		}
+    	]
+	},
+	"progress.resummon_victory": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:progress/resummon_victory",
+    			"stream": true,
+    			"volume": 0.8
+    		}
+    	]
+	},
+	"progress.glitch_victory": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:progress/glitch_victory",
+    			"stream": true,
+    			"volume": 0.8
+    		}
+    	]
+	},
+	"command_block_theme_0": {
+    	"category": "records",
+    	"subtitle": "witherstormmod.subtitle.wither_storm_boss_theme",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:command_block_theme_0",
+    			"stream": true,
+    			"volume": 1
+    		}
+    	]
+	},
+	"command_block_theme_0_end": {
+    	"category": "records",
+    	"subtitle": "witherstormmod.subtitle.wither_storm_boss_theme",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:command_block_theme_0_end",
+    			"stream": true,
+    			"volume": 1
+    		}
+    	]
+	},
+	"command_block_theme_1_intro": {
+    	"category": "records",
+    	"subtitle": "witherstormmod.subtitle.wither_storm_boss_theme",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:command_block_theme_1_intro",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"command_block_theme_1": {
+    	"category": "records",
+    	"subtitle": "witherstormmod.subtitle.wither_storm_boss_theme",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:command_block_theme_1",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"command_block_theme_2": {
+    	"category": "records",
+    	"subtitle": "witherstormmod.subtitle.wither_storm_boss_theme",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:command_block_theme_2",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"command_block_theme_3": {
+    	"category": "records",
+    	"subtitle": "witherstormmod.subtitle.wither_storm_boss_theme",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:command_block_theme_3",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"command_block_theme_end": {
+    	"category": "records",
+    	"subtitle": "witherstormmod.subtitle.wither_storm_boss_theme",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:command_block_theme_end",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"command_block_theme_1_intro_alt": {
+    	"category": "records",
+    	"subtitle": "witherstormmod.subtitle.wither_storm_boss_theme",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:command_block_theme_1_intro_alt",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"command_block_theme_1_alt": {
+    	"category": "records",
+    	"subtitle": "witherstormmod.subtitle.wither_storm_boss_theme",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:command_block_theme_1_alt",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"command_block_theme_2_alt": {
+    	"category": "records",
+    	"subtitle": "witherstormmod.subtitle.wither_storm_boss_theme",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:command_block_theme_2_alt",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"command_block_theme_3_alt": {
+    	"category": "records",
+    	"subtitle": "witherstormmod.subtitle.wither_storm_boss_theme",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:command_block_theme_3_alt",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"command_block_theme_end_alt": {
+    	"category": "records",
+    	"subtitle": "witherstormmod.subtitle.wither_storm_boss_theme",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:command_block_theme_end_alt",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"bowels_theme": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:bowels_theme",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"bowels_theme_end": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:bowels_theme_end",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"bowels_theme_alt": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:bowels_theme_alt",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"dragonsbane_theme_1_intro": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:dragonsbane_theme_1_intro",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"dragonsbane_theme_1": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:dragonsbane_theme_1",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"dragonsbane_theme_2_intro": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:dragonsbane_theme_2_intro",
+    			"stream": true,
+    			"volume": 0.8
+    		}
+    	]
+	},
+	"dragonsbane_theme_2": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:dragonsbane_theme_2",
+    			"stream": true,
+    			"volume": 0.8
+    		}
+    	]
+	},
+	"dragonsbane_theme_end": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:dragonsbane_theme_end",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"dragon_theme_1_intro": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:dragon_theme_1_intro",
+    			"stream": true,
+    			"volume": 1
+    		}
+    	]
+	},
+	"dragon_theme_1": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:dragon_theme_1",
+    			"stream": true,
+    			"volume": 1
+    		}
+    	]
+	},
+	"dragon_theme_2_intro": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:dragon_theme_2_intro",
+    			"stream": true,
+    			"volume": 1
+    		}
+    	]
+	},
+	"dragon_theme_2": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:dragon_theme_2",
+    			"stream": true,
+    			"volume": 1
+    		}
+    	]
+	},
+	"dragon_theme_3_intro": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:dragon_theme_3_intro",
+    			"stream": true,
+    			"volume": 1
+    		}
+    	]
+	},
+	"dragon_theme_3": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:dragon_theme_3",
+    			"stream": true,
+    			"volume": 1
+    		}
+    	]
+	},
+	"dragon_theme_end": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:dragon_theme_end",
+    			"stream": true,
+    			"volume": 1
+    		}
+    	]
+	},
+	"wither_theme": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:wither_theme",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"wither_theme_end": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:wither_theme_end",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"naga_theme_1_intro": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:naga_theme_1_intro",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"naga_theme_1": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:naga_theme_1",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"naga_theme_2_intro": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:naga_theme_2_intro",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"naga_theme_2": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:naga_theme_2",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"naga_theme_end": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:naga_theme_end",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"lich_theme_1": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:lich_theme_1",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"lich_theme_2": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:lich_theme_2",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"lich_theme_end": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:lich_theme_end",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"minoshroom_theme": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:minoshroom_theme",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"minoshroom_theme_end": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:minoshroom_theme_end",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"hydra_theme_1_intro": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:hydra_theme_1_intro",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"hydra_theme_1": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:hydra_theme_1",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"hydra_theme_2": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:hydra_theme_2",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"hydra_theme_3": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:hydra_theme_3",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"hydra_theme_end": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:hydra_theme_end",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"ur_ghast_theme_1_intro": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:ur_ghast_theme_1_intro",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"ur_ghast_theme_1": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:ur_ghast_theme_1",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"ur_ghast_theme_2": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:ur_ghast_theme_2",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"ur_ghast_theme_3_intro": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:ur_ghast_theme_3_intro",
+    			"stream": true,
+    			"volume": 0.9
+    		}
+    	]
+	},
+	"ur_ghast_theme_3": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:ur_ghast_theme_3",
+    			"stream": true,
+    			"volume": 1.0
+    		}
+    	]
+	},
+	"ur_ghast_theme_4": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:ur_ghast_theme_4",
+    			"stream": true,
+    			"volume": 0.8
+    		}
+    	]
+	},
+	"ur_ghast_theme_5": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:ur_ghast_theme_5",
+    			"stream": true,
+    			"volume": 0.7
+    		}
+    	]
+	},
+	"ur_ghast_theme_end": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:ur_ghast_theme_end",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"alpha_yeti_theme_intro": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:alpha_yeti_theme_intro",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"alpha_yeti_theme": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:alpha_yeti_theme",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"alpha_yeti_theme_end": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:alpha_yeti_theme_end",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"snow_queen_theme": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:snow_queen_theme",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"snow_queen_theme_end": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:snow_queen_theme_end",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"knight_phantom_theme": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:knight_phantom_theme",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"knight_phantom_theme_end": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:knight_phantom_theme_end",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"ender_guardian_theme_1": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:ender_guardian_theme_1",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"ender_guardian_theme_2_intro": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:ender_guardian_theme_2_intro",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"ender_guardian_theme_2": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:ender_guardian_theme_2",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"ender_guardian_theme_end": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:ender_guardian_theme_end",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"netherite_monstrosity_theme_1_intro": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:netherite_monstrosity_theme_1_intro",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"netherite_monstrosity_theme_1": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:netherite_monstrosity_theme_1",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"netherite_monstrosity_theme_2": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:netherite_monstrosity_theme_2",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"netherite_monstrosity_theme_3_intro": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:netherite_monstrosity_theme_3_intro",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"netherite_monstrosity_theme_3": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:netherite_monstrosity_theme_3",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"netherite_monstrosity_theme_end": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:netherite_monstrosity_theme_end",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"harbinger_theme_intro": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:harbinger_theme_intro",
+    			"stream": true,
+    			"volume": 0.9
+    		}
+    	]
+	},
+	"harbinger_theme": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:harbinger_theme",
+    			"stream": true,
+    			"volume": 0.9
+    		}
+    	]
+	},
+	"harbinger_theme_end": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:harbinger_theme_end",
+    			"stream": true,
+    			"volume": 0.9
+    		}
+    	]
+	},
+	"ignis_theme_1_intro": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:ignis_theme_1_intro",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"ignis_theme_1": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:ignis_theme_1",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"ignis_theme_2": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:ignis_theme_2",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"ignis_theme_2_alt": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:ignis_theme_2_alt",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"ignis_theme_3_intro": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:ignis_theme_3_intro",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"ignis_theme_3": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:ignis_theme_3",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"ignis_theme_end": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:ignis_theme_end",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"sorcerer_theme_intro": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:sorcerer_theme_intro",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"sorcerer_theme": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:sorcerer_theme",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"sorcerer_theme_end": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:sorcerer_theme_end",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"blinding_theme_1_intro": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:blinding_theme_1_intro",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"blinding_theme_1": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:blinding_theme_1",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"blinding_theme_2_intro": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:blinding_theme_2_intro",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"blinding_theme_2": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:blinding_theme_2",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"blinding_theme_end": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:blinding_theme_end",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"population_theme_1_intro": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:population_theme_1_intro",
+    			"stream": true,
+    			"volume": 1
+    		}
+    	]
+	},
+	"population_theme_1": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:population_theme_1",
+    			"stream": true,
+    			"volume": 1
+    		}
+    	]
+	},
+	"population_theme_2": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:population_theme_2",
+    			"stream": true,
+    			"volume": 1
+    		}
+    	]
+	},
+	"population_theme_end": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:population_theme_end",
+    			"stream": true,
+    			"volume": 1
+    		}
+    	]
+	},
+	"slider_theme_1_intro": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:slider_theme_1_intro",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"slider_theme_1": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:slider_theme_1",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"slider_theme_2_intro": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:slider_theme_2_intro",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"slider_theme_2": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:slider_theme_2",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"slider_theme_end": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:slider_theme_end",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"valkyrie_queen_theme_1_intro": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:valkyrie_queen_theme_1_intro",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"valkyrie_queen_theme_1": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:valkyrie_queen_theme_1",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"valkyrie_queen_theme_2_intro": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:valkyrie_queen_theme_2_intro",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"valkyrie_queen_theme_2": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:valkyrie_queen_theme_2",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"valkyrie_queen_theme_3_intro": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:valkyrie_queen_theme_3_intro",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"valkyrie_queen_theme_3": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:valkyrie_queen_theme_3",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"valkyrie_queen_theme_end": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:valkyrie_queen_theme_end",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"sun_spirit_theme_1": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:sun_spirit_theme_1",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"sun_spirit_theme_2": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:sun_spirit_theme_2",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"sun_spirit_theme_end": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:sun_spirit_theme_end",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"aerwhale_king_theme_1_intro": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:aerwhale_king_theme_1_intro",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"aerwhale_king_theme_1": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:aerwhale_king_theme_1",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"aerwhale_king_theme_2_intro": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:aerwhale_king_theme_2_intro",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"aerwhale_king_theme_2": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:aerwhale_king_theme_2",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"aerwhale_king_theme_end": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:aerwhale_king_theme_end",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"resummon_theme_1_intro": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:resummon_theme_1_intro",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"resummon_theme_1": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:resummon_theme_1",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"resummon_theme_2": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:resummon_theme_2",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"resummon_theme_3": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:resummon_theme_3",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"resummon_theme_4": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:resummon_theme_4",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"resummon_theme_5": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:resummon_theme_5",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"resummon_theme_6": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:resummon_theme_6",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"resummon_theme_7_intro": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:resummon_theme_7_intro",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"resummon_theme_7": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:resummon_theme_7",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"resummon_theme_7_end": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:resummon_theme_7_end",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"resummon_theme_8": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:resummon_theme_8",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"resummon_theme_end": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:resummon_theme_end",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"empower_theme_summon": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:empower_theme_summon",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"empower_theme_1": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:empower_theme_1",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"empower_theme_2": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:empower_theme_2",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"empower_theme_3": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:empower_theme_3",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"empower_theme_4": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:empower_theme_4",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"empower_theme_end": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:empower_theme_end",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"empower_theme_defeat": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:empower_theme_defeat",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"final_theme_1_intro": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:final_theme_1_intro",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"final_theme_1": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:final_theme_1",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"final_theme_2": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:final_theme_2",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"final_theme_3": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:final_theme_3",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"final_theme_4": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:final_theme_4",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"final_theme_5": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:final_theme_5",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"final_theme_6": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:final_theme_6",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"final_theme_6_end": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:final_theme_6_end",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"final_theme_7": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:final_theme_7",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"final_theme_end": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:final_theme_end",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"glitch_theme_intro": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:glitch_theme_intro",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"glitch_theme": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:glitch_theme",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	},
+	"glitch_theme_final": {
+    	"category": "records",
+    	"sounds": [
+    		{
+    			"name": "explorers_eve:glitch_theme_final",
+    			"stream": true,
+    			"volume": 0.6
+    		}
+    	]
+	}
+}

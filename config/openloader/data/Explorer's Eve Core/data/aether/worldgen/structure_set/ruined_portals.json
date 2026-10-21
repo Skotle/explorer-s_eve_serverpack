@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 14252125,
+    "separation": 15,
+    "spacing": 20
+  },
+  "structures": [
+    {
+      "structure": "aether:ruined_portal_aether",
+      "weight": 1
+    }
+  ]
+}

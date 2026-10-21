@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "ban": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "explorers_eve:phase_4_mercy_end"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "explorers_eve:storm/mercy_end_phase_4"
+  }
+}

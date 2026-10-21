@@ -1,0 +1,33 @@
+{
+  "condition": "minecraft:alternative",
+  "terms": [
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "equipment": {
+          "mainhand": {
+            "items": [
+              "dungeons_plus:soul_cannon"
+            ],
+            "nbt": "{Empowered:1b}"
+          }
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "equipment": {
+          "offhand": {
+            "items": [
+              "dungeons_plus:soul_cannon"
+            ],
+            "nbt": "{Empowered:1b}"
+          }
+        }
+      }
+    }
+  ]
+}

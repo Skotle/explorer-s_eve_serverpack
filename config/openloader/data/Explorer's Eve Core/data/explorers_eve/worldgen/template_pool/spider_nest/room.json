@@ -1,0 +1,42 @@
+{
+  "name": "explorers_eve:spider_nest/room",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "explorers_eve:spider_nest/room_1",
+        "projection": "rigid",
+        "processors": "explorers_eve:spider_nest"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "explorers_eve:spider_nest/room_2",
+        "projection": "rigid",
+        "processors": "explorers_eve:spider_nest"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "explorers_eve:spider_nest/room_3",
+        "projection": "rigid",
+        "processors": "explorers_eve:spider_nest"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "explorers_eve:spider_nest/room_4",
+        "projection": "rigid",
+        "processors": "explorers_eve:spider_nest"
+      }
+    }
+  ]
+}

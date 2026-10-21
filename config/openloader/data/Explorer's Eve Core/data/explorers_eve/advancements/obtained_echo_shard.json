@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "gained_tool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "explorers_eve:twilight_escape_treasure"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "explorers_eve:storm/early/echo_shard"
+  }
+}

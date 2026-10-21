@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "ban": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "explorers_eve:banned"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "explorers_eve:world/banned_item"
+  }
+}

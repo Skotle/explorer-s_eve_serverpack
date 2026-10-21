@@ -1,0 +1,22 @@
+{
+	"type": "explorers_eve:glitch",
+	"generator": {
+		"type": "minecraft:flat",
+		"settings": {
+			"layers": [{
+				"height": 64,
+				"block": "witherstormmod:hardened_flesh_block"
+			}],
+			"biome": "explorers_eve:glitch",
+			"lakes": false,
+			"features": false,
+			"structures": {
+				"stronghold": {
+					"distance": 0,
+					"count": 0,
+					"spread": 0
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,7 @@
+{
+  "block": "minecraft:red_mushroom",
+  "potion_effect": "minecraft:wither",
+  "replacement": {
+    "Name": "witherstormmod:tainted_mushroom"
+  }
+}

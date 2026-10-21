@@ -1,0 +1,85 @@
+[
+  {
+    "condition": "minecraft:alternative",
+    "terms": [
+      {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "structure": "bettermineshafts:mineshaft_acacia"
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "structure": "bettermineshafts:mineshaft_desert"
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "structure": "bettermineshafts:mineshaft_dripstone"
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "structure": "bettermineshafts:mineshaft_ice"
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "structure": "bettermineshafts:mineshaft_jungle"
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "structure": "bettermineshafts:mineshaft_lush"
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "structure": "bettermineshafts:mineshaft_mesa"
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "structure": "bettermineshafts:mineshaft_mushroom"
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "structure": "bettermineshafts:mineshaft_oak"
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "structure": "bettermineshafts:mineshaft_overgrown"
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "structure": "bettermineshafts:mineshaft_red_desert"
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "structure": "bettermineshafts:mineshaft_spruce"
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "structure": "bettermineshafts:mineshaft_snowy"
+        }
+      }
+    ]
+  }
+]

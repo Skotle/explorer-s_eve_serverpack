@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:polished_blackstone_button",
+    "minecraft:polished_deepslate",
+    "minecraft:polished_deepslate_wall",
+    "minecraft:iron_bars",
+    "cataclysm:emp",
+    "witherstormmod:hardened_flesh_block"
+  ]
+}

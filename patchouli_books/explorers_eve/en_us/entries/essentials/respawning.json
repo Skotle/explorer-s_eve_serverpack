@@ -1,0 +1,15 @@
+{
+    "name": "Respawning",
+    "icon": "minecraft:red_bed",
+    "category": "patchouli:essentials",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Some respawn mechanics have been changed in this pack.$(br2)When you set your spawn point using a $(item)bed$(), that spawn point will remain even if the bed is destroyed! Solid blocks and water will still obstruct it.$(br2)Despite this, $(thing)insomnia$() is disabled, so don't worry about phantoms!"
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Additionally, your spawn point will be set to most $(item)portals$() when you use them. This doesn't apply to the End portal. If you set up a base, you'll probably want to set your spawn point whenever you return.$(br2)Lastly, if you respawn too close to the Wither Storm, your respawn point will be temporarily moved a few hundred blocks further away."
+        }
+    ]
+}

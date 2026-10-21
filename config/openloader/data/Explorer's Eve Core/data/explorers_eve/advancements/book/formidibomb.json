@@ -1,0 +1,17 @@
+{
+  "parent": "explorers_eve:book/super_tnt",
+  "criteria": {
+    "inventory_changed": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "witherstormmod:super_tnt"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

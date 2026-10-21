@@ -1,0 +1,26 @@
+{
+	"witherstormmod.watermark.withered_symbiont_theme": "",
+	
+	"advancements.witherstormmod.main.insane_dedication.description": "Empower a full set of Command Block tools, then look back at what got you to this point",
+	"advancements.witherstormmod.main.infinite_potential.description": "Build a Command Block of your own",
+	"advancements.witherstormmod.main.cured_sickened_mob.description": "Craft some Golden Apple Stew using exotic ingredients to cure Wither Sickness",
+	"advancements.witherstormmod.main.amulet.description": "Craft an amulet to track mobs and view everywhere you've explored",
+	
+	"item.witherstormmod.wooden_command_block_sword": "Command Block Sword",
+	"item.witherstormmod.wooden_command_block_pickaxe": "Command Block Pickaxe",
+	"item.witherstormmod.wooden_command_block_axe": "Command Block Axe",
+	"item.witherstormmod.wooden_command_block_shovel": "Command Block Shovel",
+	"item.witherstormmod.wooden_command_block_hoe": "Command Block Hoe",
+	
+	"item.witherstormmod.stone_command_block_sword": "Evolved Command Block Sword",
+	"item.witherstormmod.stone_command_block_pickaxe": "Evolved Command Block Pickaxe",
+	"item.witherstormmod.stone_command_block_axe": "Evolved Command Block Axe",
+	"item.witherstormmod.command_block_shovel": "Evolved Command Block Shovel",
+	"item.witherstormmod.stone_command_block_hoe": "Evolved Command Block Hoe",
+	
+	"item.witherstormmod.command_block_sword": "Empowered Command Block Sword",
+	"item.witherstormmod.command_block_pickaxe": "Empowered Command Block Pickaxe",
+	"item.witherstormmod.command_block_axe": "Empowered Command Block Axe",
+	"item.witherstormmod.stone_command_block_shovel": "Empowered Command Block Shovel",
+	"item.witherstormmod.iron_command_block_hoe": "Empowered Command Block Hoe"
+}

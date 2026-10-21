@@ -1,0 +1,50 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:carrot_on_a_stick",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Lich's Scepter",
+                "color": "light_purple",
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {
+                    "text": "Use to summon defensive shields and zombie minions. While shields are active, use to shoot armor-piercing and explosive bolts. Shields apply regenerative effects when broken.\n",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Explorer's Treasure\n",
+                    "color": "gold",
+                    "italic": true
+                  },
+                  {
+                    "text": "Empowered",
+                    "color": "light_purple",
+                    "italic": true
+                  }
+                ]
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:6,RepairCost:99,Unbreakable:1b,CustomModelData:8,LichScepter:1b,Empowered:1b}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

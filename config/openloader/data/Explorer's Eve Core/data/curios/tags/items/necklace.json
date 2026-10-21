@@ -1,0 +1,11 @@
+{
+  "replace": true,
+  "values": [
+    "aether:ice_pendant",
+    "aether:regeneration_stone",
+    "aether:shield_of_repulsion",
+    "lost_aether_content:sentry_shield",
+    "deep_aether:gravitite_ring",
+    "deep_aether:stratus_ring"
+  ]
+}

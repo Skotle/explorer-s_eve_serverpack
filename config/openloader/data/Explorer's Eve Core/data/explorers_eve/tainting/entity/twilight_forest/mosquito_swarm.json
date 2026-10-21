@@ -1,0 +1,5 @@
+{
+  "convert_from_sickness": true,
+  "from": "twilightforest:mosquito_swarm",
+  "to": "witherstormmod:sickened_bee"
+}

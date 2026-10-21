@@ -1,0 +1,13 @@
+{
+  "block": "#aether:holystone",
+  "potion_effect": "minecraft:wither",
+  "properties_to_copy": [
+    "axis"
+  ],
+  "replacement": {
+    "Name": "witherstormmod:tainted_log",
+    "Properties": {
+      "axis": "y"
+    }
+  }
+}

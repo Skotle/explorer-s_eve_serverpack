@@ -1,0 +1,41 @@
+{
+  "criteria": {
+    "killed_by_storm": {
+      "trigger": "minecraft:entity_killed_player",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "#explorers_eve:wither_storm_part"
+            }
+          }
+        ]
+      }
+    },
+    "killed_by_skull": {
+      "trigger": "minecraft:entity_killed_player",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "witherstormmod:flaming_wither_skull"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "killed_by_storm",
+      "killed_by_skull"
+    ]
+  ],
+  "rewards": {
+    "function": "explorers_eve:world/player_death_sicken"
+  }
+}

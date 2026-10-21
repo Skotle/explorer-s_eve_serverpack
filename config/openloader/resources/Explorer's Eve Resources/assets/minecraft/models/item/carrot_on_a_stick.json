@@ -1,0 +1,16 @@
+{
+    "parent": "minecraft:item/handheld_rod",
+    "textures": {
+        "layer0": "minecraft:item/carrot_on_a_stick"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 1 }, "model": "explorers_eve:item/totem_of_vexation" },
+        { "predicate": { "custom_model_data": 2 }, "model": "explorers_eve:item/ice_staff" },
+        { "predicate": { "custom_model_data": 3 }, "model": "twilightforest:item/charm_of_keeping_3" },
+        { "predicate": { "custom_model_data": 4 }, "model": "explorers_eve:item/twilight_sundial" },
+        { "predicate": { "custom_model_data": 5 }, "model": "explorers_eve:item/iou_ruins_map" },
+        { "predicate": { "custom_model_data": 6 }, "model": "explorers_eve:item/zeta_sword" },
+        { "predicate": { "custom_model_data": 7 }, "model": "explorers_eve:item/zeta_blaster" },
+        { "predicate": { "custom_model_data": 8 }, "model": "explorers_eve:item/lich_scepter" }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "hammer": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "blue_skies:crushing_hammer"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "explorers_eve:item/crushing_hammer/using"
+  }
+}

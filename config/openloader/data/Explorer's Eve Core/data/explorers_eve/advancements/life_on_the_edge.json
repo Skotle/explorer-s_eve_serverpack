@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "cataclysm:void_eye"
+    },
+    "title": "Life on the Edge",
+    "description": "Defeat a Withered Symbiont in the Outer End",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:end/enter_end_gateway",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

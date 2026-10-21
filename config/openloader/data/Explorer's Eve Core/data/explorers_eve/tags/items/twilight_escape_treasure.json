@@ -1,0 +1,23 @@
+{
+  "values": [
+    "minecraft:echo_shard",
+	"twilightforest:crumble_horn",
+    "#twilightforest:fiery_vial",
+	"cataclysm:bulwark_of_the_flame",
+	"twilightforest:block_and_chain",
+	"dungeons_plus:frosted_cowl",
+	"dungeons_plus:warped_axe",
+	"aether:regeneration_stone",
+	"twilightforest:twilight_scepter",
+	"twilightforest:lifedrain_scepter",
+	"twilightforest:zombie_scepter",
+	"twilightforest:fortification_scepter",
+    "twilightforest:quest_ram_trophy",
+    "twilightforest:lich_trophy",
+    "twilightforest:minoshroom_trophy",
+    "twilightforest:hydra_trophy",
+    "twilightforest:knight_phantom_trophy",
+    "twilightforest:ur_ghast_trophy",
+    "twilightforest:snow_queen_trophy"
+  ]
+}

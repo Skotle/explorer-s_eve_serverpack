@@ -1,0 +1,15 @@
+{
+    "name": "Custom Music",
+    "icon": "minecraft:music_disc_otherside",
+    "category": "patchouli:essentials",
+    "pages": [
+		{
+            "type": "patchouli:text",
+            "text": "Explorer's Eve adds plenty of custom music, all of which plays in the $(thing)record$() category. This cannot be disabled, but muting the $(thing)record$() slider will silence it. The exception to this are boss themes added by Cracker's Wither Storm Mod, which play in the $(thing)music$() category.$(br2)Check the modpack's page for a full list of music used!"
+        },
+		{
+            "type": "patchouli:text",
+            "text": "For content creators: I haven't encountered any copyright issues with the tracks used in this modpack, and I haven't yet seen any videos get demonitized or silenced for including them. Please send a message to the pack author if anything goes wrong, and I'll put a warning here about them!"
+        }
+    ]
+}

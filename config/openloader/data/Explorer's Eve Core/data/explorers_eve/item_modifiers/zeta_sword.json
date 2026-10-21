@@ -1,0 +1,80 @@
+[
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{CustomModelData:6,ZetaMode:\"Sword\",AttributeModifiers:[]}"
+  },
+  {
+    "function": "minecraft:set_attributes",
+    "conditions": [
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "equipment": {
+              "mainhand": {
+                "nbt": "{Empowered:1b}"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "modifiers": [
+      {
+        "attribute": "minecraft:generic.attack_damage",
+        "name": "ZetaMelee",
+        "amount": 7,
+        "operation": "addition",
+        "slot": "mainhand"
+      },
+	  {
+        "attribute": "minecraft:generic.attack_speed",
+        "name": "ZetaMeleeSpeed",
+        "amount": -2.2,
+        "operation": "addition",
+        "slot": "mainhand"
+      }
+    ]
+  },
+  {
+    "function": "minecraft:set_attributes",
+    "conditions": [
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "equipment": {
+            "mainhand": {
+              "nbt": "{Empowered:1b}"
+            }
+          }
+        }
+      }
+    ],
+    "modifiers": [
+      {
+        "attribute": "minecraft:generic.attack_damage",
+        "name": "ZetaMelee",
+        "amount": 9,
+        "operation": "addition",
+        "slot": "mainhand"
+      },
+	  {
+        "attribute": "minecraft:generic.attack_speed",
+        "name": "ZetaMeleeSpeed",
+        "amount": -2,
+        "operation": "addition",
+        "slot": "mainhand"
+      },
+	  {
+        "attribute": "forge:entity_reach",
+        "name": "ZetaReach",
+        "amount": 1,
+        "operation": "addition",
+        "slot": "mainhand"
+      }
+    ]
+  }
+]

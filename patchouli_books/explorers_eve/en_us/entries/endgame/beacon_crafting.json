@@ -1,0 +1,51 @@
+{
+    "name": "Beacon Crafting",
+    "icon": "witherstormmod:stone_command_block_pickaxe",
+    "category": "patchouli:endgame",
+	"advancement": "explorers_eve:book/star",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Withered Beacon can do far more than just provide effects. By giving it materials, it can create useful items. $(thing)JEI can show you all of these recipes$(), but they're listed here as well.$(br2)First off, if you place 8 blocks of sand, dirt, or cobblestone inside the beacon, they will automatically convert into their $(thing)tainted variants$()."
+        },
+		{
+			"type": "patchouli:spotlight",
+			"title": "Enchanted Books",
+			"item": "minecraft:enchanted_book",
+            "text": "If you provide a Withered Beacon with a book, 4 Lapis Lazuli, and 3 of a 'catalyst' item, it will enchant the book with high-level enchantments. Valid catalysts are $(thing)Magma Blocks, Packed Ice, Sea Lanterns, Cold Aerclouds, Spectral Arrows, Obsidian, and Bottles o' Enchanting$(). Experiment and see what you get!"
+        },
+		{
+			"type": "patchouli:spotlight",
+			"title": "Evolved Tools",
+			"item": "cataclysm:enderite_ingot",
+            "text": "With 4 blocks of Tainted Flesh and 4 blocks of Tainted Dust, you can create an $(item)Infected Steel Ingot$(). This ingot, when combined with a Command Block tool in a Smithing Table, will $(thing)evolve$() the tool and make it even more powerful!"
+        },
+		{
+			"type": "patchouli:spotlight",
+			"item": "twilightforest:armor_shard_cluster",
+            "text": "Once you've obtained $(item)Witherite$() and completed the beacon, you could also create your own $(item)Thaumic Paper$() to make even more tools! This is done with a sheet of paper, an Echo Shard, 2 Lapis Lazuli, and 4 Tainted Dust."
+        },
+		{
+			"type": "patchouli:spotlight",
+			"title": "Arc Imbuement",
+			"item": "blue_skies:ethereal_arc{ArcLevel:2},blue_skies:life_arc{ArcLevel:2},blue_skies:nature_arc{ArcLevel:2},blue_skies:aquatic_arc{ArcLevel:2}",
+            "text": "Also with the beacon completed, you can $(thing)imbue$() any Arc you've found with greater strength! Simply combine the Arc with 2 Tainted Dust and a 1 Witherite Ingot.$(br2)If only there were a way to strengthen these Arcs $(thing)even further$()..."
+        },
+		{
+			"type": "patchouli:spotlight",
+			"title": "Unbreakable Armor",
+			"item": "minecraft:obsidian",
+            "text": "You can even make your armor $(thing)unbreakable$()! Provide a fully supported beacon with 4 Obsidian and 4 Witherite Ingots, and all armor worn by any nearby players will become unbreakable.$(br2)It won't defend you any more than it otherwise would, but this would alleviate the fear of it breaking mid-combat."
+        },
+		{
+			"type": "patchouli:spotlight",
+			"title": "Empowered Treasures",
+			"item": "witherstormmod:tainted_dust",
+            "text": "Certain $(item)Explorer's Treasures$() can be empowered. To do so, prime the beacon by giving it 2 Witherite Ingots and 2 Tainted Dust, then give it a treasure of choice to empower it. Only a few treasures can be empowered this way: A $(item)Lich's Scepter$(), the $(item)Cloud Staff$(), the $(item)Lamp of Cinders$(), the $(item)Punisher$(), and $(item)Prototype Zeta$()."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "At this point, the beacon can also summon $(thing)sickened mobs$() of any kind. Their recipes are expensive, but surely there's some reason to do this?$(br2)Even after all of this, there are still more things this beacon can do. Check the rest of the entries in this category to see!"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Charoite",
+    "icon": "blue_skies:charoite",
+    "category": "patchouli:tools",
+	"advancement": "explorers_eve:book/phase_6",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(item)Charoite$() is a powerful magical alloy found naturally in the Everbright and Everdawn. Fortunately, it's also craftable.$(br2)Charoite is the only material capable of containing the power of a Command Block. It can also create an $(item)Enchanting Table$(), and if you stockpile enough, you could make armor that enhances your melee strikes!"
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "blue_skies:charoite_from_crafting",
+			"recipe2": "minecraft:enchanting_table"
+        },
+		{
+            "type": "patchouli:text",
+			"text": "Between Charoite and other useful tools, you probably don't have enough tainted dust to do everything you want. That's fine! It can be combined with redstone dust to $(thing)duplicate$() it.$(br2)If you ever run out, return to where you fought the Withered Symbiont. Tainted flesh blocks can be used in a $(item)stonecutter$() to get more dust. If even that fails, you can try to fight another Withered Symbiont to get more."
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "witherstormmod:tainted_dust"
+        }
+    ]
+}

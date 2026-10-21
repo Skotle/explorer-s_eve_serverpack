@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "S"
+    ],
+    "key": {
+        "#": {
+            "item": "cataclysm:void_jaw"
+        },
+        "S": [
+		  {
+			"item": "minecraft:spectral_arrow"
+		  },
+		  {
+			"item": "minecraft:arrow"
+		  }
+		]
+    },
+    "result": {
+        "item": "cataclysm:void_scatter_arrow",
+        "count": 2
+    }
+}
