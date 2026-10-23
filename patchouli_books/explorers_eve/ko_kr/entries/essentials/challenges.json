@@ -1,0 +1,41 @@
+{
+    "name": "도전 과제",
+    "icon": "witherstormmod:eye_of_the_storm",
+    "category": "patchouli:essentials",
+    "priority": "true",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "이 모드팩에는 여러 방식으로 난도를 높이는 데이터팩이 포함되어 있습니다. 첫 플레이에서는 $(item)보통$() 난이도를 권장합니다. $(item)어려움$()은 실력을 제대로 시험할 것입니다.$(br2)특히 $(item)하드코어$()는 조심하세요. 풍부한 지식이나 철저한 준비 없이는 살아남기 어렵습니다."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "게임에 익숙하고 단순한 능력치 증가 이상의 도전을 원한다면 다른 방법도 있습니다. 이어지는 페이지에서는 $(thing)사용자 지정 도전 모드$()를 소개하며, 각 모드를 켜거나 끄는 버튼을 제공합니다.$(br2)위더 스톰이 살아 있는 동안에는 도전을 켤 수 없지만, 끄는 것은 언제든 가능합니다. 원하는 만큼 여러 도전을 동시에 활성화할 수 있습니다."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "고요한 폭풍",
+            "text": "위더 스톰의 주변 소음과 음악이 사라집니다. 지하에서는 보스 체력 표시줄도 보이지 않습니다. 일부 공격의 소리는 그대로 들립니다.$(br2)$(c:/trigger Challenge set 1)클릭하여 켜기/끄기$()"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "파고 또 파고",
+            "text": "위더 스톰의 굴착 공격에 재사용 대기시간이 없어집니다.$(br2)$(c:/trigger Challenge set 2)클릭하여 켜기/끄기$()"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "불치병",
+            "text": "위더 스톰이 살아 있는 동안 모든 플레이어가 위더병에 영구적으로 감염됩니다. 황금 사과 스튜의 체력 회복 효과는 유지됩니다.$(br2)$(c:/trigger Challenge set 3)클릭하여 켜기/끄기$()"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "용의 성질",
+            "text": "위더 스톰이 한눈을 팔지 않습니다. 견인 광선이 더욱 공격적이고 강력해지며, 모든 사용자 지정 해골 공격에 강력하고 빠른 파란 해골을 사용합니다.$(br2)$(c:/trigger Challenge set 4)클릭하여 켜기/끄기$()"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "시듦의 종말",
+            "text": "감염될 수 있는 모든 몹이 즉시 강력한 감염 변종으로 바뀝니다.$(br2)$(c:/trigger Challenge set 5)클릭하여 켜기/끄기$()"
+        }
+    ]
+}

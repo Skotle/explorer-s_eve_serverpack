@@ -1,0 +1,15 @@
+{
+    "name": "추가 음악",
+    "icon": "minecraft:music_disc_otherside",
+    "category": "patchouli:essentials",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Explorer's Eve에는 다양한 추가 음악이 있으며, 모두 $(thing)음반$() 항목으로 재생됩니다. 재생 자체를 끌 수는 없지만 $(thing)음반$() 음량을 0으로 내리면 들리지 않습니다. 단, Cracker's Wither Storm Mod의 보스 테마는 $(thing)음악$() 항목으로 재생됩니다.$(br2)사용된 음악의 전체 목록은 모드팩 페이지에서 확인하세요!"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "콘텐츠 제작자에게: 모드팩 제작자는 사용된 음악에서 저작권 문제를 겪은 적이 없으며, 해당 음악이 포함된 영상이 수익 창출 제한이나 음소거 처리를 받은 사례도 아직 보지 못했습니다. 문제가 생기면 모드팩 제작자에게 알려 주세요. 이곳에 경고를 추가하겠습니다!"
+        }
+    ]
+}

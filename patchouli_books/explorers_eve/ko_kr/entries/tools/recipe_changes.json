@@ -1,0 +1,26 @@
+{
+    "name": "변경된 조합법",
+    "icon": "minecraft:saddle",
+    "category": "patchouli:tools",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "조합법 변경으로 일부 아이템이 더욱 실용적이 되었습니다. 예를 들어 안장과 모든 종류의 말 갑옷을 쉽게 만들 수 있고, 말의 $(thing)이동 속도도 빨라져$() 쓸 만한 이동 수단이 되었습니다!$(br2)호기심을 가져 보세요! 여유가 생기면 JEI에서 가진 재료를 어디에 쓸 수 있는지 확인하세요!$(br2)다음은 몇 가지 예시입니다."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "aether:aether_saddle",
+            "recipe2": "minecraft:golden_horse_armor"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:bundle",
+            "recipe2": "cataclysm:void_scatter_arrow"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "twilightforest:magic_map_focus",
+            "recipe2": "twilightforest:ore_map"
+        }
+    ]
+}

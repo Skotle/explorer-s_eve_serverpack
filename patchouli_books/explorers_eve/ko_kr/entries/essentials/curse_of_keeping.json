@@ -1,0 +1,18 @@
+{
+    "name": "보존의 저주",
+    "icon": "twilightforest:charm_of_keeping_3",
+    "category": "patchouli:essentials",
+    "advancement": "explorers_eve:book/phase_6",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "에버브라이트와 에버던에는 $(thing)보존의 저주$()가 걸려 있어 대부분의 아이템을 가져갈 수 없습니다. 명령 블록 부품, 아뮬렛, 착용 중인 장신구, 그리고 이 저주를 만든 우민 마법사들이 가장 아끼는 보물 등 극소수만 예외입니다."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "보존의 부적",
+            "item": "minecraft:carrot_on_a_stick{CustomModelData:3,display:{Name:\\'{\"text\":\"Charm of Keeping\",\"color\":\"yellow\",\"italic\":false}\\'}}",
+            "text": "저주를 해제하는 유일한 방법은 에버브라이트와 에버던의 가장 위험한 던전에서 발견되는 $(item)보존의 부적$()을 사용하는 것입니다.$(br2)저주를 해제하더라도 다른 차원에서 가져온 아이템은 이곳에서 제 성능을 내지 못한다는 점에 주의하세요!"
+        }
+    ]
+}

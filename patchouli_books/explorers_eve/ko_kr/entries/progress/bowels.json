@@ -1,0 +1,26 @@
+{
+    "name": "5. 최후의 전투",
+    "icon": "witherstormmod:tainted_flesh_block",
+    "category": "patchouli:progress",
+    "advancement": "explorers_eve:book/bowels",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "명령 블록을 만드는 마지막 재료인 $(item)마법이 부여된 명령 블록 책$()은 구하기가 훨씬 어렵습니다. 기존 명령 블록에서 마법을 빌려와야 합니다... 다시 말해 위더 스톰 안으로 들어가 녀석이 집어삼킨 잔해를 뒤져야 합니다."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "위더 스톰에게 다가가 시든 공생체를 한 번 더 처치하면 그 충격으로 위더 스톰의 머리 위에 통로가 뚫립니다. $(item)엔더 진주$()를 사용하면 들어가기 쉬우며, 가능하면 $(item)쇠뇌$()로 발사하세요. 안에서는 위더 스톰이 삼킨 것들의 오염된 잔해를 수색할 수 있습니다.$(br2)철저히 준비하세요! 적당히 마법을 부여한 다이아몬드 장비를 목표로 하고 조명을 넉넉히 가져가세요!"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "살아남아 책에 필요한 $(item)마법 종이$() 세 장을 찾으면 명령 블록을 완성할 수 있습니다. 대장장이 작업대에서 차로아이트 도구나 무기와 결합하면 위더 스톰의 동력인 명령 블록에 피해를 줄 무기가 마침내 완성됩니다.$(br2)주의하세요. 이 미궁 안에서 부활 지점을 설정하지 않은 채 죽으면 시체가 위더 스톰 아래로 떨어집니다."
+        },
+        {
+            "type": "patchouli:crafting",
+            "title": "명령 블록",
+            "recipe": "witherstormmod:command_block_book",
+            "recipe2": "minecraft:command_block"
+        }
+    ]
+}

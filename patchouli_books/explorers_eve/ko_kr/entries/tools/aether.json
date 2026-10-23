@@ -1,0 +1,37 @@
+{
+    "name": "에테르",
+    "icon": "aether:ambrosium_shard",
+    "category": "patchouli:tools",
+    "advancement": "explorers_eve:book/super_tnt",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "에테르는 구름 위 높은 곳에 있는 세계입니다. 아래로 떨어지면 오버월드로 추락하니 항상 낙하에 대비하세요! 차가운 에어클라우드나 황금 에어클라우드로 만든 $(item)낙하산$()이 도움이 됩니다. $(br2)공중 섬 사이의 간격은 대체로 넓습니다. 현지 생물을 활용하면 더 편하게 이동할 수 있습니다."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "aether:ambrosium_shard",
+            "text": "에테르에서는 산소가 부족해 횃불이 타지 않습니다. 대신 $(item)암브로슘$() 횃불을 사용하세요! 암브로슘은 다른 용도도 많습니다. 제단과 화로의 연료가 되고, 잔디에 마법을 부여해 열매 덤불의 수확량을 늘리거나 $(item)치유석$()을 만드는 데에도 쓰입니다."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "aether:zanite_gemstone",
+            "text": "에테르의 기본 재료인 보석입니다. $(item)자나이트$()로 만든 갑옷과 도구는 내구도가 줄어들수록 $(thing)더 강력해집니다$(). 암브로슘을 연료로 여러 아이템에 마법을 부여하는 제단이나, 길들인 모아를 앉히는 자연의 지팡이도 만들 수 있습니다!"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "deep_aether:skyjade",
+            "text": "희귀한 $(item)스카이제이드$() 보석으로는 매우 강력한 도구와 갑옷을 만들 수 있습니다. 하지만 내구도가 줄면 성능이 빠르게 떨어지며, $(thing)마법을 부여할 수 없습니다$()."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "aether:enchanted_gravitite",
+            "text": "$(item)그라비타이트$()는 다이아몬드와 비슷한 성능을 지닙니다. 검은 몬스터를 하늘로 날려 보내고, 도구는 블록을 떠오르게 하며, 장갑까지 포함한 갑옷 전체 세트를 입으면 아주 높이 뛸 수 있습니다!$(br2)광석은 위에 천장이 없으면 $(thing)떠오르므로$() 날아가지 않게 주의하세요!"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "deep_aether:stratus_ingot",
+            "text": "에테르에서 얻을 수 있는 가장 강력한 재료입니다. $(item)스트라투스$() 장비는 모든 면에서 그라비타이트보다 우수합니다. 마법이 부여된 분홍색 에어클라우드에 에버브라이트의 팔사이트와 다채로운 에어클라우드를 결합해 만듭니다. 다채로운 에어클라우드는 에버던의 연금술 작업대에서 스털링 에어클라우드를 정화해 얻습니다."
+        }
+    ]
+}

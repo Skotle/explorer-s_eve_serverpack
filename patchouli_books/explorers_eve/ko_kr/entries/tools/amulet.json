@@ -1,0 +1,27 @@
+{
+    "name": "아뮬렛",
+    "icon": "witherstormmod:amulet",
+    "category": "patchouli:tools",
+    "advancement": "explorers_eve:book/phase_6",
+    "priority": "true",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(item)아뮬렛$()은 소지자에게 탁월한 감지 능력을 부여하는 강력한 도구입니다. 위더 스톰과 원하는 다른 개체까지의 거리를 정확히 추적할 수 있습니다. 또한 $(1)$(k:gui.xaero_open_map)$() 키로 지금까지 여행한 곳을 모두 보여주는 $(item)세계 지도$()를 열 수 있게 됩니다."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "witherstormmod:amulet",
+            "text": "아뮬렛을 든 채 개체를 향해 $(1)$(k:use)$()하면 맨 위 색상에 연결됩니다. $(1)$(k:sneak)$() 키를 누르면서 $(1)$(k:use)$()하면 아뮬렛을 돌려 선택한 색상을 바꿀 수 있습니다."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "아뮬렛에 연결한 개체와 같은 종류의 개체를 바라보면 해당 색상이 빛나기 시작합니다.$(br2)선택한 특정 개체만 추적하고 싶다면 아뮬렛과 $(item)발광석 가루$() 하나를 조합해 동작을 바꾸세요. $(item)오염된 가루$() 하나를 다시 더하면 개체 종류를 추적하는 방식으로 되돌릴 수 있습니다."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "witherstormmod:amulet_track_single",
+            "recipe2": "witherstormmod:amulet_track_type"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "name": "에버브라이트와 에버던",
+    "icon": "blue_skies:moonstone_shard",
+    "category": "patchouli:tools",
+    "advancement": "explorers_eve:book/phase_6",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "이 두 차원은 많은 자원과 작동 방식을 공유합니다. 가장 위험한 던전에서 얻는 $(item)열정의 점화기$()로 차원문을 켜거나, 오버월드의 무너진 차원문을 재활용해 만드는 $(item)공명기$()를 사용해야 들어갈 수 있습니다.$(br2)공명기는 임시 수단이라 차원문이 몇 분 만에 사라집니다!"
+        },
+        {
+            "type": "patchouli:crafting",
+            "title": "공명기",
+            "recipe": "cataclysm:monstrous_eye",
+            "recipe2": "cataclysm:flame_eye"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "에버브라이트와 에버던에는 각 차원 고유의 광석도 있습니다. 차원에 도착하면 발전 과제나 인벤토리의 $(item)푸른 일지$()를 확인해 자세히 알아보세요! 이 항목에서는 두 차원에 공통으로 존재하는 재료를 소개합니다."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "blue_skies:moonstone_shard",
+            "text": "신비로운 이 조각은 두 차원에서 주로 사용하는 광원입니다! 네 개를 조합하면 벽, 바닥, 천장에 놓을 수 있는 $(item)월장석$() 두 개가 됩니다. 먼 거리에서 공격할 창을 만드는 데에도 쓰입니다."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "blue_skies:pyrope_gem",
+            "text": "$(item)파이로프$()는 도구와 무기를 만드는 데 쓰입니다. 장비의 속도는 기대 이상이지만 내구도는 평범합니다. 광석을 제련할 필요가 없고 흔하므로 발견하면 바로 사용해 동굴 탐험의 속도를 높이세요!"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "blue_skies:aquite",
+            "text": "$(item)아콰이트$() 장비는 철과 매우 비슷합니다. 파이로프와 달리 에버브라이트와 에버던의 가장 단단한 광석도 캘 수 있으니, 평범해 보여도 놓치지 마세요!"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "blue_skies:diopside_gem",
+            "text": "$(item)다이옵사이드$()는 동굴의 가장 낮은 층에서 발견됩니다. 다이아몬드와 비슷하지만 차이도 있습니다. 무기는 더 강한 대신 공격 속도가 느리고, 갑옷은 방어 강도가 매우 높습니다."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "blue_skies:charoite",
+            "text": "$(item)차로아이트$()는 다이옵사이드와 비슷한 깊이에서 찾을 수 있지만, 대개 광석 한 블록씩만 나타납니다. 직접 제작한 차로아이트와 똑같이 사용할 수 있습니다.$(br2)$(item)공명기$()를 만드는 데 차로아이트가 필요하므로 오버월드로 돌아가려면 채굴을 해야 합니다!"
+        }
+    ]
+}

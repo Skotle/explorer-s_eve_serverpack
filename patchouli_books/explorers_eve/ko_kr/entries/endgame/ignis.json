@@ -1,0 +1,26 @@
+{
+    "name": "지옥의 투사",
+    "icon": "cataclysm:ignitium_ingot",
+    "category": "patchouli:endgame",
+    "advancement": "explorers_eve:book/star",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "황혼의 숲 가시 고원에는 거대한 $(thing)흰 성$()이 버려져 있습니다. 불꽃의 투사는 맞설 만한 적을 기다리지만, 누구도 그의 기대에 미치지 못했습니다.$(br2)$(item)점화된 망령$()들이 중앙 성채를 지키며, 쓰러뜨리면 창백한 재를 남깁니다."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "cataclysm:burning_ashes",
+            "text": "이 재를 시든 네더의 별 위에 뿌리면 $(item)이그니스$()의 주의를 끌 수 있습니다.$(br2)전투에서 죽을 가능성이 높지만, 이그니스는 별과 재를 돌려줍니다. $(thing)행운을 빕니다$()."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "이그니스의 가장 강력한 방어 수단은 뚫을 수 없는 $(item)방패$()입니다. 어떤 공격도 관통하지 못하므로 방패를 피해 공격하거나, 특정 보라색 투사체를 이그니스에게 $(item)튕겨내야$() 합니다.$(br2)또한 이그니스의 $(thing)주먹$()에 맞으면 기절합니다. 주먹을 휘두르려는 동작을 잘 보고 $(thing)막으세요$()!$(br2)"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "cataclysm:ignitium_ingot",
+            "text": "승리하면 $(item)이그니티움 주괴$()를 얻습니다. 불과 관련된 추가 능력이 있는 뛰어난 갑옷을 만들 수 있으며, $(item)기계식 융합 모루$()를 만든 뒤에는 강화된 명령 블록 검이나 곡괭이를 업그레이드하는 데에도 쓸 수 있습니다!"
+        }
+    ]
+}

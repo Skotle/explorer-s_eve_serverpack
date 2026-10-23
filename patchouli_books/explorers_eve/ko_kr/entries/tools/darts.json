@@ -1,0 +1,25 @@
+{
+    "name": "다트 발사기",
+    "icon": "aether:golden_dart_shooter",
+    "category": "patchouli:tools",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "다트는 또 다른 원거리 무기입니다. 모든 다트에는 종류가 맞는 발사기가 필요합니다. 매우 빠르게 발사되고 중력의 영향을 받지 않지만, 피해량은 화살보다 훨씬 낮습니다.$(br2)황금 다트는 기본형이며 황혼의 숲과 에테르 모두에서 쉽게 만들 수 있습니다."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "aether:golden_dart",
+            "recipe2": "aether:golden_dart_shooter"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "에테르에서는 암브로슘을 사용해 $(thing)제단$()에서 다트에 마법을 부여하여 위력을 높일 수 있습니다! 사용하려면 종류가 맞는 다트 발사기에도 마법을 부여해야 합니다.$(br2)마지막으로 다트에 독을 입혀 대상에게 $(thing)만취$() 효과를 줄 수 있습니다. 보스는 면역이지만 대부분의 몬스터는 한 발만 맞아도 제대로 행동하지 못합니다."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "aether:poison_dart",
+            "recipe2": "aether:poison_dart_shooter"
+        }
+    ]
+}

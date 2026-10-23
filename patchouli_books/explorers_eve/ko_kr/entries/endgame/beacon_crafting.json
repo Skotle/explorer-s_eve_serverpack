@@ -1,0 +1,51 @@
+{
+    "name": "신호기로 제작하기",
+    "icon": "witherstormmod:stone_command_block_pickaxe",
+    "category": "patchouli:endgame",
+    "advancement": "explorers_eve:book/star",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "시든 신호기는 효과를 부여하는 것 외에도 많은 일을 할 수 있습니다. 재료를 주면 유용한 아이템을 만들어 줍니다. $(thing)모든 조합법은 JEI에서 볼 수 있지만$(), 여기에도 정리해 두었습니다.$(br2)우선 신호기에 모래, 흙, 조약돌 중 하나를 8블록 넣으면 자동으로 $(thing)오염된 형태$()로 바뀝니다."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "마법이 부여된 책",
+            "item": "minecraft:enchanted_book",
+            "text": "시든 신호기에 책 한 권, 청금석 4개, 그리고 촉매 아이템 3개를 주면 책에 높은 수준의 마법을 부여합니다. 촉매로는 $(thing)마그마 블록, 꽁꽁 언 얼음, 바다 랜턴, 차가운 에어클라우드, 분광 화살, 흑요석, 경험치 병$()을 사용할 수 있습니다. 어떤 결과가 나오는지 실험해 보세요!"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "진화한 도구",
+            "item": "cataclysm:enderite_ingot",
+            "text": "오염된 살점 블록 4개와 오염된 가루 블록 4개로 $(item)감염된 강철 주괴$()를 만들 수 있습니다. 대장장이 작업대에서 명령 블록 도구와 결합하면 도구가 $(thing)진화$()해 더욱 강력해집니다!"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "twilightforest:armor_shard_cluster",
+            "text": "$(item)위더라이트$()를 얻고 신호기를 완성했다면 $(item)마법 종이$()를 직접 만들어 더 많은 도구를 제작할 수 있습니다! 종이 한 장, 메아리 조각 하나, 청금석 2개, 오염된 가루 4개가 필요합니다."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "아크 강화",
+            "item": "blue_skies:ethereal_arc{ArcLevel:2},blue_skies:life_arc{ArcLevel:2},blue_skies:nature_arc{ArcLevel:2},blue_skies:aquatic_arc{ArcLevel:2}",
+            "text": "신호기를 완성하면 발견한 아크에 힘을 $(thing)주입$()하여 강화할 수도 있습니다! 아크에 오염된 가루 2개와 위더라이트 주괴 하나를 합치면 됩니다.$(br2)이 아크들을 $(thing)한층 더$() 강화하는 방법도 있다면 좋을 텐데요..."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "파괴되지 않는 갑옷",
+            "item": "minecraft:obsidian",
+            "text": "갑옷을 $(thing)파괴 불가$()로 만들 수도 있습니다! 보조 신호기가 모두 갖춰진 신호기에 흑요석 4개와 위더라이트 주괴 4개를 주면 주변 모든 플레이어가 착용한 갑옷이 파괴되지 않게 됩니다.$(br2)방어력 자체가 높아지지는 않지만, 전투 중 갑옷이 부서질 걱정은 덜 수 있겠죠."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "보물 강화",
+            "item": "witherstormmod:tainted_dust",
+            "text": "일부 $(item)탐험가의 보물$()은 강화할 수 있습니다. 먼저 신호기에 위더라이트 주괴 2개와 오염된 가루 2개를 주어 준비시킨 다음, 강화할 보물을 넣으세요. 가능한 보물은 $(item)리치의 홀$(), $(item)구름 지팡이$(), $(item)잿불의 등불$(), $(item)처벌자$(), $(item)프로토타입 제타$()뿐입니다."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "이제 신호기로 온갖 종류의 $(thing)감염된 몹$()을 소환할 수도 있습니다. 조합 비용이 비싸지만, 분명 이유가 있겠죠?$(br2)이 밖에도 신호기로 할 수 있는 일은 더 있습니다. 이 분류의 다른 항목도 확인하세요!"
+        }
+    ]
+}
